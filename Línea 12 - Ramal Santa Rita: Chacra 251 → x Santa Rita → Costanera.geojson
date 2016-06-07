@@ -1,0 +1,2156 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/259491188",
+      "properties": {
+        "@id": "way/259491188",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9428654,
+            -27.3931059
+          ],
+          [
+            -55.94193,
+            -27.3932277
+          ],
+          [
+            -55.9410589,
+            -27.393324
+          ],
+          [
+            -55.9401908,
+            -27.3934294
+          ],
+          [
+            -55.9401297,
+            -27.3934382
+          ],
+          [
+            -55.9391813,
+            -27.3935895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263843560",
+      "properties": {
+        "@id": "way/263843560",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9480057,
+            -27.39486
+          ],
+          [
+            -55.9480594,
+            -27.3952617
+          ],
+          [
+            -55.9481419,
+            -27.3958789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396594553",
+      "properties": {
+        "@id": "way/396594553",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9481419,
+            -27.3958789
+          ],
+          [
+            -55.947772,
+            -27.3959797
+          ],
+          [
+            -55.9470901,
+            -27.3960593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47864808",
+      "properties": {
+        "@id": "way/47864808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9476935,
+            -27.3925253
+          ],
+          [
+            -55.9477055,
+            -27.3926145
+          ],
+          [
+            -55.9477171,
+            -27.3927017
+          ],
+          [
+            -55.9477789,
+            -27.3931637
+          ],
+          [
+            -55.9478545,
+            -27.3937289
+          ],
+          [
+            -55.9479036,
+            -27.3940965
+          ],
+          [
+            -55.9479308,
+            -27.3943
+          ],
+          [
+            -55.9480057,
+            -27.39486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256648268",
+      "properties": {
+        "@id": "way/256648268",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9470901,
+            -27.3960593
+          ],
+          [
+            -55.9470265,
+            -27.3960667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670136",
+      "properties": {
+        "@id": "way/318670136",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9453976,
+            -27.3927845
+          ],
+          [
+            -55.9459876,
+            -27.3927179
+          ],
+          [
+            -55.9466292,
+            -27.3926454
+          ],
+          [
+            -55.9467199,
+            -27.3926351
+          ],
+          [
+            -55.9476935,
+            -27.3925253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677059",
+      "properties": {
+        "@id": "way/318677059",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433218,
+            -27.3964326
+          ],
+          [
+            -55.943214,
+            -27.3956274
+          ],
+          [
+            -55.9430947,
+            -27.3947696
+          ],
+          [
+            -55.942982,
+            -27.3939588
+          ],
+          [
+            -55.9428654,
+            -27.3931059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364576303",
+      "properties": {
+        "@id": "way/364576303",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9434318,
+            -27.3964865
+          ],
+          [
+            -55.9433315,
+            -27.3964973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760868",
+      "properties": {
+        "@id": "way/388760868",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433315,
+            -27.3964973
+          ],
+          [
+            -55.9433218,
+            -27.3964326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736572",
+      "properties": {
+        "@id": "way/396736572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9470265,
+            -27.3960667
+          ],
+          [
+            -55.9461912,
+            -27.3961657
+          ],
+          [
+            -55.9460422,
+            -27.3961815
+          ],
+          [
+            -55.9452537,
+            -27.3962735
+          ],
+          [
+            -55.944315,
+            -27.3963831
+          ],
+          [
+            -55.9436204,
+            -27.3964645
+          ],
+          [
+            -55.9434318,
+            -27.3964865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974063",
+      "properties": {
+        "@id": "way/398974063",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452312,
+            -27.3928033
+          ],
+          [
+            -55.9453976,
+            -27.3927845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341964645",
+      "properties": {
+        "@id": "way/341964645",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9386904,
+            -27.3901208
+          ],
+          [
+            -55.9388035,
+            -27.3909114
+          ],
+          [
+            -55.9388876,
+            -27.3914988
+          ],
+          [
+            -55.9389435,
+            -27.3918897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413348164",
+      "properties": {
+        "@id": "way/413348164",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9389435,
+            -27.3918897
+          ],
+          [
+            -55.9389519,
+            -27.3919484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/413348165",
+      "properties": {
+        "@id": "way/413348165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9389519,
+            -27.3919484
+          ],
+          [
+            -55.9390462,
+            -27.3926073
+          ],
+          [
+            -55.9391813,
+            -27.3935895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341964642",
+      "properties": {
+        "@id": "way/341964642",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9386904,
+            -27.3901208
+          ],
+          [
+            -55.9377253,
+            -27.3902621
+          ],
+          [
+            -55.9368081,
+            -27.3903638
+          ],
+          [
+            -55.9358813,
+            -27.3904666
+          ],
+          [
+            -55.9350287,
+            -27.3905609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760869",
+      "properties": {
+        "@id": "way/388760869",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9349708,
+            -27.3905708
+          ],
+          [
+            -55.9349105,
+            -27.3905774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760870",
+      "properties": {
+        "@id": "way/388760870",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9350287,
+            -27.3905609
+          ],
+          [
+            -55.9349708,
+            -27.3905708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760872",
+      "properties": {
+        "@id": "way/388760872",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9339878,
+            -27.3839877
+          ],
+          [
+            -55.9331037,
+            -27.3840836
+          ],
+          [
+            -55.9322928,
+            -27.3841754
+          ],
+          [
+            -55.9321511,
+            -27.3841914
+          ],
+          [
+            -55.9312535,
+            -27.384291
+          ],
+          [
+            -55.9304323,
+            -27.3843819
+          ],
+          [
+            -55.9303558,
+            -27.3843906
+          ],
+          [
+            -55.9302532,
+            -27.384402
+          ],
+          [
+            -55.9293407,
+            -27.3844981
+          ],
+          [
+            -55.9284174,
+            -27.3845997
+          ],
+          [
+            -55.9275066,
+            -27.3847017
+          ],
+          [
+            -55.9267369,
+            -27.3847937
+          ],
+          [
+            -55.9265609,
+            -27.3848147
+          ],
+          [
+            -55.9259466,
+            -27.384882
+          ],
+          [
+            -55.9245363,
+            -27.3850262
+          ],
+          [
+            -55.9244003,
+            -27.3850401
+          ],
+          [
+            -55.923503,
+            -27.3851364
+          ],
+          [
+            -55.9229914,
+            -27.3851981
+          ],
+          [
+            -55.922869,
+            -27.3852128
+          ],
+          [
+            -55.9218843,
+            -27.3853283
+          ],
+          [
+            -55.9209684,
+            -27.3854317
+          ],
+          [
+            -55.9200606,
+            -27.3855326
+          ],
+          [
+            -55.9191033,
+            -27.3856386
+          ],
+          [
+            -55.919014,
+            -27.3855953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760874",
+      "properties": {
+        "@id": "way/388760874",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9349105,
+            -27.3905774
+          ],
+          [
+            -55.9347865,
+            -27.3897015
+          ],
+          [
+            -55.9346791,
+            -27.3889254
+          ],
+          [
+            -55.9345527,
+            -27.388107
+          ],
+          [
+            -55.9344283,
+            -27.387298
+          ],
+          [
+            -55.934427,
+            -27.3872197
+          ],
+          [
+            -55.9342939,
+            -27.3861744
+          ],
+          [
+            -55.9342065,
+            -27.3855673
+          ],
+          [
+            -55.9341294,
+            -27.3849994
+          ],
+          [
+            -55.9341003,
+            -27.3847912
+          ],
+          [
+            -55.9339878,
+            -27.3839877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257211594",
+      "properties": {
+        "@id": "way/257211594",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.919014,
+            -27.3855953
+          ],
+          [
+            -55.9186468,
+            -27.3856356
+          ],
+          [
+            -55.9182686,
+            -27.3856771
+          ],
+          [
+            -55.9174726,
+            -27.3857645
+          ],
+          [
+            -55.9164155,
+            -27.3858806
+          ],
+          [
+            -55.9159899,
+            -27.3859273
+          ],
+          [
+            -55.9154573,
+            -27.3859858
+          ],
+          [
+            -55.9153417,
+            -27.3860005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341067100",
+      "properties": {
+        "@id": "way/341067100",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9153417,
+            -27.3860005
+          ],
+          [
+            -55.9152683,
+            -27.3860086
+          ],
+          [
+            -55.9144651,
+            -27.3860969
+          ],
+          [
+            -55.9135127,
+            -27.3862019
+          ],
+          [
+            -55.9125438,
+            -27.3863081
+          ],
+          [
+            -55.9118809,
+            -27.3863968
+          ],
+          [
+            -55.9116535,
+            -27.3864272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677060",
+      "properties": {
+        "@id": "way/318677060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9078702,
+            -27.3868267
+          ],
+          [
+            -55.9076387,
+            -27.3868523
+          ],
+          [
+            -55.9068371,
+            -27.3869401
+          ],
+          [
+            -55.9062401,
+            -27.3870057
+          ],
+          [
+            -55.905263,
+            -27.387113
+          ],
+          [
+            -55.9041099,
+            -27.3872396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113113",
+      "properties": {
+        "@id": "way/33113113",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9041099,
+            -27.3872396
+          ],
+          [
+            -55.9027713,
+            -27.3873867
+          ],
+          [
+            -55.9017396,
+            -27.3875
+          ],
+          [
+            -55.9003745,
+            -27.3876499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340384433",
+      "properties": {
+        "@id": "way/340384433",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9116535,
+            -27.3864272
+          ],
+          [
+            -55.9115117,
+            -27.3864407
+          ],
+          [
+            -55.9105741,
+            -27.3865297
+          ],
+          [
+            -55.9094529,
+            -27.3866529
+          ],
+          [
+            -55.9093723,
+            -27.3866617
+          ],
+          [
+            -55.9084728,
+            -27.3867605
+          ],
+          [
+            -55.9078702,
+            -27.3868267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799965",
+      "properties": {
+        "@id": "way/293799965",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9003745,
+            -27.3876499
+          ],
+          [
+            -55.8993766,
+            -27.3877708
+          ],
+          [
+            -55.8991255,
+            -27.3877973
+          ],
+          [
+            -55.8984738,
+            -27.3878663
+          ],
+          [
+            -55.8979434,
+            -27.3879224
+          ],
+          [
+            -55.8975442,
+            -27.3879646
+          ],
+          [
+            -55.8967563,
+            -27.3880384
+          ],
+          [
+            -55.8966321,
+            -27.38805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350559",
+      "properties": {
+        "@id": "way/312350559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8924578,
+            -27.3851145
+          ],
+          [
+            -55.8925314,
+            -27.3856416
+          ],
+          [
+            -55.8925793,
+            -27.3859846
+          ],
+          [
+            -55.8926134,
+            -27.3862287
+          ],
+          [
+            -55.8926878,
+            -27.3867624
+          ],
+          [
+            -55.8928052,
+            -27.3876023
+          ],
+          [
+            -55.8929042,
+            -27.3883117
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.891541,
+            -27.378456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/354560060",
+      "properties": {
+        "@id": "way/354560060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8966321,
+            -27.38805
+          ],
+          [
+            -55.8965099,
+            -27.3880633
+          ],
+          [
+            -55.8955624,
+            -27.3881668
+          ],
+          [
+            -55.8947727,
+            -27.388253
+          ],
+          [
+            -55.8938663,
+            -27.388352
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357117019",
+      "properties": {
+        "@id": "way/357117019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89212,
+            -27.3826928
+          ],
+          [
+            -55.8921843,
+            -27.383154
+          ],
+          [
+            -55.8922063,
+            -27.3833187
+          ],
+          [
+            -55.8922239,
+            -27.3834376
+          ],
+          [
+            -55.8922448,
+            -27.3835659
+          ],
+          [
+            -55.8922674,
+            -27.3837042
+          ],
+          [
+            -55.8922771,
+            -27.3837802
+          ],
+          [
+            -55.8923318,
+            -27.3842106
+          ],
+          [
+            -55.8924293,
+            -27.3849257
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607397",
+      "properties": {
+        "@id": "way/254607397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891805,
+            -27.3803732
+          ],
+          [
+            -55.8918197,
+            -27.3804813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607398",
+      "properties": {
+        "@id": "way/254607398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89185,
+            -27.3807141
+          ],
+          [
+            -55.8918735,
+            -27.3809263
+          ],
+          [
+            -55.8919517,
+            -27.3815004
+          ],
+          [
+            -55.891995,
+            -27.3817971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607400",
+      "properties": {
+        "@id": "way/254607400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918197,
+            -27.3804813
+          ],
+          [
+            -55.8918353,
+            -27.3806084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696509",
+      "properties": {
+        "@id": "way/340696509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891541,
+            -27.378456
+          ],
+          [
+            -55.8916447,
+            -27.3792717
+          ],
+          [
+            -55.8916526,
+            -27.3793229
+          ],
+          [
+            -55.8916688,
+            -27.3794156
+          ],
+          [
+            -55.8916753,
+            -27.3794402
+          ],
+          [
+            -55.8917544,
+            -27.3800332
+          ],
+          [
+            -55.8917715,
+            -27.3801563
+          ],
+          [
+            -55.891805,
+            -27.3803732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341081146",
+      "properties": {
+        "@id": "way/341081146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891995,
+            -27.3817971
+          ],
+          [
+            -55.8920164,
+            -27.3819656
+          ],
+          [
+            -55.89212,
+            -27.3826928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381950159",
+      "properties": {
+        "@id": "way/381950159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918353,
+            -27.3806084
+          ],
+          [
+            -55.89185,
+            -27.3807141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113069",
+      "properties": {
+        "@id": "way/33113069",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300039403",
+      "properties": {
+        "@id": "way/300039403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.8914549,
+            -27.3748804
+          ],
+          [
+            -55.8925199,
+            -27.3747642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677071",
+      "properties": {
+        "@id": "way/318677071",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925199,
+            -27.3747642
+          ],
+          [
+            -55.8933688,
+            -27.3746715
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5813320,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 12 ramal Santa Rita sentido Chacra 251 - Costanera de la ciudad Posadas",
+              "from": "Chacra 251",
+              "name": "Línea 12 - Ramal Santa Rita: Chacra 251 → x Santa Rita → Costanera",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "12SR",
+              "route": "bus",
+              "to": "Costanera",
+              "type": "route",
+              "via": "Santa Rita"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    }
+  ]
+}

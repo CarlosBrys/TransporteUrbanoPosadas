@@ -1,0 +1,6516 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/256648269",
+      "properties": {
+        "@id": "way/256648269",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9396396,
+            -27.396841
+          ],
+          [
+            -55.9397775,
+            -27.3968245
+          ],
+          [
+            -55.9406031,
+            -27.3967332
+          ],
+          [
+            -55.941503,
+            -27.3966337
+          ],
+          [
+            -55.9423986,
+            -27.3965347
+          ],
+          [
+            -55.943122,
+            -27.3964547
+          ],
+          [
+            -55.9433218,
+            -27.3964326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263843560",
+      "properties": {
+        "@id": "way/263843560",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9480057,
+            -27.39486
+          ],
+          [
+            -55.9480594,
+            -27.3952617
+          ],
+          [
+            -55.9481419,
+            -27.3958789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364576305",
+      "properties": {
+        "@id": "way/364576305",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.943218,
+            -27.396507
+          ],
+          [
+            -55.9424076,
+            -27.3965984
+          ],
+          [
+            -55.9415119,
+            -27.3966995
+          ],
+          [
+            -55.9406128,
+            -27.396801
+          ],
+          [
+            -55.9396515,
+            -27.3969095
+          ],
+          [
+            -55.9386922,
+            -27.3970178
+          ],
+          [
+            -55.9377701,
+            -27.3971219
+          ],
+          [
+            -55.9368201,
+            -27.3972291
+          ],
+          [
+            -55.9359729,
+            -27.3973248
+          ],
+          [
+            -55.9358586,
+            -27.3973574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396594553",
+      "properties": {
+        "@id": "way/396594553",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9481419,
+            -27.3958789
+          ],
+          [
+            -55.947772,
+            -27.3959797
+          ],
+          [
+            -55.9470901,
+            -27.3960593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/47864808",
+      "properties": {
+        "@id": "way/47864808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9476935,
+            -27.3925253
+          ],
+          [
+            -55.9477055,
+            -27.3926145
+          ],
+          [
+            -55.9477171,
+            -27.3927017
+          ],
+          [
+            -55.9477789,
+            -27.3931637
+          ],
+          [
+            -55.9478545,
+            -27.3937289
+          ],
+          [
+            -55.9479036,
+            -27.3940965
+          ],
+          [
+            -55.9479308,
+            -27.3943
+          ],
+          [
+            -55.9480057,
+            -27.39486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256648268",
+      "properties": {
+        "@id": "way/256648268",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9470901,
+            -27.3960593
+          ],
+          [
+            -55.9470265,
+            -27.3960667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670136",
+      "properties": {
+        "@id": "way/318670136",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9453976,
+            -27.3927845
+          ],
+          [
+            -55.9459876,
+            -27.3927179
+          ],
+          [
+            -55.9466292,
+            -27.3926454
+          ],
+          [
+            -55.9467199,
+            -27.3926351
+          ],
+          [
+            -55.9476935,
+            -27.3925253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364576303",
+      "properties": {
+        "@id": "way/364576303",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9434318,
+            -27.3964865
+          ],
+          [
+            -55.9433315,
+            -27.3964973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760879",
+      "properties": {
+        "@id": "way/388760879",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433315,
+            -27.3964973
+          ],
+          [
+            -55.943218,
+            -27.396507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736572",
+      "properties": {
+        "@id": "way/396736572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9470265,
+            -27.3960667
+          ],
+          [
+            -55.9461912,
+            -27.3961657
+          ],
+          [
+            -55.9460422,
+            -27.3961815
+          ],
+          [
+            -55.9452537,
+            -27.3962735
+          ],
+          [
+            -55.944315,
+            -27.3963831
+          ],
+          [
+            -55.9436204,
+            -27.3964645
+          ],
+          [
+            -55.9434318,
+            -27.3964865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974063",
+      "properties": {
+        "@id": "way/398974063",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452312,
+            -27.3928033
+          ],
+          [
+            -55.9453976,
+            -27.3927845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370325",
+      "properties": {
+        "@id": "way/340370325",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9284201,
+            -27.3981288
+          ],
+          [
+            -55.9284253,
+            -27.3981658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364575024",
+      "properties": {
+        "@id": "way/364575024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9358586,
+            -27.3973574
+          ],
+          [
+            -55.9341582,
+            -27.3975423
+          ],
+          [
+            -55.9340183,
+            -27.3975575
+          ],
+          [
+            -55.9323661,
+            -27.3977372
+          ],
+          [
+            -55.9322032,
+            -27.397755
+          ],
+          [
+            -55.9321428,
+            -27.3977615
+          ],
+          [
+            -55.9320928,
+            -27.397767
+          ],
+          [
+            -55.9311795,
+            -27.3978663
+          ],
+          [
+            -55.9302808,
+            -27.397964
+          ],
+          [
+            -55.9293638,
+            -27.3980638
+          ],
+          [
+            -55.9286119,
+            -27.3981455
+          ],
+          [
+            -55.9284253,
+            -27.3981658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370336",
+      "properties": {
+        "@id": "way/340370336",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9359629,
+            -27.3972515
+          ],
+          [
+            -55.9360944,
+            -27.397231
+          ],
+          [
+            -55.9368094,
+            -27.3971523
+          ],
+          [
+            -55.9375078,
+            -27.3970754
+          ],
+          [
+            -55.9377603,
+            -27.3970477
+          ],
+          [
+            -55.9386834,
+            -27.3969462
+          ],
+          [
+            -55.9396396,
+            -27.396841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677057",
+      "properties": {
+        "@id": "way/318677057",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9284122,
+            -27.3980727
+          ],
+          [
+            -55.9284201,
+            -27.3981288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670132",
+      "properties": {
+        "@id": "way/318670132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9269972,
+            -27.3881276
+          ],
+          [
+            -55.9270281,
+            -27.3882607
+          ],
+          [
+            -55.9271129,
+            -27.3889313
+          ],
+          [
+            -55.9272214,
+            -27.3896031
+          ],
+          [
+            -55.9272488,
+            -27.3897933
+          ],
+          [
+            -55.9273542,
+            -27.3905249
+          ],
+          [
+            -55.9273633,
+            -27.3905892
+          ],
+          [
+            -55.9274802,
+            -27.3914006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356778494",
+      "properties": {
+        "@id": "way/356778494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.927988,
+            -27.3950497
+          ],
+          [
+            -55.9280758,
+            -27.3956669
+          ],
+          [
+            -55.9281853,
+            -27.3964504
+          ],
+          [
+            -55.9282256,
+            -27.3967386
+          ],
+          [
+            -55.9282992,
+            -27.3972643
+          ],
+          [
+            -55.9284122,
+            -27.3980727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370326",
+      "properties": {
+        "@id": "way/340370326",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9279667,
+            -27.3947803
+          ],
+          [
+            -55.9279802,
+            -27.394995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381005",
+      "properties": {
+        "@id": "way/340381005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9274802,
+            -27.3914006
+          ],
+          [
+            -55.9275004,
+            -27.3915413
+          ],
+          [
+            -55.9276116,
+            -27.3923138
+          ],
+          [
+            -55.9277261,
+            -27.3931095
+          ],
+          [
+            -55.9277424,
+            -27.3932224
+          ],
+          [
+            -55.9278456,
+            -27.3939392
+          ],
+          [
+            -55.9279667,
+            -27.3947803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356778493",
+      "properties": {
+        "@id": "way/356778493",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9279802,
+            -27.394995
+          ],
+          [
+            -55.927988,
+            -27.3950497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299601831",
+      "properties": {
+        "@id": "way/299601831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9194864,
+            -27.388931
+          ],
+          [
+            -55.919236,
+            -27.3889591
+          ],
+          [
+            -55.9187302,
+            -27.3890157
+          ],
+          [
+            -55.9183854,
+            -27.3890544
+          ],
+          [
+            -55.9177821,
+            -27.389122
+          ],
+          [
+            -55.916706,
+            -27.3892426
+          ],
+          [
+            -55.9159201,
+            -27.3893307
+          ],
+          [
+            -55.9158277,
+            -27.3893471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670139",
+      "properties": {
+        "@id": "way/318670139",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9269972,
+            -27.3881276
+          ],
+          [
+            -55.9260879,
+            -27.3882279
+          ],
+          [
+            -55.9251945,
+            -27.3883275
+          ],
+          [
+            -55.9248659,
+            -27.3883642
+          ],
+          [
+            -55.9243493,
+            -27.3884219
+          ],
+          [
+            -55.9242721,
+            -27.3884305
+          ],
+          [
+            -55.9233014,
+            -27.3885388
+          ],
+          [
+            -55.9223476,
+            -27.3886453
+          ],
+          [
+            -55.9222841,
+            -27.3886524
+          ],
+          [
+            -55.9214442,
+            -27.3887461
+          ],
+          [
+            -55.9205281,
+            -27.3888484
+          ],
+          [
+            -55.9196185,
+            -27.3889503
+          ],
+          [
+            -55.9194864,
+            -27.388931
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340384438",
+      "properties": {
+        "@id": "way/340384438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9158277,
+            -27.3893471
+          ],
+          [
+            -55.9157537,
+            -27.3893553
+          ],
+          [
+            -55.9154759,
+            -27.3893858
+          ],
+          [
+            -55.9149655,
+            -27.3894419
+          ],
+          [
+            -55.9149322,
+            -27.3894456
+          ],
+          [
+            -55.9139375,
+            -27.389555
+          ],
+          [
+            -55.9136869,
+            -27.3895825
+          ],
+          [
+            -55.9130108,
+            -27.3896569
+          ],
+          [
+            -55.9122972,
+            -27.3897353
+          ],
+          [
+            -55.9120988,
+            -27.3897502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262941554",
+      "properties": {
+        "@id": "way/262941554",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9083425,
+            -27.3901701
+          ],
+          [
+            -55.9083727,
+            -27.3903849
+          ],
+          [
+            -55.9085411,
+            -27.391587
+          ],
+          [
+            -55.908673,
+            -27.3925295
+          ],
+          [
+            -55.9087773,
+            -27.3932738
+          ],
+          [
+            -55.9088091,
+            -27.3934757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670144",
+      "properties": {
+        "@id": "way/318670144",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9120988,
+            -27.3897502
+          ],
+          [
+            -55.9121227,
+            -27.3899278
+          ],
+          [
+            -55.9122056,
+            -27.390493
+          ],
+          [
+            -55.9122319,
+            -27.3906937
+          ],
+          [
+            -55.912294,
+            -27.3911729
+          ],
+          [
+            -55.9123046,
+            -27.3912234
+          ],
+          [
+            -55.912393,
+            -27.3918834
+          ],
+          [
+            -55.9124074,
+            -27.3919867
+          ],
+          [
+            -55.9124254,
+            -27.3921155
+          ],
+          [
+            -55.9124568,
+            -27.392335
+          ],
+          [
+            -55.9125541,
+            -27.3930592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670137",
+      "properties": {
+        "@id": "way/318670137",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9129904,
+            -27.3964521
+          ],
+          [
+            -55.9125527,
+            -27.3965151
+          ],
+          [
+            -55.912119,
+            -27.3965601
+          ],
+          [
+            -55.9111422,
+            -27.3966694
+          ],
+          [
+            -55.9103325,
+            -27.3967558
+          ],
+          [
+            -55.9102086,
+            -27.396769
+          ],
+          [
+            -55.9092811,
+            -27.3968703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677068",
+      "properties": {
+        "@id": "way/318677068",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092715,
+            -27.3967966
+          ],
+          [
+            -55.9092762,
+            -27.396833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677072",
+      "properties": {
+        "@id": "way/318677072",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9129803,
+            -27.3963802
+          ],
+          [
+            -55.9129856,
+            -27.3964181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381020",
+      "properties": {
+        "@id": "way/340381020",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9125541,
+            -27.3930592
+          ],
+          [
+            -55.9126374,
+            -27.3939215
+          ],
+          [
+            -55.912673,
+            -27.394177
+          ],
+          [
+            -55.9127528,
+            -27.3947492
+          ],
+          [
+            -55.9128273,
+            -27.395283
+          ],
+          [
+            -55.9128647,
+            -27.3955517
+          ],
+          [
+            -55.9129803,
+            -27.3963802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340382449",
+      "properties": {
+        "@id": "way/340382449",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088091,
+            -27.3934757
+          ],
+          [
+            -55.9088496,
+            -27.3937666
+          ],
+          [
+            -55.9089279,
+            -27.3943293
+          ],
+          [
+            -55.9090432,
+            -27.395157
+          ],
+          [
+            -55.909082,
+            -27.3954354
+          ],
+          [
+            -55.909155,
+            -27.3959595
+          ],
+          [
+            -55.9092461,
+            -27.3966143
+          ],
+          [
+            -55.9092715,
+            -27.3967966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370224915",
+      "properties": {
+        "@id": "way/370224915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092762,
+            -27.396833
+          ],
+          [
+            -55.9092811,
+            -27.3968703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396610316",
+      "properties": {
+        "@id": "way/396610316",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9129856,
+            -27.3964181
+          ],
+          [
+            -55.9129904,
+            -27.3964521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262941556",
+      "properties": {
+        "@id": "way/262941556",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9078702,
+            -27.3868267
+          ],
+          [
+            -55.9079013,
+            -27.38705
+          ],
+          [
+            -55.9080062,
+            -27.3878034
+          ],
+          [
+            -55.9080706,
+            -27.3882657
+          ],
+          [
+            -55.9081981,
+            -27.3891807
+          ],
+          [
+            -55.908313,
+            -27.3899587
+          ],
+          [
+            -55.9083425,
+            -27.3901701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566395",
+      "properties": {
+        "@id": "way/340566395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9074067,
+            -27.3834994
+          ],
+          [
+            -55.9074521,
+            -27.3838255
+          ],
+          [
+            -55.9075409,
+            -27.384463
+          ],
+          [
+            -55.9076032,
+            -27.3849103
+          ],
+          [
+            -55.9077381,
+            -27.3858785
+          ],
+          [
+            -55.9078241,
+            -27.3864958
+          ],
+          [
+            -55.9078702,
+            -27.3868267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572038",
+      "properties": {
+        "@id": "way/340572038",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9064801,
+            -27.3768286
+          ],
+          [
+            -55.9065729,
+            -27.3775015
+          ],
+          [
+            -55.9065799,
+            -27.3775524
+          ],
+          [
+            -55.9065968,
+            -27.3776748
+          ],
+          [
+            -55.9066034,
+            -27.3777229
+          ],
+          [
+            -55.9067468,
+            -27.3787625
+          ],
+          [
+            -55.9067568,
+            -27.3788353
+          ],
+          [
+            -55.9068977,
+            -27.3798564
+          ],
+          [
+            -55.9069391,
+            -27.3801424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566394",
+      "properties": {
+        "@id": "way/340566394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9069391,
+            -27.3801424
+          ],
+          [
+            -55.9069707,
+            -27.3803692
+          ],
+          [
+            -55.907057,
+            -27.3809889
+          ],
+          [
+            -55.9070931,
+            -27.3812479
+          ],
+          [
+            -55.9071712,
+            -27.3818087
+          ],
+          [
+            -55.9072835,
+            -27.3826146
+          ],
+          [
+            -55.9073822,
+            -27.3833235
+          ],
+          [
+            -55.9074067,
+            -27.3834994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670142",
+      "properties": {
+        "@id": "way/318670142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9061253,
+            -27.3743293
+          ],
+          [
+            -55.9061404,
+            -27.374438
+          ],
+          [
+            -55.9062768,
+            -27.3754131
+          ],
+          [
+            -55.9064063,
+            -27.3763396
+          ],
+          [
+            -55.9064801,
+            -27.3768286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605145",
+      "properties": {
+        "@id": "way/388605145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023022,
+            -27.3738755
+          ],
+          [
+            -55.9022679,
+            -27.3739391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228303240",
+      "properties": {
+        "@id": "way/228303240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022679,
+            -27.3739391
+          ],
+          [
+            -55.9022048,
+            -27.3739724
+          ],
+          [
+            -55.9021318,
+            -27.373978
+          ],
+          [
+            -55.9020633,
+            -27.3739549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106567",
+      "properties": {
+        "@id": "way/383106567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.902062,
+            -27.3737054
+          ],
+          [
+            -55.9021016,
+            -27.3736951
+          ],
+          [
+            -55.9021547,
+            -27.3736873
+          ],
+          [
+            -55.9022078,
+            -27.3736952
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663260",
+      "properties": {
+        "@id": "way/38663260",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9018632,
+            -27.3739838
+          ],
+          [
+            -55.9009433,
+            -27.3740842
+          ],
+          [
+            -55.8999037,
+            -27.3741977
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726917",
+      "properties": {
+        "@id": "way/308726917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.896761,
+            -27.3745334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541690",
+      "properties": {
+        "@id": "way/388541690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9020097,
+            -27.3739026
+          ],
+          [
+            -55.9019901,
+            -27.3738342
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746778",
+      "properties": {
+        "@id": "way/281746778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8947616,
+            -27.3747601
+          ],
+          [
+            -55.8946548,
+            -27.3747722
+          ],
+          [
+            -55.8937994,
+            -27.3748691
+          ],
+          [
+            -55.8936142,
+            -27.3748901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746790",
+      "properties": {
+        "@id": "way/281746790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8936142,
+            -27.3748901
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834476",
+      "properties": {
+        "@id": "way/268834476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896761,
+            -27.3745334
+          ],
+          [
+            -55.8957326,
+            -27.37465
+          ],
+          [
+            -55.8955524,
+            -27.3746703
+          ],
+          [
+            -55.8947616,
+            -27.3747601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782376",
+      "properties": {
+        "@id": "way/222782376",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004786,
+            -27.3604936
+          ],
+          [
+            -55.9013036,
+            -27.3603985
+          ],
+          [
+            -55.9016269,
+            -27.3603612
+          ],
+          [
+            -55.9023617,
+            -27.3602804
+          ],
+          [
+            -55.9028519,
+            -27.3602264
+          ],
+          [
+            -55.9037841,
+            -27.3601241
+          ],
+          [
+            -55.9041316,
+            -27.360086
+          ],
+          [
+            -55.9049324,
+            -27.3599844
+          ],
+          [
+            -55.9050948,
+            -27.3599638
+          ],
+          [
+            -55.9053577,
+            -27.3599375
+          ],
+          [
+            -55.9060108,
+            -27.359859
+          ],
+          [
+            -55.9066181,
+            -27.3597862
+          ],
+          [
+            -55.9069302,
+            -27.3597391
+          ],
+          [
+            -55.9076326,
+            -27.3596718
+          ],
+          [
+            -55.9078625,
+            -27.3596498
+          ],
+          [
+            -55.9089136,
+            -27.3595742
+          ],
+          [
+            -55.9091587,
+            -27.3595368
+          ],
+          [
+            -55.9092872,
+            -27.3594843
+          ],
+          [
+            -55.9093385,
+            -27.3594554
+          ],
+          [
+            -55.9094131,
+            -27.3594269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782375",
+      "properties": {
+        "@id": "way/222782375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004121,
+            -27.3603231
+          ],
+          [
+            -55.9004677,
+            -27.3603834
+          ],
+          [
+            -55.9004786,
+            -27.3604936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760880",
+      "properties": {
+        "@id": "way/388760880",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573479",
+      "properties": {
+        "@id": "way/43573479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8937209,
+            -27.3600693
+          ],
+          [
+            -55.8935887,
+            -27.3591491
+          ],
+          [
+            -55.8934871,
+            -27.358442
+          ],
+          [
+            -55.8934512,
+            -27.3581923
+          ],
+          [
+            -55.8933185,
+            -27.3572687
+          ],
+          [
+            -55.8932091,
+            -27.3565067
+          ],
+          [
+            -55.8931871,
+            -27.3563537
+          ],
+          [
+            -55.8931744,
+            -27.3562652
+          ],
+          [
+            -55.8931098,
+            -27.3558159
+          ],
+          [
+            -55.893057,
+            -27.3554482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396087435",
+      "properties": {
+        "@id": "way/396087435",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999883,
+            -27.3572331
+          ],
+          [
+            -55.9000249,
+            -27.3575002
+          ],
+          [
+            -55.9001516,
+            -27.358424
+          ],
+          [
+            -55.9002814,
+            -27.3593699
+          ],
+          [
+            -55.9002848,
+            -27.3593951
+          ],
+          [
+            -55.90039,
+            -27.3601617
+          ],
+          [
+            -55.9004121,
+            -27.3603231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396089473",
+      "properties": {
+        "@id": "way/396089473",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8950226,
+            -27.3542587
+          ],
+          [
+            -55.896039,
+            -27.3541521
+          ],
+          [
+            -55.8970767,
+            -27.3540434
+          ],
+          [
+            -55.8976187,
+            -27.3539867
+          ],
+          [
+            -55.8980101,
+            -27.3539456
+          ],
+          [
+            -55.898136,
+            -27.3539324
+          ],
+          [
+            -55.8988989,
+            -27.3538524
+          ],
+          [
+            -55.8995157,
+            -27.3537878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670138",
+      "properties": {
+        "@id": "way/318670138",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8995157,
+            -27.3537878
+          ],
+          [
+            -55.8995227,
+            -27.3538561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677064",
+      "properties": {
+        "@id": "way/318677064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996394,
+            -27.3546897
+          ],
+          [
+            -55.8997435,
+            -27.3554488
+          ],
+          [
+            -55.8997556,
+            -27.3555367
+          ],
+          [
+            -55.8997693,
+            -27.3556366
+          ],
+          [
+            -55.8998942,
+            -27.3565476
+          ],
+          [
+            -55.8999293,
+            -27.3568031
+          ],
+          [
+            -55.8999702,
+            -27.3571016
+          ],
+          [
+            -55.8999883,
+            -27.3572331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340855729",
+      "properties": {
+        "@id": "way/340855729",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8995227,
+            -27.3538561
+          ],
+          [
+            -55.8996394,
+            -27.3546897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/143890973",
+      "properties": {
+        "@id": "way/143890973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8939843,
+            -27.3543675
+          ],
+          [
+            -55.8947558,
+            -27.3542866
+          ],
+          [
+            -55.8950226,
+            -27.3542587
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255443036",
+      "properties": {
+        "@id": "way/255443036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8929761,
+            -27.3548853
+          ],
+          [
+            -55.8930281,
+            -27.3547398
+          ],
+          [
+            -55.8930895,
+            -27.3546715
+          ],
+          [
+            -55.8931586,
+            -27.3546282
+          ],
+          [
+            -55.8937299,
+            -27.3544478
+          ],
+          [
+            -55.8939843,
+            -27.3543675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340590822",
+      "properties": {
+        "@id": "way/340590822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.893057,
+            -27.3554482
+          ],
+          [
+            -55.8929761,
+            -27.3548853
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2621748162",
+      "properties": {
+        "@id": "node/2621748162",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9452312,
+          -27.3928033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273420",
+      "properties": {
+        "@id": "node/3212273420",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9461961,
+          -27.3962391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273425",
+      "properties": {
+        "@id": "node/3212273425",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9436295,
+          -27.3965152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273431",
+      "properties": {
+        "@id": "node/3212273431",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9461912,
+          -27.3961657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273432",
+      "properties": {
+        "@id": "node/3212273432",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9436204,
+          -27.3964645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250349329",
+      "properties": {
+        "@id": "node/3250349329",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9452058,
+          -27.3927666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250349332",
+      "properties": {
+        "@id": "node/3250349332",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9479582,
+          -27.3940927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250349337",
+      "properties": {
+        "@id": "node/3250349337",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9477171,
+          -27.3927017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250349339",
+      "properties": {
+        "@id": "node/3250349339",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9479036,
+          -27.3940965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250349343",
+      "properties": {
+        "@id": "node/3250349343",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9477525,
+          -27.3927018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273424",
+      "properties": {
+        "@id": "node/3212273424",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9361097,
+          -27.3973786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273422",
+      "properties": {
+        "@id": "node/3212273422",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9286089,
+          -27.3982249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273427",
+      "properties": {
+        "@id": "node/3212273427",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9341631,
+          -27.3976107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273430",
+      "properties": {
+        "@id": "node/3212273430",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9323895,
+          -27.3978207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273437",
+      "properties": {
+        "@id": "node/3212273437",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9341582,
+          -27.3975423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273439",
+      "properties": {
+        "@id": "node/3212273439",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9323661,
+          -27.3977372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273441",
+      "properties": {
+        "@id": "node/3212273441",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9286119,
+          -27.3981455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273428",
+      "properties": {
+        "@id": "node/3212273428",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9397904,
+          -27.3969429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273433",
+      "properties": {
+        "@id": "node/3212273433",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9397775,
+          -27.3968245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3212273434",
+      "properties": {
+        "@id": "node/3212273434",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9360944,
+          -27.397231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336009",
+      "properties": {
+        "@id": "node/3250336009",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9276333,
+          -27.3932352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336010",
+      "properties": {
+        "@id": "node/3250336010",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9274493,
+          -27.3915527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336011",
+      "properties": {
+        "@id": "node/3250336011",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.928201,
+          -27.3967448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336027",
+      "properties": {
+        "@id": "node/3250336027",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9275004,
+          -27.3915413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336029",
+      "properties": {
+        "@id": "node/3250336029",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9277424,
+          -27.3932224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336031",
+      "properties": {
+        "@id": "node/3250336031",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9282256,
+          -27.3967386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336008",
+      "properties": {
+        "@id": "node/3250336008",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9269645,
+          -27.3882715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336014",
+      "properties": {
+        "@id": "node/3250336014",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9222917,
+          -27.3887164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336015",
+      "properties": {
+        "@id": "node/3250336015",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.924371,
+          -27.3884765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336021",
+      "properties": {
+        "@id": "node/3250336021",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9270281,
+          -27.3882607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336022",
+      "properties": {
+        "@id": "node/3250336022",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9243493,
+          -27.3884219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336023",
+      "properties": {
+        "@id": "node/3250336023",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9222841,
+          -27.3886524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336016",
+      "properties": {
+        "@id": "node/3250336016",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9192404,
+          -27.3890256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336018",
+      "properties": {
+        "@id": "node/3250336018",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9154811,
+          -27.389465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336024",
+      "properties": {
+        "@id": "node/3250336024",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.919236,
+          -27.3889591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336025",
+      "properties": {
+        "@id": "node/3250336025",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9154759,
+          -27.3893858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339162",
+      "properties": {
+        "@id": "node/3178339162",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9088888,
+          -27.3954564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339193",
+      "properties": {
+        "@id": "node/3178339193",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9088496,
+          -27.3937666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339194",
+      "properties": {
+        "@id": "node/3178339194",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.909082,
+          -27.3954354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336012",
+      "properties": {
+        "@id": "node/3250336012",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9125688,
+          -27.3965794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336030",
+      "properties": {
+        "@id": "node/3250336030",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9125527,
+          -27.3965151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250399461",
+      "properties": {
+        "@id": "node/3250399461",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9103428,
+          -27.3968002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250399462",
+      "properties": {
+        "@id": "node/3250399462",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9103325,
+          -27.3967558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339171",
+      "properties": {
+        "@id": "node/3178339171",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9086414,
+          -27.3938036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336017",
+      "properties": {
+        "@id": "node/3250336017",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9122996,
+          -27.3897865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250336026",
+      "properties": {
+        "@id": "node/3250336026",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9122972,
+          -27.3897353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339164",
+      "properties": {
+        "@id": "node/3178339164",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9082321,
+          -27.390366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339173",
+      "properties": {
+        "@id": "node/3178339173",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9077465,
+          -27.3870234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339189",
+      "properties": {
+        "@id": "node/3178339189",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9079013,
+          -27.38705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339191",
+      "properties": {
+        "@id": "node/3178339191",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9083727,
+          -27.3903849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339168",
+      "properties": {
+        "@id": "node/3178339168",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9064867,
+          -27.3777283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339170",
+      "properties": {
+        "@id": "node/3178339170",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9068535,
+          -27.3803892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339178",
+      "properties": {
+        "@id": "node/3178339178",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9073023,
+          -27.3838346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339183",
+      "properties": {
+        "@id": "node/3178339183",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9066034,
+          -27.3777229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339185",
+      "properties": {
+        "@id": "node/3178339185",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9069707,
+          -27.3803692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339187",
+      "properties": {
+        "@id": "node/3178339187",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9074521,
+          -27.3838255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339180",
+      "properties": {
+        "@id": "node/3178339180",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9060074,
+          -27.3743385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3178339181",
+      "properties": {
+        "@id": "node/3178339181",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9061253,
+          -27.3743293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039827",
+      "properties": {
+        "@id": "node/3152039827",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9018886,
+          -27.3740345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039847",
+      "properties": {
+        "@id": "node/3152039847",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9018632,
+          -27.3739838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2670849599",
+      "properties": {
+        "@id": "node/2670849599",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893397,
+          -27.3738919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2670850511",
+      "properties": {
+        "@id": "node/2670850511",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893026,
+          -27.3711824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212135",
+      "properties": {
+        "@id": "node/3150212135",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893091,
+          -27.3711711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212137",
+      "properties": {
+        "@id": "node/3150212137",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8934641,
+          -27.3738876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039851",
+      "properties": {
+        "@id": "node/3152039851",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8955524,
+          -27.3746703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4225336937",
+      "properties": {
+        "@id": "node/4225336937",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8955605,
+          -27.3747328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2599778399",
+      "properties": {
+        "@id": "node/2599778399",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8922167,
+          -27.3654489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212088",
+      "properties": {
+        "@id": "node/3150212088",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.892518,
+          -27.3675692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212124",
+      "properties": {
+        "@id": "node/3150212124",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8923032,
+          -27.3654351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212128",
+      "properties": {
+        "@id": "node/3150212128",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8925945,
+          -27.3675562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375589",
+      "properties": {
+        "@id": "node/3250375589",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9076011,
+          -27.3595798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375590",
+      "properties": {
+        "@id": "node/3250375590",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9037801,
+          -27.3600326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375594",
+      "properties": {
+        "@id": "node/3250375594",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9076326,
+          -27.3596718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375597",
+      "properties": {
+        "@id": "node/3250375597",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9037841,
+          -27.3601241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375593",
+      "properties": {
+        "@id": "node/3250375593",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9013006,
+          -27.3603223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3250375599",
+      "properties": {
+        "@id": "node/3250375599",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9013036,
+          -27.3603985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212089",
+      "properties": {
+        "@id": "node/3150212089",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8919661,
+          -27.363613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212090",
+      "properties": {
+        "@id": "node/3150212090",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8916975,
+          -27.3617317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212113",
+      "properties": {
+        "@id": "node/3150212113",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8917926,
+          -27.3617169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212115",
+      "properties": {
+        "@id": "node/3150212115",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8920511,
+          -27.3635992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180120784",
+      "properties": {
+        "@id": "node/3180120784",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8934014,
+          -27.3584486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180120786",
+      "properties": {
+        "@id": "node/3180120786",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8934871,
+          -27.358442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660894",
+      "properties": {
+        "@id": "node/3155660894",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8980571,
+          -27.3538683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660896",
+      "properties": {
+        "@id": "node/3155660896",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9000463,
+          -27.3570378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660899",
+      "properties": {
+        "@id": "node/3155660899",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8980101,
+          -27.3539456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660904",
+      "properties": {
+        "@id": "node/3155660904",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8999702,
+          -27.3571016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660893",
+      "properties": {
+        "@id": "node/3155660893",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8947485,
+          -27.354194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660900",
+      "properties": {
+        "@id": "node/3155660900",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8947558,
+          -27.3542866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180120783",
+      "properties": {
+        "@id": "node/3180120783",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8931399,
+          -27.356519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3180120785",
+      "properties": {
+        "@id": "node/3180120785",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4420951,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 14 ramal avenida Ituzaingó sentido Chacra 251 - Centro Cívico de la ciudad Posadas.",
+              "from": "Chacra 251",
+              "name": "Línea 14 - Ramal B: Chacra 251 → x Ituzaingó → Centro Cívico",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "14B",
+              "route": "bus",
+              "to": "Centro Cívico",
+              "type": "route",
+              "via": "x Ituzaingó"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8932091,
+          -27.3565067
+        ]
+      }
+    }
+  ]
+}

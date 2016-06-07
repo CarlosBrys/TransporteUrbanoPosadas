@@ -1,0 +1,3561 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:23:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/92226762",
+      "properties": {
+        "@id": "way/92226762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9594807,
+            -27.4258882
+          ],
+          [
+            -55.9589807,
+            -27.42601
+          ],
+          [
+            -55.9582843,
+            -27.4261796
+          ],
+          [
+            -55.9576269,
+            -27.4263398
+          ],
+          [
+            -55.9570646,
+            -27.4264767
+          ],
+          [
+            -55.9567067,
+            -27.4265639
+          ],
+          [
+            -55.9565782,
+            -27.4265952
+          ],
+          [
+            -55.9560731,
+            -27.4267183
+          ],
+          [
+            -55.9555236,
+            -27.4268521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340040417",
+      "properties": {
+        "@id": "way/340040417",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9594807,
+            -27.4258882
+          ],
+          [
+            -55.9594197,
+            -27.4256849
+          ],
+          [
+            -55.9591562,
+            -27.4248081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031098",
+      "properties": {
+        "@id": "way/340031098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9591562,
+            -27.4248081
+          ],
+          [
+            -55.9588517,
+            -27.4237949
+          ],
+          [
+            -55.9586346,
+            -27.4230726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358539238",
+      "properties": {
+        "@id": "way/358539238",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9568141,
+            -27.4170147
+          ],
+          [
+            -55.9562506,
+            -27.4151394
+          ],
+          [
+            -55.9561342,
+            -27.4147521
+          ],
+          [
+            -55.9561119,
+            -27.414678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262550761",
+      "properties": {
+        "@id": "way/262550761",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9578061,
+            -27.4203155
+          ],
+          [
+            -55.9577219,
+            -27.4200355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262550762",
+      "properties": {
+        "@id": "way/262550762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9577219,
+            -27.4200355
+          ],
+          [
+            -55.9576489,
+            -27.4197924
+          ],
+          [
+            -55.9574975,
+            -27.4192887
+          ],
+          [
+            -55.957421,
+            -27.4190429
+          ],
+          [
+            -55.9573411,
+            -27.4187683
+          ],
+          [
+            -55.9572532,
+            -27.4184759
+          ],
+          [
+            -55.957114,
+            -27.4180125
+          ],
+          [
+            -55.9569358,
+            -27.4174196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031094",
+      "properties": {
+        "@id": "way/340031094",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9579499,
+            -27.4207941
+          ],
+          [
+            -55.9578982,
+            -27.420622
+          ],
+          [
+            -55.9578061,
+            -27.4203155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031097",
+      "properties": {
+        "@id": "way/340031097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9569358,
+            -27.4174196
+          ],
+          [
+            -55.9568737,
+            -27.4172129
+          ],
+          [
+            -55.9568141,
+            -27.4170147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370282104",
+      "properties": {
+        "@id": "way/370282104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9586346,
+            -27.4230726
+          ],
+          [
+            -55.9584948,
+            -27.4226074
+          ],
+          [
+            -55.9582792,
+            -27.4218899
+          ],
+          [
+            -55.9579499,
+            -27.4207941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031095",
+      "properties": {
+        "@id": "way/340031095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9561119,
+            -27.414678
+          ],
+          [
+            -55.9560857,
+            -27.4145908
+          ],
+          [
+            -55.955974,
+            -27.414219
+          ],
+          [
+            -55.9555134,
+            -27.4126861
+          ],
+          [
+            -55.9554737,
+            -27.412554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031096",
+      "properties": {
+        "@id": "way/340031096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9554737,
+            -27.412554
+          ],
+          [
+            -55.9554178,
+            -27.412368
+          ],
+          [
+            -55.9552152,
+            -27.4116939
+          ],
+          [
+            -55.9545384,
+            -27.4094415
+          ],
+          [
+            -55.9544951,
+            -27.4092973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227665",
+      "properties": {
+        "@id": "way/370227665",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9529314,
+            -27.4040933
+          ],
+          [
+            -55.9528257,
+            -27.4037416
+          ],
+          [
+            -55.9526757,
+            -27.4032426
+          ],
+          [
+            -55.9522528,
+            -27.4018351
+          ],
+          [
+            -55.9521957,
+            -27.4016451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877225",
+      "properties": {
+        "@id": "way/339877225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541142,
+            -27.4080297
+          ],
+          [
+            -55.954098,
+            -27.4079758
+          ],
+          [
+            -55.9540432,
+            -27.4077935
+          ],
+          [
+            -55.9539924,
+            -27.4076245
+          ],
+          [
+            -55.9538317,
+            -27.4070896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877226",
+      "properties": {
+        "@id": "way/339877226",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531094,
+            -27.4046859
+          ],
+          [
+            -55.9529314,
+            -27.4040933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031093",
+      "properties": {
+        "@id": "way/340031093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9544951,
+            -27.4092973
+          ],
+          [
+            -55.954204,
+            -27.4083288
+          ],
+          [
+            -55.9541567,
+            -27.4081712
+          ],
+          [
+            -55.9541142,
+            -27.4080297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227666",
+      "properties": {
+        "@id": "way/370227666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9538317,
+            -27.4070896
+          ],
+          [
+            -55.9536752,
+            -27.406569
+          ],
+          [
+            -55.9536489,
+            -27.4064814
+          ],
+          [
+            -55.9536243,
+            -27.4063993
+          ],
+          [
+            -55.9531646,
+            -27.4048694
+          ],
+          [
+            -55.9531094,
+            -27.4046859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877224",
+      "properties": {
+        "@id": "way/339877224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9521957,
+            -27.4016451
+          ],
+          [
+            -55.9518794,
+            -27.4005924
+          ],
+          [
+            -55.9516805,
+            -27.3999302
+          ],
+          [
+            -55.9515554,
+            -27.3995139
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727757",
+      "properties": {
+        "@id": "way/257727757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9460621,
+            -27.3996634
+          ],
+          [
+            -55.9457879,
+            -27.3996935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727758",
+      "properties": {
+        "@id": "way/257727758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9457879,
+            -27.3996935
+          ],
+          [
+            -55.9455387,
+            -27.3997226
+          ],
+          [
+            -55.9447151,
+            -27.399815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260707184",
+      "properties": {
+        "@id": "way/260707184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438578,
+            -27.3999084
+          ],
+          [
+            -55.9433124,
+            -27.3999707
+          ],
+          [
+            -55.9430805,
+            -27.3999994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962173",
+      "properties": {
+        "@id": "way/262962173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9447151,
+            -27.399815
+          ],
+          [
+            -55.944244,
+            -27.3998679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962174",
+      "properties": {
+        "@id": "way/262962174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.944244,
+            -27.3998679
+          ],
+          [
+            -55.9438578,
+            -27.3999084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736567",
+      "properties": {
+        "@id": "way/396736567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9474594,
+            -27.399507
+          ],
+          [
+            -55.9466016,
+            -27.3996033
+          ],
+          [
+            -55.9460621,
+            -27.3996634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877227",
+      "properties": {
+        "@id": "way/339877227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9430805,
+            -27.3999994
+          ],
+          [
+            -55.9428924,
+            -27.4000195
+          ],
+          [
+            -55.9419715,
+            -27.4001228
+          ],
+          [
+            -55.9418934,
+            -27.4001298
+          ],
+          [
+            -55.9411039,
+            -27.4002202
+          ],
+          [
+            -55.9401963,
+            -27.4003202
+          ],
+          [
+            -55.9401245,
+            -27.4003301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877229",
+      "properties": {
+        "@id": "way/339877229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9514201,
+            -27.3990635
+          ],
+          [
+            -55.950517,
+            -27.399164
+          ],
+          [
+            -55.9501498,
+            -27.3992052
+          ],
+          [
+            -55.9493056,
+            -27.3992999
+          ],
+          [
+            -55.9491901,
+            -27.3993113
+          ],
+          [
+            -55.9489742,
+            -27.3993371
+          ],
+          [
+            -55.9487541,
+            -27.3993685
+          ],
+          [
+            -55.9477973,
+            -27.3994691
+          ],
+          [
+            -55.9474594,
+            -27.399507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256924777",
+      "properties": {
+        "@id": "way/256924777",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9363552,
+            -27.4005246
+          ],
+          [
+            -55.9363892,
+            -27.4007492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396594249",
+      "properties": {
+        "@id": "way/396594249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401245,
+            -27.4003301
+          ],
+          [
+            -55.9399529,
+            -27.4003493
+          ],
+          [
+            -55.9398026,
+            -27.4003683
+          ],
+          [
+            -55.9390129,
+            -27.4004548
+          ],
+          [
+            -55.9372285,
+            -27.400655
+          ],
+          [
+            -55.9363892,
+            -27.4007492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760875",
+      "properties": {
+        "@id": "way/388760875",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9350287,
+            -27.3905609
+          ],
+          [
+            -55.935141,
+            -27.3913691
+          ],
+          [
+            -55.9353749,
+            -27.3930527
+          ],
+          [
+            -55.9355072,
+            -27.3939977
+          ],
+          [
+            -55.9356587,
+            -27.395093
+          ],
+          [
+            -55.9356837,
+            -27.395275
+          ],
+          [
+            -55.9358817,
+            -27.3967
+          ],
+          [
+            -55.9359629,
+            -27.3972515
+          ],
+          [
+            -55.9359729,
+            -27.3973248
+          ],
+          [
+            -55.9361941,
+            -27.3989482
+          ],
+          [
+            -55.9363946,
+            -27.4003916
+          ],
+          [
+            -55.9363552,
+            -27.4005246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256924778",
+      "properties": {
+        "@id": "way/256924778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.931792,
+            -27.3672625
+          ],
+          [
+            -55.9319238,
+            -27.3682117
+          ],
+          [
+            -55.9320547,
+            -27.3691544
+          ],
+          [
+            -55.9321776,
+            -27.3700733
+          ],
+          [
+            -55.9322519,
+            -27.3705741
+          ],
+          [
+            -55.9323691,
+            -27.3714176
+          ],
+          [
+            -55.9324671,
+            -27.3722668
+          ],
+          [
+            -55.9325979,
+            -27.3730642
+          ],
+          [
+            -55.9327165,
+            -27.3739182
+          ],
+          [
+            -55.9331735,
+            -27.3772078
+          ],
+          [
+            -55.9331861,
+            -27.3772985
+          ],
+          [
+            -55.9336395,
+            -27.3805619
+          ],
+          [
+            -55.933649,
+            -27.3806302
+          ],
+          [
+            -55.933756,
+            -27.3814004
+          ],
+          [
+            -55.9338714,
+            -27.3822314
+          ],
+          [
+            -55.9339855,
+            -27.3830527
+          ],
+          [
+            -55.934099,
+            -27.383869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760877",
+      "properties": {
+        "@id": "way/388760877",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.934099,
+            -27.383869
+          ],
+          [
+            -55.9341135,
+            -27.3839738
+          ],
+          [
+            -55.9342548,
+            -27.3850087
+          ],
+          [
+            -55.9344167,
+            -27.386156
+          ],
+          [
+            -55.9345477,
+            -27.3872349
+          ],
+          [
+            -55.934684,
+            -27.3880798
+          ],
+          [
+            -55.9347991,
+            -27.3889427
+          ],
+          [
+            -55.9349135,
+            -27.3897443
+          ],
+          [
+            -55.9350287,
+            -27.3905609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421720",
+      "properties": {
+        "@id": "way/394421720",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9313209,
+            -27.363927
+          ],
+          [
+            -55.9316548,
+            -27.3662758
+          ],
+          [
+            -55.931792,
+            -27.3672625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766808",
+      "properties": {
+        "@id": "way/340766808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9163177,
+            -27.3655659
+          ],
+          [
+            -55.9162452,
+            -27.3655722
+          ],
+          [
+            -55.9159699,
+            -27.3656022
+          ],
+          [
+            -55.9153088,
+            -27.3656744
+          ],
+          [
+            -55.9145603,
+            -27.3657561
+          ],
+          [
+            -55.9135918,
+            -27.3658617
+          ],
+          [
+            -55.9129211,
+            -27.3659349
+          ],
+          [
+            -55.9128579,
+            -27.3659418
+          ],
+          [
+            -55.9126466,
+            -27.3659649
+          ],
+          [
+            -55.912584,
+            -27.365971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783164",
+      "properties": {
+        "@id": "way/340783164",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9275071,
+            -27.3643367
+          ],
+          [
+            -55.9265463,
+            -27.3644448
+          ],
+          [
+            -55.9256379,
+            -27.364547
+          ],
+          [
+            -55.9247096,
+            -27.3646514
+          ],
+          [
+            -55.9241032,
+            -27.3647182
+          ],
+          [
+            -55.9238064,
+            -27.3647509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783165",
+      "properties": {
+        "@id": "way/340783165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9238064,
+            -27.3647509
+          ],
+          [
+            -55.9234241,
+            -27.364792
+          ],
+          [
+            -55.9226821,
+            -27.3648719
+          ],
+          [
+            -55.9225074,
+            -27.3648907
+          ],
+          [
+            -55.9216331,
+            -27.3649848
+          ],
+          [
+            -55.9205946,
+            -27.3650966
+          ],
+          [
+            -55.9200499,
+            -27.3651553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766807",
+      "properties": {
+        "@id": "way/340766807",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9200499,
+            -27.3651553
+          ],
+          [
+            -55.9181622,
+            -27.365363
+          ],
+          [
+            -55.9172561,
+            -27.3654619
+          ],
+          [
+            -55.9167091,
+            -27.3655234
+          ],
+          [
+            -55.9163782,
+            -27.3655606
+          ],
+          [
+            -55.9163177,
+            -27.3655659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/278131016",
+      "properties": {
+        "@id": "way/278131016",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9313209,
+            -27.363927
+          ],
+          [
+            -55.9312601,
+            -27.3639336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489603",
+      "properties": {
+        "@id": "way/389489603",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9312601,
+            -27.3639336
+          ],
+          [
+            -55.9311991,
+            -27.3639403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783168",
+      "properties": {
+        "@id": "way/340783168",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9311991,
+            -27.3639403
+          ],
+          [
+            -55.9303354,
+            -27.3640346
+          ],
+          [
+            -55.9302047,
+            -27.3640495
+          ],
+          [
+            -55.9294289,
+            -27.3641382
+          ],
+          [
+            -55.928484,
+            -27.3642366
+          ],
+          [
+            -55.9277797,
+            -27.3643088
+          ],
+          [
+            -55.9275071,
+            -27.3643367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791943",
+      "properties": {
+        "@id": "way/308791943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088179,
+            -27.3663823
+          ],
+          [
+            -55.9077358,
+            -27.3664994
+          ],
+          [
+            -55.9069661,
+            -27.3665827
+          ],
+          [
+            -55.9068102,
+            -27.3665996
+          ],
+          [
+            -55.9060423,
+            -27.3666827
+          ],
+          [
+            -55.9050709,
+            -27.3667878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773130",
+      "properties": {
+        "@id": "way/374773130",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024135,
+            -27.3670757
+          ],
+          [
+            -55.9023617,
+            -27.3670813
+          ],
+          [
+            -55.9022343,
+            -27.3670952
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262400515",
+      "properties": {
+        "@id": "way/262400515",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.912584,
+            -27.365971
+          ],
+          [
+            -55.912516,
+            -27.3659784
+          ],
+          [
+            -55.9114568,
+            -27.3660937
+          ],
+          [
+            -55.9106724,
+            -27.3661791
+          ],
+          [
+            -55.9100406,
+            -27.3662478
+          ],
+          [
+            -55.9092431,
+            -27.3663346
+          ],
+          [
+            -55.9090863,
+            -27.3663527
+          ],
+          [
+            -55.9088179,
+            -27.3663823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572035",
+      "properties": {
+        "@id": "way/340572035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9050709,
+            -27.3667878
+          ],
+          [
+            -55.9040253,
+            -27.366901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773132",
+      "properties": {
+        "@id": "way/374773132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9040253,
+            -27.366901
+          ],
+          [
+            -55.9032964,
+            -27.3669845
+          ],
+          [
+            -55.9024135,
+            -27.3670757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541666",
+      "properties": {
+        "@id": "way/388541666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.8998718,
+            -27.3739674
+          ],
+          [
+            -55.9009116,
+            -27.3738555
+          ],
+          [
+            -55.9013027,
+            -27.3738135
+          ],
+          [
+            -55.901901,
+            -27.3737491
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113063",
+      "properties": {
+        "@id": "way/33113063",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.9019864,
+            -27.3736718
+          ],
+          [
+            -55.9018621,
+            -27.3729076
+          ],
+          [
+            -55.9018416,
+            -27.3727691
+          ],
+          [
+            -55.9017146,
+            -27.3718372
+          ],
+          [
+            -55.901581,
+            -27.370883
+          ],
+          [
+            -55.9015373,
+            -27.3705685
+          ],
+          [
+            -55.9015208,
+            -27.3704499
+          ],
+          [
+            -55.90147,
+            -27.370084
+          ],
+          [
+            -55.9014649,
+            -27.3700471
+          ],
+          [
+            -55.901451,
+            -27.3699474
+          ],
+          [
+            -55.9014376,
+            -27.3698511
+          ],
+          [
+            -55.9013321,
+            -27.3690915
+          ],
+          [
+            -55.9013218,
+            -27.3690175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107248",
+      "properties": {
+        "@id": "way/303107248",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010558,
+            -27.3671017
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307890360",
+      "properties": {
+        "@id": "way/307890360",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.90119,
+            -27.3680682
+          ],
+          [
+            -55.901082,
+            -27.3672903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106541",
+      "properties": {
+        "@id": "way/383106541",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013218,
+            -27.3690175
+          ],
+          [
+            -55.9013135,
+            -27.3689577
+          ],
+          [
+            -55.9012037,
+            -27.368167
+          ],
+          [
+            -55.90119,
+            -27.3680682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489605",
+      "properties": {
+        "@id": "way/389489605",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901082,
+            -27.3672903
+          ],
+          [
+            -55.9010631,
+            -27.3671542
+          ],
+          [
+            -55.9010558,
+            -27.3671017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967887",
+      "properties": {
+        "@id": "way/43967887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257010147",
+      "properties": {
+        "@id": "way/257010147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907412,
+            -27.3613891
+          ],
+          [
+            -55.8907898,
+            -27.3613407
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350565",
+      "properties": {
+        "@id": "way/312350565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8946695,
+            -27.3609224
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489613",
+      "properties": {
+        "@id": "way/389489613",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890598,
+            -27.3615145
+          ],
+          [
+            -55.8906001,
+            -27.3614625
+          ],
+          [
+            -55.8906145,
+            -27.3614345
+          ],
+          [
+            -55.8906375,
+            -27.3614112
+          ],
+          [
+            -55.8906671,
+            -27.3613949
+          ],
+          [
+            -55.8907007,
+            -27.361387
+          ],
+          [
+            -55.8907412,
+            -27.3613891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340590825",
+      "properties": {
+        "@id": "way/340590825",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890598,
+            -27.3615145
+          ],
+          [
+            -55.8896133,
+            -27.3616096
+          ],
+          [
+            -55.8889223,
+            -27.3616763
+          ],
+          [
+            -55.8880829,
+            -27.3617574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573438",
+      "properties": {
+        "@id": "way/43573438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.887098,
+            -27.3616524
+          ],
+          [
+            -55.8872076,
+            -27.3616188
+          ],
+          [
+            -55.8873847,
+            -27.3616948
+          ],
+          [
+            -55.8875231,
+            -27.3617079
+          ],
+          [
+            -55.8875855,
+            -27.3617034
+          ],
+          [
+            -55.8878286,
+            -27.361692
+          ],
+          [
+            -55.8880829,
+            -27.3617574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573620",
+      "properties": {
+        "@id": "way/43573620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8869793,
+            -27.3619101
+          ],
+          [
+            -55.886862,
+            -27.3619422
+          ],
+          [
+            -55.886785,
+            -27.3619361
+          ],
+          [
+            -55.8867134,
+            -27.3619102
+          ],
+          [
+            -55.8866535,
+            -27.3618668
+          ],
+          [
+            -55.8866107,
+            -27.3618097
+          ],
+          [
+            -55.8865885,
+            -27.3617439
+          ],
+          [
+            -55.8865891,
+            -27.3616753
+          ],
+          [
+            -55.8866124,
+            -27.3616098
+          ],
+          [
+            -55.8866563,
+            -27.3615533
+          ],
+          [
+            -55.8867169,
+            -27.3615107
+          ],
+          [
+            -55.8867889,
+            -27.3614858
+          ],
+          [
+            -55.8868776,
+            -27.3614818
+          ],
+          [
+            -55.8869626,
+            -27.3615045
+          ],
+          [
+            -55.8870341,
+            -27.3615512
+          ],
+          [
+            -55.8870837,
+            -27.3616165
+          ],
+          [
+            -55.887098,
+            -27.3616524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263141953",
+      "properties": {
+        "@id": "way/263141953",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8880829,
+            -27.3617574
+          ],
+          [
+            -55.8878755,
+            -27.3618201
+          ],
+          [
+            -55.8873686,
+            -27.3618647
+          ],
+          [
+            -55.8872519,
+            -27.3618723
+          ],
+          [
+            -55.8870229,
+            -27.3618812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760881",
+      "properties": {
+        "@id": "way/388760881",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825757,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Itaembé Miní, barrio Bicentenario, sentido Puerto Viejo - Barrio Bicentenario de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Itaembé Miní: Puerto Viejo → Barrio Bicentenario",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xIT.M",
+              "route": "bus",
+              "to": "Barrio Bicentenario",
+              "type": "route",
+              "via": "Avenida 115"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870229,
+            -27.3618812
+          ],
+          [
+            -55.8869793,
+            -27.3619101
+          ]
+        ]
+      }
+    }
+  ]
+}

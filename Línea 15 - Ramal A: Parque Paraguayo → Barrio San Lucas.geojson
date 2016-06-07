@@ -1,0 +1,2416 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:13:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/259312022",
+      "properties": {
+        "@id": "way/259312022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9153855,
+            -27.411034
+          ],
+          [
+            -55.9155126,
+            -27.4111374
+          ],
+          [
+            -55.9163612,
+            -27.4118809
+          ],
+          [
+            -55.9164518,
+            -27.411981
+          ],
+          [
+            -55.9171176,
+            -27.4127166
+          ],
+          [
+            -55.9171553,
+            -27.4127629
+          ],
+          [
+            -55.9177767,
+            -27.4135268
+          ],
+          [
+            -55.9181585,
+            -27.4139961
+          ],
+          [
+            -55.9185521,
+            -27.4144801
+          ],
+          [
+            -55.9189109,
+            -27.414935
+          ],
+          [
+            -55.9192609,
+            -27.4153787
+          ],
+          [
+            -55.9198595,
+            -27.4161375
+          ],
+          [
+            -55.9199777,
+            -27.4162874
+          ],
+          [
+            -55.9206651,
+            -27.4170751
+          ],
+          [
+            -55.9211395,
+            -27.4177362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541641",
+      "properties": {
+        "@id": "way/388541641",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9212515,
+            -27.4270448
+          ],
+          [
+            -55.9192613,
+            -27.4272697
+          ],
+          [
+            -55.9173982,
+            -27.4274837
+          ],
+          [
+            -55.9161378,
+            -27.4276285
+          ],
+          [
+            -55.9142675,
+            -27.4278314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541686",
+      "properties": {
+        "@id": "way/388541686",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.920712,
+            -27.4232932
+          ],
+          [
+            -55.9208941,
+            -27.4245592
+          ],
+          [
+            -55.9210689,
+            -27.4257751
+          ],
+          [
+            -55.9212368,
+            -27.4269424
+          ],
+          [
+            -55.9212426,
+            -27.4269831
+          ],
+          [
+            -55.9212483,
+            -27.4270228
+          ],
+          [
+            -55.9212515,
+            -27.4270448
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49138919",
+      "properties": {
+        "@id": "way/49138919",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9199355,
+            -27.4178617
+          ],
+          [
+            -55.9200245,
+            -27.4185116
+          ],
+          [
+            -55.9201161,
+            -27.4192092
+          ],
+          [
+            -55.9202258,
+            -27.4199114
+          ],
+          [
+            -55.9203735,
+            -27.4209384
+          ],
+          [
+            -55.9205138,
+            -27.4219147
+          ],
+          [
+            -55.920696,
+            -27.4231814
+          ],
+          [
+            -55.920712,
+            -27.4232932
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541623",
+      "properties": {
+        "@id": "way/388541623",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9199355,
+            -27.4178617
+          ],
+          [
+            -55.9206787,
+            -27.4177848
+          ],
+          [
+            -55.9210519,
+            -27.4177423
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541627",
+      "properties": {
+        "@id": "way/388541627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9210519,
+            -27.4177423
+          ],
+          [
+            -55.9211395,
+            -27.4177362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541682",
+      "properties": {
+        "@id": "way/388541682",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9153855,
+            -27.411034
+          ],
+          [
+            -55.9153344,
+            -27.4110394
+          ],
+          [
+            -55.9152252,
+            -27.4110508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379158591",
+      "properties": {
+        "@id": "way/379158591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9152252,
+            -27.4110508
+          ],
+          [
+            -55.9149657,
+            -27.411078
+          ],
+          [
+            -55.9142537,
+            -27.4111526
+          ],
+          [
+            -55.9140175,
+            -27.4111774
+          ],
+          [
+            -55.9139697,
+            -27.4111824
+          ],
+          [
+            -55.9130101,
+            -27.4112831
+          ],
+          [
+            -55.9120475,
+            -27.4113841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541644",
+      "properties": {
+        "@id": "way/388541644",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9119263,
+            -27.4104961
+          ],
+          [
+            -55.9119372,
+            -27.4105757
+          ],
+          [
+            -55.9119591,
+            -27.410736
+          ],
+          [
+            -55.9120304,
+            -27.4112591
+          ],
+          [
+            -55.9120475,
+            -27.4113841
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268696593",
+      "properties": {
+        "@id": "way/268696593",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9117914,
+            -27.4095075
+          ],
+          [
+            -55.9118144,
+            -27.4096758
+          ],
+          [
+            -55.9119263,
+            -27.4104961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298109445",
+      "properties": {
+        "@id": "way/298109445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9109822,
+            -27.4035772
+          ],
+          [
+            -55.9109991,
+            -27.4037012
+          ],
+          [
+            -55.9111,
+            -27.4044404
+          ],
+          [
+            -55.9112054,
+            -27.4052129
+          ],
+          [
+            -55.911211,
+            -27.4052542
+          ],
+          [
+            -55.9112402,
+            -27.4054677
+          ],
+          [
+            -55.9113108,
+            -27.4059852
+          ],
+          [
+            -55.9113688,
+            -27.4064103
+          ],
+          [
+            -55.9114349,
+            -27.4068946
+          ],
+          [
+            -55.9114488,
+            -27.4069966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357562995",
+      "properties": {
+        "@id": "way/357562995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9115178,
+            -27.4075025
+          ],
+          [
+            -55.9115793,
+            -27.4079529
+          ],
+          [
+            -55.9115873,
+            -27.4080113
+          ],
+          [
+            -55.9117037,
+            -27.4088647
+          ],
+          [
+            -55.9117914,
+            -27.4095075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370263949",
+      "properties": {
+        "@id": "way/370263949",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9114488,
+            -27.4069966
+          ],
+          [
+            -55.9115178,
+            -27.4075025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38662827",
+      "properties": {
+        "@id": "way/38662827",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134498,
+            -27.3997462
+          ],
+          [
+            -55.9134882,
+            -27.399799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263021",
+      "properties": {
+        "@id": "way/320263021",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9139057,
+            -27.4032515
+          ],
+          [
+            -55.9129828,
+            -27.4033422
+          ],
+          [
+            -55.9120009,
+            -27.4034388
+          ],
+          [
+            -55.9109822,
+            -27.4035772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381013",
+      "properties": {
+        "@id": "way/340381013",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9094721,
+            -27.3982217
+          ],
+          [
+            -55.9095081,
+            -27.3984795
+          ],
+          [
+            -55.909585,
+            -27.3990306
+          ],
+          [
+            -55.9096012,
+            -27.3991471
+          ],
+          [
+            -55.9096139,
+            -27.399238
+          ],
+          [
+            -55.9096375,
+            -27.399407
+          ],
+          [
+            -55.9097524,
+            -27.4002308
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918055",
+      "properties": {
+        "@id": "way/343918055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9137567,
+            -27.4017748
+          ],
+          [
+            -55.9137852,
+            -27.401968
+          ],
+          [
+            -55.9138371,
+            -27.4023668
+          ],
+          [
+            -55.913875,
+            -27.40267
+          ],
+          [
+            -55.9138855,
+            -27.4027548
+          ],
+          [
+            -55.9139044,
+            -27.4028831
+          ],
+          [
+            -55.9139438,
+            -27.4031507
+          ],
+          [
+            -55.9139057,
+            -27.4032515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106555",
+      "properties": {
+        "@id": "way/383106555",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134882,
+            -27.399799
+          ],
+          [
+            -55.9136123,
+            -27.4007125
+          ],
+          [
+            -55.9136718,
+            -27.4011498
+          ],
+          [
+            -55.9137129,
+            -27.4014343
+          ],
+          [
+            -55.9137208,
+            -27.4015104
+          ],
+          [
+            -55.913744,
+            -27.401681
+          ],
+          [
+            -55.9137567,
+            -27.4017748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531391",
+      "properties": {
+        "@id": "way/388531391",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9106765,
+            -27.4001237
+          ],
+          [
+            -55.9116093,
+            -27.4000185
+          ],
+          [
+            -55.9125241,
+            -27.3999097
+          ],
+          [
+            -55.9132981,
+            -27.3998193
+          ],
+          [
+            -55.9134498,
+            -27.3997462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541675",
+      "properties": {
+        "@id": "way/388541675",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097524,
+            -27.4002308
+          ],
+          [
+            -55.9106765,
+            -27.4001237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262941554",
+      "properties": {
+        "@id": "way/262941554",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9083425,
+            -27.3901701
+          ],
+          [
+            -55.9083727,
+            -27.3903849
+          ],
+          [
+            -55.9085411,
+            -27.391587
+          ],
+          [
+            -55.908673,
+            -27.3925295
+          ],
+          [
+            -55.9087773,
+            -27.3932738
+          ],
+          [
+            -55.9088091,
+            -27.3934757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670141",
+      "properties": {
+        "@id": "way/318670141",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092811,
+            -27.3968703
+          ],
+          [
+            -55.9093121,
+            -27.3970918
+          ],
+          [
+            -55.9093933,
+            -27.3976725
+          ],
+          [
+            -55.9094721,
+            -27.3982217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677068",
+      "properties": {
+        "@id": "way/318677068",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092715,
+            -27.3967966
+          ],
+          [
+            -55.9092762,
+            -27.396833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340382449",
+      "properties": {
+        "@id": "way/340382449",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088091,
+            -27.3934757
+          ],
+          [
+            -55.9088496,
+            -27.3937666
+          ],
+          [
+            -55.9089279,
+            -27.3943293
+          ],
+          [
+            -55.9090432,
+            -27.395157
+          ],
+          [
+            -55.909082,
+            -27.3954354
+          ],
+          [
+            -55.909155,
+            -27.3959595
+          ],
+          [
+            -55.9092461,
+            -27.3966143
+          ],
+          [
+            -55.9092715,
+            -27.3967966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370224915",
+      "properties": {
+        "@id": "way/370224915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092762,
+            -27.396833
+          ],
+          [
+            -55.9092811,
+            -27.3968703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262941556",
+      "properties": {
+        "@id": "way/262941556",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9078702,
+            -27.3868267
+          ],
+          [
+            -55.9079013,
+            -27.38705
+          ],
+          [
+            -55.9080062,
+            -27.3878034
+          ],
+          [
+            -55.9080706,
+            -27.3882657
+          ],
+          [
+            -55.9081981,
+            -27.3891807
+          ],
+          [
+            -55.908313,
+            -27.3899587
+          ],
+          [
+            -55.9083425,
+            -27.3901701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566395",
+      "properties": {
+        "@id": "way/340566395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9074067,
+            -27.3834994
+          ],
+          [
+            -55.9074521,
+            -27.3838255
+          ],
+          [
+            -55.9075409,
+            -27.384463
+          ],
+          [
+            -55.9076032,
+            -27.3849103
+          ],
+          [
+            -55.9077381,
+            -27.3858785
+          ],
+          [
+            -55.9078241,
+            -27.3864958
+          ],
+          [
+            -55.9078702,
+            -27.3868267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572038",
+      "properties": {
+        "@id": "way/340572038",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9064801,
+            -27.3768286
+          ],
+          [
+            -55.9065729,
+            -27.3775015
+          ],
+          [
+            -55.9065799,
+            -27.3775524
+          ],
+          [
+            -55.9065968,
+            -27.3776748
+          ],
+          [
+            -55.9066034,
+            -27.3777229
+          ],
+          [
+            -55.9067468,
+            -27.3787625
+          ],
+          [
+            -55.9067568,
+            -27.3788353
+          ],
+          [
+            -55.9068977,
+            -27.3798564
+          ],
+          [
+            -55.9069391,
+            -27.3801424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566394",
+      "properties": {
+        "@id": "way/340566394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9069391,
+            -27.3801424
+          ],
+          [
+            -55.9069707,
+            -27.3803692
+          ],
+          [
+            -55.907057,
+            -27.3809889
+          ],
+          [
+            -55.9070931,
+            -27.3812479
+          ],
+          [
+            -55.9071712,
+            -27.3818087
+          ],
+          [
+            -55.9072835,
+            -27.3826146
+          ],
+          [
+            -55.9073822,
+            -27.3833235
+          ],
+          [
+            -55.9074067,
+            -27.3834994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670142",
+      "properties": {
+        "@id": "way/318670142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9061253,
+            -27.3743293
+          ],
+          [
+            -55.9061404,
+            -27.374438
+          ],
+          [
+            -55.9062768,
+            -27.3754131
+          ],
+          [
+            -55.9064063,
+            -27.3763396
+          ],
+          [
+            -55.9064801,
+            -27.3768286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106567",
+      "properties": {
+        "@id": "way/383106567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.902062,
+            -27.3737054
+          ],
+          [
+            -55.9021016,
+            -27.3736951
+          ],
+          [
+            -55.9021547,
+            -27.3736873
+          ],
+          [
+            -55.9022078,
+            -27.3736952
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541666",
+      "properties": {
+        "@id": "way/388541666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.8998718,
+            -27.3739674
+          ],
+          [
+            -55.9009116,
+            -27.3738555
+          ],
+          [
+            -55.9013027,
+            -27.3738135
+          ],
+          [
+            -55.901901,
+            -27.3737491
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967887",
+      "properties": {
+        "@id": "way/43967887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677076",
+      "properties": {
+        "@id": "way/318677076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8941099,
+            -27.3552993
+          ],
+          [
+            -55.8941642,
+            -27.355701
+          ],
+          [
+            -55.894214,
+            -27.3560719
+          ],
+          [
+            -55.8942246,
+            -27.3561508
+          ],
+          [
+            -55.8942365,
+            -27.3562394
+          ],
+          [
+            -55.8943604,
+            -27.3571587
+          ],
+          [
+            -55.894469,
+            -27.3579649
+          ],
+          [
+            -55.894485,
+            -27.3580836
+          ],
+          [
+            -55.8946133,
+            -27.359036
+          ],
+          [
+            -55.894738,
+            -27.3599611
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/282646944",
+      "properties": {
+        "@id": "way/282646944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809657,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 15 ramal A sentido Parque Paraguayo - San Lucas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 15 - Ramal A: Parque Paraguayo → Barrio San Lucas",
+              "network": "Posadas",
+              "operator": "Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "15A",
+              "route": "bus",
+              "to": "San Lucas",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8939843,
+            -27.3543675
+          ],
+          [
+            -55.8941099,
+            -27.3552993
+          ]
+        ]
+      }
+    }
+  ]
+}

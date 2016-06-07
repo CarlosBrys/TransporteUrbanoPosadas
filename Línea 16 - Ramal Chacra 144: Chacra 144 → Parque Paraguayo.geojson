@@ -1,0 +1,1870 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/210665088",
+      "properties": {
+        "@id": "way/210665088",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9525749,
+            -27.3819745
+          ],
+          [
+            -55.952506,
+            -27.3819497
+          ],
+          [
+            -55.952437,
+            -27.3819261
+          ],
+          [
+            -55.9524049,
+            -27.381926
+          ],
+          [
+            -55.9523252,
+            -27.3819258
+          ],
+          [
+            -55.9517239,
+            -27.3819959
+          ],
+          [
+            -55.9509944,
+            -27.3820787
+          ],
+          [
+            -55.9509944,
+            -27.3820787
+          ],
+          [
+            -55.9508427,
+            -27.3820986
+          ],
+          [
+            -55.9499351,
+            -27.3822044
+          ],
+          [
+            -55.9491401,
+            -27.3823033
+          ],
+          [
+            -55.9490337,
+            -27.3823174
+          ],
+          [
+            -55.9489433,
+            -27.3823287
+          ],
+          [
+            -55.9465523,
+            -27.382594
+          ],
+          [
+            -55.9453864,
+            -27.3827233
+          ],
+          [
+            -55.9453248,
+            -27.3827301
+          ],
+          [
+            -55.9452194,
+            -27.3827418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974062",
+      "properties": {
+        "@id": "way/398974062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452194,
+            -27.3827418
+          ],
+          [
+            -55.9442709,
+            -27.3828471
+          ],
+          [
+            -55.9436303,
+            -27.3829182
+          ],
+          [
+            -55.9425598,
+            -27.3830369
+          ],
+          [
+            -55.9417204,
+            -27.38313
+          ],
+          [
+            -55.9415888,
+            -27.3831446
+          ],
+          [
+            -55.9414801,
+            -27.3831566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760872",
+      "properties": {
+        "@id": "way/388760872",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9339878,
+            -27.3839877
+          ],
+          [
+            -55.9331037,
+            -27.3840836
+          ],
+          [
+            -55.9322928,
+            -27.3841754
+          ],
+          [
+            -55.9321511,
+            -27.3841914
+          ],
+          [
+            -55.9312535,
+            -27.384291
+          ],
+          [
+            -55.9304323,
+            -27.3843819
+          ],
+          [
+            -55.9303558,
+            -27.3843906
+          ],
+          [
+            -55.9302532,
+            -27.384402
+          ],
+          [
+            -55.9293407,
+            -27.3844981
+          ],
+          [
+            -55.9284174,
+            -27.3845997
+          ],
+          [
+            -55.9275066,
+            -27.3847017
+          ],
+          [
+            -55.9267369,
+            -27.3847937
+          ],
+          [
+            -55.9265609,
+            -27.3848147
+          ],
+          [
+            -55.9259466,
+            -27.384882
+          ],
+          [
+            -55.9245363,
+            -27.3850262
+          ],
+          [
+            -55.9244003,
+            -27.3850401
+          ],
+          [
+            -55.923503,
+            -27.3851364
+          ],
+          [
+            -55.9229914,
+            -27.3851981
+          ],
+          [
+            -55.922869,
+            -27.3852128
+          ],
+          [
+            -55.9218843,
+            -27.3853283
+          ],
+          [
+            -55.9209684,
+            -27.3854317
+          ],
+          [
+            -55.9200606,
+            -27.3855326
+          ],
+          [
+            -55.9191033,
+            -27.3856386
+          ],
+          [
+            -55.919014,
+            -27.3855953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706889",
+      "properties": {
+        "@id": "way/397706889",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9414801,
+            -27.3831566
+          ],
+          [
+            -55.9404988,
+            -27.3832655
+          ],
+          [
+            -55.9396224,
+            -27.3833627
+          ],
+          [
+            -55.9387052,
+            -27.3834644
+          ],
+          [
+            -55.9380408,
+            -27.3835358
+          ],
+          [
+            -55.93798,
+            -27.3835423
+          ],
+          [
+            -55.9378288,
+            -27.3835586
+          ],
+          [
+            -55.9377225,
+            -27.3835707
+          ],
+          [
+            -55.9368193,
+            -27.3836736
+          ],
+          [
+            -55.9360805,
+            -27.3837556
+          ],
+          [
+            -55.9359021,
+            -27.3837754
+          ],
+          [
+            -55.9342078,
+            -27.3839633
+          ],
+          [
+            -55.9341135,
+            -27.3839738
+          ],
+          [
+            -55.9339878,
+            -27.3839877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132227",
+      "properties": {
+        "@id": "way/389132227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.919014,
+            -27.3855953
+          ],
+          [
+            -55.9189435,
+            -27.3850738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500918",
+      "properties": {
+        "@id": "way/272500918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9189435,
+            -27.3850738
+          ],
+          [
+            -55.9188136,
+            -27.3841466
+          ],
+          [
+            -55.9187832,
+            -27.3839267
+          ],
+          [
+            -55.9186859,
+            -27.3832227
+          ],
+          [
+            -55.9186716,
+            -27.3831197
+          ],
+          [
+            -55.9185783,
+            -27.3824446
+          ],
+          [
+            -55.9185548,
+            -27.382275
+          ],
+          [
+            -55.9184351,
+            -27.3814092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396618660",
+      "properties": {
+        "@id": "way/396618660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180906,
+            -27.3789177
+          ],
+          [
+            -55.9176848,
+            -27.3789623
+          ],
+          [
+            -55.9171533,
+            -27.3790207
+          ],
+          [
+            -55.9166478,
+            -27.3790763
+          ],
+          [
+            -55.9162981,
+            -27.3791147
+          ],
+          [
+            -55.9155143,
+            -27.3792009
+          ],
+          [
+            -55.9152926,
+            -27.3792253
+          ],
+          [
+            -55.9146901,
+            -27.3792916
+          ],
+          [
+            -55.9145254,
+            -27.3793097
+          ],
+          [
+            -55.9144404,
+            -27.379319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499786",
+      "properties": {
+        "@id": "way/272499786",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9183241,
+            -27.3806073
+          ],
+          [
+            -55.9182088,
+            -27.3797726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499789",
+      "properties": {
+        "@id": "way/272499789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9182088,
+            -27.3797726
+          ],
+          [
+            -55.9181392,
+            -27.379269
+          ],
+          [
+            -55.9180906,
+            -27.3789177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500915",
+      "properties": {
+        "@id": "way/272500915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9184351,
+            -27.3814092
+          ],
+          [
+            -55.9183241,
+            -27.3806073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396609427",
+      "properties": {
+        "@id": "way/396609427",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9102302,
+            -27.3764129
+          ],
+          [
+            -55.9103522,
+            -27.3772607
+          ],
+          [
+            -55.9104838,
+            -27.3780752
+          ],
+          [
+            -55.9105845,
+            -27.3788555
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566389",
+      "properties": {
+        "@id": "way/340566389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9144404,
+            -27.379319
+          ],
+          [
+            -55.9143486,
+            -27.3793291
+          ],
+          [
+            -55.9142283,
+            -27.3793423
+          ],
+          [
+            -55.913378,
+            -27.3794358
+          ],
+          [
+            -55.9132608,
+            -27.3794487
+          ],
+          [
+            -55.912746,
+            -27.3795053
+          ],
+          [
+            -55.9126842,
+            -27.3795121
+          ],
+          [
+            -55.9125496,
+            -27.3795269
+          ],
+          [
+            -55.9124413,
+            -27.3795388
+          ],
+          [
+            -55.9123699,
+            -27.3795467
+          ],
+          [
+            -55.9122206,
+            -27.3795631
+          ],
+          [
+            -55.9116004,
+            -27.3796313
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791939",
+      "properties": {
+        "@id": "way/308791939",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9098581,
+            -27.3739925
+          ],
+          [
+            -55.9099603,
+            -27.3747253
+          ],
+          [
+            -55.9100662,
+            -27.3754844
+          ],
+          [
+            -55.9101824,
+            -27.3761423
+          ],
+          [
+            -55.9102302,
+            -27.3764129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605145",
+      "properties": {
+        "@id": "way/388605145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023022,
+            -27.3738755
+          ],
+          [
+            -55.9022679,
+            -27.3739391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228303240",
+      "properties": {
+        "@id": "way/228303240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022679,
+            -27.3739391
+          ],
+          [
+            -55.9022048,
+            -27.3739724
+          ],
+          [
+            -55.9021318,
+            -27.373978
+          ],
+          [
+            -55.9020633,
+            -27.3739549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106548",
+      "properties": {
+        "@id": "way/383106548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9086073,
+            -27.3731803
+          ],
+          [
+            -55.9081026,
+            -27.373236
+          ],
+          [
+            -55.9072023,
+            -27.3733353
+          ],
+          [
+            -55.9070023,
+            -27.3733573
+          ],
+          [
+            -55.9067973,
+            -27.37338
+          ],
+          [
+            -55.9059929,
+            -27.3734686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663260",
+      "properties": {
+        "@id": "way/38663260",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9018632,
+            -27.3739838
+          ],
+          [
+            -55.9009433,
+            -27.3740842
+          ],
+          [
+            -55.8999037,
+            -27.3741977
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967886",
+      "properties": {
+        "@id": "way/43967886",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.8977641,
+            -27.3741942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785956",
+      "properties": {
+        "@id": "way/193785956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.897634,
+            -27.3732059
+          ],
+          [
+            -55.8975336,
+            -27.3724437
+          ],
+          [
+            -55.8975149,
+            -27.3723015
+          ],
+          [
+            -55.8973893,
+            -27.3713471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163484",
+      "properties": {
+        "@id": "way/318163484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977641,
+            -27.3741942
+          ],
+          [
+            -55.8976525,
+            -27.3733465
+          ],
+          [
+            -55.897634,
+            -27.3732059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785955",
+      "properties": {
+        "@id": "way/193785955",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8973893,
+            -27.3713471
+          ],
+          [
+            -55.897263,
+            -27.370409
+          ],
+          [
+            -55.8971285,
+            -27.3694804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432302",
+      "properties": {
+        "@id": "way/256432302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8966131,
+            -27.3657504
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8963557,
+            -27.3638877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432306",
+      "properties": {
+        "@id": "way/256432306",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8968702,
+            -27.3676112
+          ],
+          [
+            -55.8967405,
+            -27.3666727
+          ],
+          [
+            -55.8966356,
+            -27.3659133
+          ],
+          [
+            -55.8966131,
+            -27.3657504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432308",
+      "properties": {
+        "@id": "way/256432308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8971285,
+            -27.3694804
+          ],
+          [
+            -55.897063,
+            -27.3690064
+          ],
+          [
+            -55.8970377,
+            -27.3688235
+          ],
+          [
+            -55.8970128,
+            -27.3686428
+          ],
+          [
+            -55.8969982,
+            -27.3685372
+          ],
+          [
+            -55.8969648,
+            -27.3682953
+          ],
+          [
+            -55.8968702,
+            -27.3676112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432299",
+      "properties": {
+        "@id": "way/256432299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8960965,
+            -27.3620283
+          ],
+          [
+            -55.8959659,
+            -27.3610746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432304",
+      "properties": {
+        "@id": "way/256432304",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8963557,
+            -27.3638877
+          ],
+          [
+            -55.8962243,
+            -27.3629691
+          ],
+          [
+            -55.8961101,
+            -27.3621285
+          ],
+          [
+            -55.8960965,
+            -27.3620283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541672",
+      "properties": {
+        "@id": "way/388541672",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8949182,
+            -27.3611864
+          ],
+          [
+            -55.8940569,
+            -27.3612783
+          ],
+          [
+            -55.893877,
+            -27.3612975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541681",
+      "properties": {
+        "@id": "way/388541681",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.893877,
+            -27.3612975
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573479",
+      "properties": {
+        "@id": "way/43573479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8937209,
+            -27.3600693
+          ],
+          [
+            -55.8935887,
+            -27.3591491
+          ],
+          [
+            -55.8934871,
+            -27.358442
+          ],
+          [
+            -55.8934512,
+            -27.3581923
+          ],
+          [
+            -55.8933185,
+            -27.3572687
+          ],
+          [
+            -55.8932091,
+            -27.3565067
+          ],
+          [
+            -55.8931871,
+            -27.3563537
+          ],
+          [
+            -55.8931744,
+            -27.3562652
+          ],
+          [
+            -55.8931098,
+            -27.3558159
+          ],
+          [
+            -55.893057,
+            -27.3554482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541670",
+      "properties": {
+        "@id": "way/388541670",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959659,
+            -27.3610746
+          ],
+          [
+            -55.8949182,
+            -27.3611864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255443036",
+      "properties": {
+        "@id": "way/255443036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8929761,
+            -27.3548853
+          ],
+          [
+            -55.8930281,
+            -27.3547398
+          ],
+          [
+            -55.8930895,
+            -27.3546715
+          ],
+          [
+            -55.8931586,
+            -27.3546282
+          ],
+          [
+            -55.8937299,
+            -27.3544478
+          ],
+          [
+            -55.8939843,
+            -27.3543675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340590822",
+      "properties": {
+        "@id": "way/340590822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5820436,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Chacra 144 sentido Chacra 144 - Parque Paraguayo de la ciudad Posadas",
+              "from": "Chacra 144",
+              "name": "Línea 16 - Ramal Chacra 144: Chacra 144 → Parque Paraguayo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xCH144",
+              "route": "bus",
+              "to": "Parque República del Paraguay",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.893057,
+            -27.3554482
+          ],
+          [
+            -55.8929761,
+            -27.3548853
+          ]
+        ]
+      }
+    }
+  ]
+}

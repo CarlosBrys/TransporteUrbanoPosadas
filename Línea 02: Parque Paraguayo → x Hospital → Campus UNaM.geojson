@@ -1,0 +1,4813 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T10:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/262938236",
+      "properties": {
+        "@id": "way/262938236",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907094,
+            -27.429772
+          ],
+          [
+            -55.8906199,
+            -27.4298683
+          ],
+          [
+            -55.8892546,
+            -27.431315
+          ],
+          [
+            -55.8888781,
+            -27.4317128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630312",
+      "properties": {
+        "@id": "way/261630312",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980454,
+            -27.423817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263284241",
+      "properties": {
+        "@id": "way/263284241",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910271,
+            -27.4292598
+          ],
+          [
+            -55.8909746,
+            -27.4293969
+          ],
+          [
+            -55.8909091,
+            -27.4295009
+          ],
+          [
+            -55.8908332,
+            -27.4296126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834475",
+      "properties": {
+        "@id": "way/268834475",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8953119,
+            -27.4262329
+          ],
+          [
+            -55.8951106,
+            -27.4263698
+          ],
+          [
+            -55.8941814,
+            -27.4269635
+          ],
+          [
+            -55.8939735,
+            -27.4270968
+          ],
+          [
+            -55.8935826,
+            -27.427372
+          ],
+          [
+            -55.8931889,
+            -27.427636
+          ],
+          [
+            -55.8930018,
+            -27.4277674
+          ],
+          [
+            -55.8921969,
+            -27.4283327
+          ],
+          [
+            -55.8914701,
+            -27.4288199
+          ],
+          [
+            -55.8910271,
+            -27.4292598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341620",
+      "properties": {
+        "@id": "way/389341620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8908332,
+            -27.4296126
+          ],
+          [
+            -55.8907094,
+            -27.429772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422803926",
+      "properties": {
+        "@id": "way/422803926",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980454,
+            -27.423817
+          ],
+          [
+            -55.8979627,
+            -27.4239233
+          ],
+          [
+            -55.8977526,
+            -27.4241719
+          ],
+          [
+            -55.897267,
+            -27.4247002
+          ],
+          [
+            -55.8970813,
+            -27.4248836
+          ],
+          [
+            -55.8969069,
+            -27.4250558
+          ],
+          [
+            -55.8964834,
+            -27.4253801
+          ],
+          [
+            -55.8963298,
+            -27.4254799
+          ],
+          [
+            -55.8956019,
+            -27.4260224
+          ],
+          [
+            -55.895368,
+            -27.4261967
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927934",
+      "properties": {
+        "@id": "way/127927934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002357,
+            -27.4182096
+          ],
+          [
+            -55.8995882,
+            -27.4207689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927958",
+      "properties": {
+        "@id": "way/127927958",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004011,
+            -27.4172459
+          ],
+          [
+            -55.9003807,
+            -27.4175731
+          ],
+          [
+            -55.9002357,
+            -27.4182096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927965",
+      "properties": {
+        "@id": "way/127927965",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8995882,
+            -27.4207689
+          ],
+          [
+            -55.8995319,
+            -27.4209868
+          ],
+          [
+            -55.8994347,
+            -27.421113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113121",
+      "properties": {
+        "@id": "way/33113121",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019825,
+            -27.4045719
+          ],
+          [
+            -55.9022136,
+            -27.4044687
+          ],
+          [
+            -55.9023708,
+            -27.4043107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834483",
+      "properties": {
+        "@id": "way/268834483",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9029177,
+            -27.4071148
+          ],
+          [
+            -55.9028663,
+            -27.4073157
+          ],
+          [
+            -55.9028481,
+            -27.4073643
+          ],
+          [
+            -55.9028097,
+            -27.4074665
+          ],
+          [
+            -55.9025591,
+            -27.4084013
+          ],
+          [
+            -55.9024904,
+            -27.408702
+          ],
+          [
+            -55.9024833,
+            -27.4087332
+          ],
+          [
+            -55.902195,
+            -27.409898
+          ],
+          [
+            -55.9020349,
+            -27.4105386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43970616",
+      "properties": {
+        "@id": "way/43970616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030787,
+            -27.4047406
+          ],
+          [
+            -55.9030684,
+            -27.4050166
+          ],
+          [
+            -55.9030199,
+            -27.4054135
+          ],
+          [
+            -55.9030761,
+            -27.4060084
+          ],
+          [
+            -55.90307,
+            -27.4063518
+          ],
+          [
+            -55.9030465,
+            -27.4065071
+          ],
+          [
+            -55.9029347,
+            -27.4070347
+          ],
+          [
+            -55.9029177,
+            -27.4071148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834484",
+      "properties": {
+        "@id": "way/268834484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902954,
+            -27.4041481
+          ],
+          [
+            -55.9030511,
+            -27.4042387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726915",
+      "properties": {
+        "@id": "way/308726915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902405,
+            -27.4042425
+          ],
+          [
+            -55.9024719,
+            -27.4041653
+          ],
+          [
+            -55.9025457,
+            -27.4041243
+          ],
+          [
+            -55.9026627,
+            -27.4041053
+          ],
+          [
+            -55.902787,
+            -27.4040954
+          ],
+          [
+            -55.9028642,
+            -27.4041071
+          ],
+          [
+            -55.902954,
+            -27.4041481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350569",
+      "properties": {
+        "@id": "way/312350569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023708,
+            -27.4043107
+          ],
+          [
+            -55.902405,
+            -27.4042425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263024",
+      "properties": {
+        "@id": "way/320263024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9031041,
+            -27.4047104
+          ],
+          [
+            -55.9030787,
+            -27.4047406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263026",
+      "properties": {
+        "@id": "way/320263026",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030511,
+            -27.4042387
+          ],
+          [
+            -55.9031009,
+            -27.4043345
+          ],
+          [
+            -55.9031263,
+            -27.4044688
+          ],
+          [
+            -55.9031336,
+            -27.4046082
+          ],
+          [
+            -55.9031041,
+            -27.4047104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268696596",
+      "properties": {
+        "@id": "way/268696596",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020349,
+            -27.4105386
+          ],
+          [
+            -55.9019789,
+            -27.4107808
+          ],
+          [
+            -55.9017813,
+            -27.4116354
+          ],
+          [
+            -55.9016028,
+            -27.4124076
+          ],
+          [
+            -55.901571,
+            -27.4125453
+          ],
+          [
+            -55.9015596,
+            -27.4125948
+          ],
+          [
+            -55.9015407,
+            -27.4126763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268696598",
+      "properties": {
+        "@id": "way/268696598",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015407,
+            -27.4126763
+          ],
+          [
+            -55.9014518,
+            -27.4132008
+          ],
+          [
+            -55.9013326,
+            -27.4137043
+          ],
+          [
+            -55.901302,
+            -27.4138356
+          ],
+          [
+            -55.90121,
+            -27.41423
+          ],
+          [
+            -55.9008093,
+            -27.4159488
+          ],
+          [
+            -55.900705,
+            -27.4163963
+          ],
+          [
+            -55.9006847,
+            -27.4164918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509179",
+      "properties": {
+        "@id": "way/384509179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9006847,
+            -27.4164918
+          ],
+          [
+            -55.9005321,
+            -27.4166073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259406385",
+      "properties": {
+        "@id": "way/259406385",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8949538,
+            -27.4020953
+          ],
+          [
+            -55.8949726,
+            -27.4024262
+          ],
+          [
+            -55.8950382,
+            -27.402891
+          ],
+          [
+            -55.8951303,
+            -27.4035121
+          ],
+          [
+            -55.8951566,
+            -27.4036628
+          ],
+          [
+            -55.8952774,
+            -27.4043554
+          ],
+          [
+            -55.8954053,
+            -27.4050939
+          ],
+          [
+            -55.8954306,
+            -27.4052805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350568",
+      "properties": {
+        "@id": "way/312350568",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8990035,
+            -27.4048941
+          ],
+          [
+            -55.898569,
+            -27.4049411
+          ],
+          [
+            -55.8984076,
+            -27.4049585
+          ],
+          [
+            -55.8983544,
+            -27.4049643
+          ],
+          [
+            -55.8973843,
+            -27.4050692
+          ],
+          [
+            -55.8966865,
+            -27.4051446
+          ],
+          [
+            -55.8962861,
+            -27.4051879
+          ],
+          [
+            -55.8955134,
+            -27.4052715
+          ],
+          [
+            -55.8954306,
+            -27.4052805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228369485",
+      "properties": {
+        "@id": "way/228369485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019825,
+            -27.4045719
+          ],
+          [
+            -55.9019451,
+            -27.4045759
+          ],
+          [
+            -55.9015027,
+            -27.4046238
+          ],
+          [
+            -55.9004932,
+            -27.404733
+          ],
+          [
+            -55.8994381,
+            -27.4048471
+          ],
+          [
+            -55.8990035,
+            -27.4048941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228704667",
+      "properties": {
+        "@id": "way/228704667",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8945759,
+            -27.3986283
+          ],
+          [
+            -55.8947053,
+            -27.3996562
+          ],
+          [
+            -55.8947483,
+            -27.4001622
+          ],
+          [
+            -55.8947735,
+            -27.4004215
+          ],
+          [
+            -55.8947791,
+            -27.4005139
+          ],
+          [
+            -55.894827,
+            -27.400933
+          ],
+          [
+            -55.8948395,
+            -27.4010076
+          ],
+          [
+            -55.8949091,
+            -27.401448
+          ],
+          [
+            -55.8949411,
+            -27.4017723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259406384",
+      "properties": {
+        "@id": "way/259406384",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8949411,
+            -27.4017723
+          ],
+          [
+            -55.8949519,
+            -27.4019779
+          ],
+          [
+            -55.8949538,
+            -27.4020953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303536290",
+      "properties": {
+        "@id": "way/303536290",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8944636,
+            -27.3985505
+          ],
+          [
+            -55.8945759,
+            -27.3986283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350574",
+      "properties": {
+        "@id": "way/312350574",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8943981,
+            -27.3984843
+          ],
+          [
+            -55.8944177,
+            -27.3984919
+          ],
+          [
+            -55.8944348,
+            -27.3985032
+          ],
+          [
+            -55.8944536,
+            -27.3985247
+          ],
+          [
+            -55.8944636,
+            -27.3985505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259433855",
+      "properties": {
+        "@id": "way/259433855",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8929162,
+            -27.3884557
+          ],
+          [
+            -55.8929346,
+            -27.388531
+          ],
+          [
+            -55.8929961,
+            -27.3889715
+          ],
+          [
+            -55.8931646,
+            -27.3901778
+          ],
+          [
+            -55.8932576,
+            -27.390846
+          ],
+          [
+            -55.8933654,
+            -27.3916188
+          ],
+          [
+            -55.8933949,
+            -27.3917846
+          ],
+          [
+            -55.8934924,
+            -27.3925279
+          ],
+          [
+            -55.8935584,
+            -27.3929982
+          ],
+          [
+            -55.8935732,
+            -27.393107
+          ],
+          [
+            -55.8936558,
+            -27.3936972
+          ],
+          [
+            -55.8937353,
+            -27.3942687
+          ],
+          [
+            -55.8938399,
+            -27.3949679
+          ],
+          [
+            -55.8938582,
+            -27.3951497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398979498",
+      "properties": {
+        "@id": "way/398979498",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938582,
+            -27.3951497
+          ],
+          [
+            -55.8938798,
+            -27.3953214
+          ],
+          [
+            -55.8939296,
+            -27.3956615
+          ],
+          [
+            -55.8940605,
+            -27.3965997
+          ],
+          [
+            -55.8942159,
+            -27.3975113
+          ],
+          [
+            -55.8943276,
+            -27.3983207
+          ],
+          [
+            -55.8943373,
+            -27.3983791
+          ],
+          [
+            -55.8943981,
+            -27.3984843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350559",
+      "properties": {
+        "@id": "way/312350559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8924578,
+            -27.3851145
+          ],
+          [
+            -55.8925314,
+            -27.3856416
+          ],
+          [
+            -55.8925793,
+            -27.3859846
+          ],
+          [
+            -55.8926134,
+            -27.3862287
+          ],
+          [
+            -55.8926878,
+            -27.3867624
+          ],
+          [
+            -55.8928052,
+            -27.3876023
+          ],
+          [
+            -55.8929042,
+            -27.3883117
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.891541,
+            -27.378456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357117019",
+      "properties": {
+        "@id": "way/357117019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89212,
+            -27.3826928
+          ],
+          [
+            -55.8921843,
+            -27.383154
+          ],
+          [
+            -55.8922063,
+            -27.3833187
+          ],
+          [
+            -55.8922239,
+            -27.3834376
+          ],
+          [
+            -55.8922448,
+            -27.3835659
+          ],
+          [
+            -55.8922674,
+            -27.3837042
+          ],
+          [
+            -55.8922771,
+            -27.3837802
+          ],
+          [
+            -55.8923318,
+            -27.3842106
+          ],
+          [
+            -55.8924293,
+            -27.3849257
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607397",
+      "properties": {
+        "@id": "way/254607397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891805,
+            -27.3803732
+          ],
+          [
+            -55.8918197,
+            -27.3804813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607398",
+      "properties": {
+        "@id": "way/254607398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89185,
+            -27.3807141
+          ],
+          [
+            -55.8918735,
+            -27.3809263
+          ],
+          [
+            -55.8919517,
+            -27.3815004
+          ],
+          [
+            -55.891995,
+            -27.3817971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607400",
+      "properties": {
+        "@id": "way/254607400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918197,
+            -27.3804813
+          ],
+          [
+            -55.8918353,
+            -27.3806084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696509",
+      "properties": {
+        "@id": "way/340696509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891541,
+            -27.378456
+          ],
+          [
+            -55.8916447,
+            -27.3792717
+          ],
+          [
+            -55.8916526,
+            -27.3793229
+          ],
+          [
+            -55.8916688,
+            -27.3794156
+          ],
+          [
+            -55.8916753,
+            -27.3794402
+          ],
+          [
+            -55.8917544,
+            -27.3800332
+          ],
+          [
+            -55.8917715,
+            -27.3801563
+          ],
+          [
+            -55.891805,
+            -27.3803732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341081146",
+      "properties": {
+        "@id": "way/341081146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891995,
+            -27.3817971
+          ],
+          [
+            -55.8920164,
+            -27.3819656
+          ],
+          [
+            -55.89212,
+            -27.3826928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381950159",
+      "properties": {
+        "@id": "way/381950159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918353,
+            -27.3806084
+          ],
+          [
+            -55.89185,
+            -27.3807141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49196938",
+      "properties": {
+        "@id": "way/49196938",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925199,
+            -27.3747642
+          ],
+          [
+            -55.8925526,
+            -27.3750001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350562",
+      "properties": {
+        "@id": "way/312350562",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925526,
+            -27.3750001
+          ],
+          [
+            -55.8918304,
+            -27.375079
+          ],
+          [
+            -55.8914876,
+            -27.3751164
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429742",
+      "properties": {
+        "@id": "way/256429742",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910938,
+            -27.3644611
+          ],
+          [
+            -55.8912236,
+            -27.3653993
+          ],
+          [
+            -55.8913323,
+            -27.3661845
+          ],
+          [
+            -55.8913509,
+            -27.3663191
+          ],
+          [
+            -55.8914787,
+            -27.3672424
+          ],
+          [
+            -55.8915801,
+            -27.3679746
+          ],
+          [
+            -55.8916092,
+            -27.3681845
+          ],
+          [
+            -55.8916617,
+            -27.3685642
+          ],
+          [
+            -55.8917379,
+            -27.3691152
+          ],
+          [
+            -55.8918683,
+            -27.3700564
+          ],
+          [
+            -55.8919972,
+            -27.3709882
+          ],
+          [
+            -55.8921268,
+            -27.371924
+          ],
+          [
+            -55.8922026,
+            -27.3724715
+          ],
+          [
+            -55.892257,
+            -27.3728647
+          ],
+          [
+            -55.8923857,
+            -27.3737942
+          ],
+          [
+            -55.8924861,
+            -27.3745196
+          ],
+          [
+            -55.8925199,
+            -27.3747642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967878",
+      "properties": {
+        "@id": "way/43967878",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907218,
+            -27.3615969
+          ],
+          [
+            -55.8907365,
+            -27.3617124
+          ],
+          [
+            -55.8908494,
+            -27.3625996
+          ],
+          [
+            -55.890942,
+            -27.3633777
+          ],
+          [
+            -55.8909686,
+            -27.3635403
+          ],
+          [
+            -55.8910938,
+            -27.3644611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967885",
+      "properties": {
+        "@id": "way/43967885",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8949182,
+            -27.3611864
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350566",
+      "properties": {
+        "@id": "way/312350566",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.893877,
+            -27.3612975
+          ],
+          [
+            -55.8927655,
+            -27.3614161
+          ],
+          [
+            -55.8924286,
+            -27.361452
+          ],
+          [
+            -55.8919258,
+            -27.3615056
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350573",
+      "properties": {
+        "@id": "way/312350573",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907715,
+            -27.361584
+          ],
+          [
+            -55.8907475,
+            -27.3615929
+          ],
+          [
+            -55.8907218,
+            -27.3615969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541672",
+      "properties": {
+        "@id": "way/388541672",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8949182,
+            -27.3611864
+          ],
+          [
+            -55.8940569,
+            -27.3612783
+          ],
+          [
+            -55.893877,
+            -27.3612975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489609",
+      "properties": {
+        "@id": "way/389489609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.8908223,
+            -27.3616287
+          ],
+          [
+            -55.8907715,
+            -27.361584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677076",
+      "properties": {
+        "@id": "way/318677076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8941099,
+            -27.3552993
+          ],
+          [
+            -55.8941642,
+            -27.355701
+          ],
+          [
+            -55.894214,
+            -27.3560719
+          ],
+          [
+            -55.8942246,
+            -27.3561508
+          ],
+          [
+            -55.8942365,
+            -27.3562394
+          ],
+          [
+            -55.8943604,
+            -27.3571587
+          ],
+          [
+            -55.894469,
+            -27.3579649
+          ],
+          [
+            -55.894485,
+            -27.3580836
+          ],
+          [
+            -55.8946133,
+            -27.359036
+          ],
+          [
+            -55.894738,
+            -27.3599611
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/282646944",
+      "properties": {
+        "@id": "way/282646944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8939843,
+            -27.3543675
+          ],
+          [
+            -55.8941099,
+            -27.3552993
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281102",
+      "properties": {
+        "@id": "way/198281102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888781,
+            -27.4317128
+          ],
+          [
+            -55.8890461,
+            -27.4318268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281104",
+      "properties": {
+        "@id": "way/198281104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8890461,
+            -27.4318268
+          ],
+          [
+            -55.8889107,
+            -27.4320507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1974081529",
+      "properties": {
+        "@id": "node/1974081529",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8979235,
+          -27.424272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3169093367",
+      "properties": {
+        "@id": "node/3169093367",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8977526,
+          -27.4241719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1974081530",
+      "properties": {
+        "@id": "node/1974081530",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8936643,
+          -27.4274466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894271",
+      "properties": {
+        "@id": "node/3181894271",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8935826,
+          -27.427372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2741481000",
+      "properties": {
+        "@id": "node/2741481000",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9030465,
+          -27.4065071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894265",
+      "properties": {
+        "@id": "node/3181894265",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9023367,
+          -27.4099166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894267",
+      "properties": {
+        "@id": "node/3181894267",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9031547,
+          -27.4065017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894266",
+      "properties": {
+        "@id": "node/3181894266",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9017171,
+          -27.4125405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894269",
+      "properties": {
+        "@id": "node/3181894269",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9015596,
+          -27.4125948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181825893",
+      "properties": {
+        "@id": "node/3181825893",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9019199,
+          -27.4044933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181825915",
+      "properties": {
+        "@id": "node/3181825915",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.9019451,
+          -27.4045759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181825917",
+      "properties": {
+        "@id": "node/3181825917",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8983544,
+          -27.4049643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3181894268",
+      "properties": {
+        "@id": "node/3181894268",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.902195,
+          -27.409898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197320",
+      "properties": {
+        "@id": "node/3153197320",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8954932,
+          -27.405095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197340",
+      "properties": {
+        "@id": "node/3153197340",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8954053,
+          -27.4050939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197303",
+      "properties": {
+        "@id": "node/3153197303",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8943941,
+          -27.3983113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197308",
+      "properties": {
+        "@id": "node/3153197308",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8950733,
+          -27.4019518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197312",
+      "properties": {
+        "@id": "node/3153197312",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.894884,
+          -27.4004088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197337",
+      "properties": {
+        "@id": "node/3153197337",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8943276,
+          -27.3983207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197338",
+      "properties": {
+        "@id": "node/3153197338",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8947735,
+          -27.4004215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197339",
+      "properties": {
+        "@id": "node/3153197339",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8949519,
+          -27.4019779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197300",
+      "properties": {
+        "@id": "node/3153197300",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8936609,
+          -27.3929643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197317",
+      "properties": {
+        "@id": "node/3153197317",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8934902,
+          -27.3916213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197318",
+      "properties": {
+        "@id": "node/3153197318",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.893944,
+          -27.3949619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197332",
+      "properties": {
+        "@id": "node/3153197332",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8933654,
+          -27.3916188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197333",
+      "properties": {
+        "@id": "node/3153197333",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8935584,
+          -27.3929982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197335",
+      "properties": {
+        "@id": "node/3153197335",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8938399,
+          -27.3949679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197305",
+      "properties": {
+        "@id": "node/3153197305",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8925217,
+          -27.3849525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197313",
+      "properties": {
+        "@id": "node/3153197313",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8929905,
+          -27.3882903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197329",
+      "properties": {
+        "@id": "node/3153197329",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8924293,
+          -27.3849257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197330",
+      "properties": {
+        "@id": "node/3153197330",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8929042,
+          -27.3883117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197302",
+      "properties": {
+        "@id": "node/3153197302",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8922689,
+          -27.3833023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197310",
+      "properties": {
+        "@id": "node/3153197310",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8917257,
+          -27.3792634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197316",
+      "properties": {
+        "@id": "node/3153197316",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8920533,
+          -27.3815127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197323",
+      "properties": {
+        "@id": "node/3153197323",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8916447,
+          -27.3792717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197325",
+      "properties": {
+        "@id": "node/3153197325",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8919517,
+          -27.3815004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197327",
+      "properties": {
+        "@id": "node/3153197327",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8922063,
+          -27.3833187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212100",
+      "properties": {
+        "@id": "node/3150212100",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8922758,
+          -27.3724422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212103",
+      "properties": {
+        "@id": "node/3150212103",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8925783,
+          -27.3744995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212136",
+      "properties": {
+        "@id": "node/3150212136",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8922026,
+          -27.3724715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212138",
+      "properties": {
+        "@id": "node/3150212138",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8924861,
+          -27.3745196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197306",
+      "properties": {
+        "@id": "node/3153197306",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8912682,
+          -27.3759715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3153197321",
+      "properties": {
+        "@id": "node/3153197321",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8912128,
+          -27.3759856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212102",
+      "properties": {
+        "@id": "node/3150212102",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8916609,
+          -27.3679749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212104",
+      "properties": {
+        "@id": "node/3150212104",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8914387,
+          -27.3661533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212127",
+      "properties": {
+        "@id": "node/3150212127",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8913323,
+          -27.3661845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212129",
+      "properties": {
+        "@id": "node/3150212129",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8915801,
+          -27.3679746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212101",
+      "properties": {
+        "@id": "node/3150212101",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8910525,
+          -27.3633461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3150212114",
+      "properties": {
+        "@id": "node/3150212114",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.890942,
+          -27.3633777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039831",
+      "properties": {
+        "@id": "node/3152039831",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8919465,
+          -27.3615926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039832",
+      "properties": {
+        "@id": "node/3152039832",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.894078,
+          -27.3613605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039836",
+      "properties": {
+        "@id": "node/3152039836",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8940569,
+          -27.3612783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3152039837",
+      "properties": {
+        "@id": "node/3152039837",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8919258,
+          -27.3615056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3089154019",
+      "properties": {
+        "@id": "node/3089154019",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8937387,
+          -27.3543884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660895",
+      "properties": {
+        "@id": "node/3155660895",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8942836,
+          -27.3560515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660898",
+      "properties": {
+        "@id": "node/3155660898",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8945514,
+          -27.357904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660901",
+      "properties": {
+        "@id": "node/3155660901",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8937299,
+          -27.3544478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660903",
+      "properties": {
+        "@id": "node/3155660903",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.894214,
+          -27.3560719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3155660905",
+      "properties": {
+        "@id": "node/3155660905",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.894469,
+          -27.3579649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2711285217",
+      "properties": {
+        "@id": "node/2711285217",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 4186516,
+            "reltags": {
+              "colour": "#FFFF00",
+              "from": "Parque paraguayo",
+              "name": "Línea 02: Parque Paraguayo → x Hospital → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "02",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.8889107,
+          -27.4320507
+        ]
+      }
+    }
+  ]
+}

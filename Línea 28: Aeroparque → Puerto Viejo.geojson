@@ -1,0 +1,3724 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:43:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/33113122",
+      "properties": {
+        "@id": "way/33113122",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9549136,
+            -27.3986706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33411932",
+      "properties": {
+        "@id": "way/33411932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9562468,
+            -27.3985181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711454",
+      "properties": {
+        "@id": "way/101711454",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9607504,
+            -27.3980996
+          ],
+          [
+            -55.9608213,
+            -27.3981366
+          ],
+          [
+            -55.9608644,
+            -27.3981705
+          ],
+          [
+            -55.9608959,
+            -27.3982259
+          ],
+          [
+            -55.9609056,
+            -27.3982873
+          ],
+          [
+            -55.9608926,
+            -27.3983483
+          ],
+          [
+            -55.9608583,
+            -27.3984023
+          ],
+          [
+            -55.9608062,
+            -27.3984436
+          ],
+          [
+            -55.9607419,
+            -27.398468
+          ],
+          [
+            -55.9606025,
+            -27.3984639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255323413",
+      "properties": {
+        "@id": "way/255323413",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9562468,
+            -27.3985181
+          ],
+          [
+            -55.9564847,
+            -27.3984918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531392",
+      "properties": {
+        "@id": "way/388531392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.960399,
+            -27.3980541
+          ],
+          [
+            -55.9607504,
+            -27.3980996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531394",
+      "properties": {
+        "@id": "way/388531394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9606025,
+            -27.3984639
+          ],
+          [
+            -55.9602963,
+            -27.3984254
+          ],
+          [
+            -55.9595588,
+            -27.3983517
+          ],
+          [
+            -55.9588778,
+            -27.3983321
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706894",
+      "properties": {
+        "@id": "way/397706894",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9588778,
+            -27.3983321
+          ],
+          [
+            -55.9580061,
+            -27.3983508
+          ],
+          [
+            -55.9564847,
+            -27.3984918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711441",
+      "properties": {
+        "@id": "way/101711441",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632891,
+            -27.3929392
+          ],
+          [
+            -55.9629745,
+            -27.393168
+          ],
+          [
+            -55.9625448,
+            -27.3935433
+          ],
+          [
+            -55.962309,
+            -27.3937589
+          ],
+          [
+            -55.9622203,
+            -27.3938522
+          ],
+          [
+            -55.9621362,
+            -27.3939517
+          ],
+          [
+            -55.961786,
+            -27.394531
+          ],
+          [
+            -55.9616582,
+            -27.3947425
+          ],
+          [
+            -55.9614451,
+            -27.3951088
+          ],
+          [
+            -55.9611855,
+            -27.395555
+          ],
+          [
+            -55.9610192,
+            -27.3958408
+          ],
+          [
+            -55.9601736,
+            -27.3972943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711456",
+      "properties": {
+        "@id": "way/101711456",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9601736,
+            -27.3972943
+          ],
+          [
+            -55.9601428,
+            -27.3974065
+          ],
+          [
+            -55.9601366,
+            -27.3975405
+          ],
+          [
+            -55.9601459,
+            -27.397598
+          ],
+          [
+            -55.9601674,
+            -27.3977375
+          ],
+          [
+            -55.9601983,
+            -27.3978031
+          ],
+          [
+            -55.9602845,
+            -27.397929
+          ],
+          [
+            -55.960399,
+            -27.3980541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877228",
+      "properties": {
+        "@id": "way/339877228",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9549136,
+            -27.3986706
+          ],
+          [
+            -55.9531432,
+            -27.3988693
+          ],
+          [
+            -55.9523069,
+            -27.3989631
+          ],
+          [
+            -55.9517143,
+            -27.3990311
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43991601",
+      "properties": {
+        "@id": "way/43991601",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9651951,
+            -27.3922144
+          ],
+          [
+            -55.9649951,
+            -27.3921871
+          ],
+          [
+            -55.9646882,
+            -27.392222
+          ],
+          [
+            -55.9645475,
+            -27.392238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711451",
+      "properties": {
+        "@id": "way/101711451",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.963856,
+            -27.3925474
+          ],
+          [
+            -55.9635641,
+            -27.3927491
+          ],
+          [
+            -55.9634408,
+            -27.392846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259333035",
+      "properties": {
+        "@id": "way/259333035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9645475,
+            -27.392238
+          ],
+          [
+            -55.963856,
+            -27.3925474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360972831",
+      "properties": {
+        "@id": "way/360972831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9663151,
+            -27.3921138
+          ],
+          [
+            -55.966196,
+            -27.3922232
+          ],
+          [
+            -55.965346,
+            -27.3922072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531395",
+      "properties": {
+        "@id": "way/388531395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9634408,
+            -27.392846
+          ],
+          [
+            -55.9634001,
+            -27.3928886
+          ],
+          [
+            -55.9633483,
+            -27.3929204
+          ],
+          [
+            -55.9632891,
+            -27.3929392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531398",
+      "properties": {
+        "@id": "way/388531398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.965346,
+            -27.3922072
+          ],
+          [
+            -55.9651951,
+            -27.3922144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531401",
+      "properties": {
+        "@id": "way/388531401",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9663062,
+            -27.3916991
+          ],
+          [
+            -55.9663072,
+            -27.3917444
+          ],
+          [
+            -55.9663095,
+            -27.3918516
+          ],
+          [
+            -55.9663115,
+            -27.3919429
+          ],
+          [
+            -55.9663138,
+            -27.3920491
+          ],
+          [
+            -55.9663151,
+            -27.3921138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727757",
+      "properties": {
+        "@id": "way/257727757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9460621,
+            -27.3996634
+          ],
+          [
+            -55.9457879,
+            -27.3996935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727758",
+      "properties": {
+        "@id": "way/257727758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9457879,
+            -27.3996935
+          ],
+          [
+            -55.9455387,
+            -27.3997226
+          ],
+          [
+            -55.9447151,
+            -27.399815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260707184",
+      "properties": {
+        "@id": "way/260707184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438578,
+            -27.3999084
+          ],
+          [
+            -55.9433124,
+            -27.3999707
+          ],
+          [
+            -55.9430805,
+            -27.3999994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962173",
+      "properties": {
+        "@id": "way/262962173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9447151,
+            -27.399815
+          ],
+          [
+            -55.944244,
+            -27.3998679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962174",
+      "properties": {
+        "@id": "way/262962174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.944244,
+            -27.3998679
+          ],
+          [
+            -55.9438578,
+            -27.3999084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736567",
+      "properties": {
+        "@id": "way/396736567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9474594,
+            -27.399507
+          ],
+          [
+            -55.9466016,
+            -27.3996033
+          ],
+          [
+            -55.9460621,
+            -27.3996634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877227",
+      "properties": {
+        "@id": "way/339877227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9430805,
+            -27.3999994
+          ],
+          [
+            -55.9428924,
+            -27.4000195
+          ],
+          [
+            -55.9419715,
+            -27.4001228
+          ],
+          [
+            -55.9418934,
+            -27.4001298
+          ],
+          [
+            -55.9411039,
+            -27.4002202
+          ],
+          [
+            -55.9401963,
+            -27.4003202
+          ],
+          [
+            -55.9401245,
+            -27.4003301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877229",
+      "properties": {
+        "@id": "way/339877229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9514201,
+            -27.3990635
+          ],
+          [
+            -55.950517,
+            -27.399164
+          ],
+          [
+            -55.9501498,
+            -27.3992052
+          ],
+          [
+            -55.9493056,
+            -27.3992999
+          ],
+          [
+            -55.9491901,
+            -27.3993113
+          ],
+          [
+            -55.9489742,
+            -27.3993371
+          ],
+          [
+            -55.9487541,
+            -27.3993685
+          ],
+          [
+            -55.9477973,
+            -27.3994691
+          ],
+          [
+            -55.9474594,
+            -27.399507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370333",
+      "properties": {
+        "@id": "way/340370333",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9363892,
+            -27.4007492
+          ],
+          [
+            -55.9359982,
+            -27.4007952
+          ],
+          [
+            -55.9358151,
+            -27.4008149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396594249",
+      "properties": {
+        "@id": "way/396594249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401245,
+            -27.4003301
+          ],
+          [
+            -55.9399529,
+            -27.4003493
+          ],
+          [
+            -55.9398026,
+            -27.4003683
+          ],
+          [
+            -55.9390129,
+            -27.4004548
+          ],
+          [
+            -55.9372285,
+            -27.400655
+          ],
+          [
+            -55.9363892,
+            -27.4007492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264859709",
+      "properties": {
+        "@id": "way/264859709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9304691,
+            -27.4014135
+          ],
+          [
+            -55.9298541,
+            -27.4014691
+          ],
+          [
+            -55.9293813,
+            -27.4015146
+          ],
+          [
+            -55.928869,
+            -27.4015744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370332",
+      "properties": {
+        "@id": "way/340370332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326167,
+            -27.4011965
+          ],
+          [
+            -55.9324105,
+            -27.4012201
+          ],
+          [
+            -55.9316605,
+            -27.4012798
+          ],
+          [
+            -55.9307573,
+            -27.4013812
+          ],
+          [
+            -55.9307057,
+            -27.4013898
+          ],
+          [
+            -55.9304691,
+            -27.4014135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355801506",
+      "properties": {
+        "@id": "way/355801506",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9358151,
+            -27.4008149
+          ],
+          [
+            -55.9355267,
+            -27.400846
+          ],
+          [
+            -55.9344705,
+            -27.4009645
+          ],
+          [
+            -55.9328039,
+            -27.4011747
+          ],
+          [
+            -55.9326167,
+            -27.4011965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396592708",
+      "properties": {
+        "@id": "way/396592708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.928869,
+            -27.4015744
+          ],
+          [
+            -55.9282859,
+            -27.4016018
+          ],
+          [
+            -55.9278521,
+            -27.4016221
+          ],
+          [
+            -55.9272998,
+            -27.4016482
+          ],
+          [
+            -55.9270636,
+            -27.4016565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399773231",
+      "properties": {
+        "@id": "way/399773231",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9270636,
+            -27.4016565
+          ],
+          [
+            -55.9261031,
+            -27.4017122
+          ],
+          [
+            -55.9259213,
+            -27.4017294
+          ],
+          [
+            -55.9254568,
+            -27.4017828
+          ],
+          [
+            -55.9250711,
+            -27.40185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314360646",
+      "properties": {
+        "@id": "way/314360646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181009,
+            -27.4027768
+          ],
+          [
+            -55.9176485,
+            -27.402829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339858199",
+      "properties": {
+        "@id": "way/339858199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9213945,
+            -27.4023956
+          ],
+          [
+            -55.9213605,
+            -27.402398
+          ],
+          [
+            -55.9209364,
+            -27.402453
+          ],
+          [
+            -55.9201002,
+            -27.4025449
+          ],
+          [
+            -55.9197263,
+            -27.4025942
+          ],
+          [
+            -55.9195831,
+            -27.4026145
+          ],
+          [
+            -55.9188865,
+            -27.4026857
+          ],
+          [
+            -55.9181009,
+            -27.4027768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531390",
+      "properties": {
+        "@id": "way/388531390",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.920854,
+            -27.3989005
+          ],
+          [
+            -55.9207407,
+            -27.3980812
+          ],
+          [
+            -55.9207071,
+            -27.3978382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605143",
+      "properties": {
+        "@id": "way/388605143",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9171314,
+            -27.3993141
+          ],
+          [
+            -55.9172812,
+            -27.3992999
+          ],
+          [
+            -55.9174938,
+            -27.3992717
+          ],
+          [
+            -55.9184018,
+            -27.3991746
+          ],
+          [
+            -55.9196305,
+            -27.3990371
+          ],
+          [
+            -55.9205849,
+            -27.3989303
+          ],
+          [
+            -55.920854,
+            -27.3989005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265036353",
+      "properties": {
+        "@id": "way/265036353",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134498,
+            -27.3997462
+          ],
+          [
+            -55.913478,
+            -27.399724
+          ],
+          [
+            -55.914741,
+            -27.3995876
+          ],
+          [
+            -55.9155714,
+            -27.3994935
+          ],
+          [
+            -55.9156965,
+            -27.3994839
+          ],
+          [
+            -55.9159494,
+            -27.3994509
+          ],
+          [
+            -55.9171314,
+            -27.3993141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500924",
+      "properties": {
+        "@id": "way/272500924",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9198488,
+            -27.3914291
+          ],
+          [
+            -55.9197508,
+            -27.3907541
+          ],
+          [
+            -55.9197175,
+            -27.3905245
+          ],
+          [
+            -55.9195808,
+            -27.3895817
+          ],
+          [
+            -55.9195102,
+            -27.389095
+          ],
+          [
+            -55.9194864,
+            -27.388931
+          ],
+          [
+            -55.9192458,
+            -27.3872721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500929",
+      "properties": {
+        "@id": "way/272500929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9207071,
+            -27.3978382
+          ],
+          [
+            -55.9205581,
+            -27.3967611
+          ],
+          [
+            -55.9204332,
+            -27.3958409
+          ],
+          [
+            -55.9204078,
+            -27.3956623
+          ],
+          [
+            -55.9203969,
+            -27.3955859
+          ],
+          [
+            -55.9202686,
+            -27.3944648
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381016",
+      "properties": {
+        "@id": "way/340381016",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9250711,
+            -27.40185
+          ],
+          [
+            -55.9249577,
+            -27.4018674
+          ],
+          [
+            -55.9249137,
+            -27.4018741
+          ],
+          [
+            -55.9247604,
+            -27.4018994
+          ],
+          [
+            -55.9246444,
+            -27.4019217
+          ],
+          [
+            -55.9241217,
+            -27.4020219
+          ],
+          [
+            -55.9237479,
+            -27.4020856
+          ],
+          [
+            -55.9232162,
+            -27.402169
+          ],
+          [
+            -55.9226677,
+            -27.4022314
+          ],
+          [
+            -55.9222811,
+            -27.40229
+          ],
+          [
+            -55.92223,
+            -27.4022978
+          ],
+          [
+            -55.9219872,
+            -27.4023279
+          ],
+          [
+            -55.9216661,
+            -27.4023676
+          ],
+          [
+            -55.9214305,
+            -27.4023921
+          ],
+          [
+            -55.9213945,
+            -27.4023956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918051",
+      "properties": {
+        "@id": "way/343918051",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9176485,
+            -27.402829
+          ],
+          [
+            -55.9174542,
+            -27.4028518
+          ],
+          [
+            -55.916988,
+            -27.4029045
+          ],
+          [
+            -55.9169085,
+            -27.4029134
+          ],
+          [
+            -55.9161018,
+            -27.4030034
+          ],
+          [
+            -55.914747,
+            -27.4031553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500927",
+      "properties": {
+        "@id": "way/272500927",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9202686,
+            -27.3944648
+          ],
+          [
+            -55.9201156,
+            -27.3933587
+          ],
+          [
+            -55.9199924,
+            -27.3924678
+          ],
+          [
+            -55.9199683,
+            -27.3922935
+          ],
+          [
+            -55.9199595,
+            -27.3922296
+          ],
+          [
+            -55.9198488,
+            -27.3914291
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500920",
+      "properties": {
+        "@id": "way/272500920",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9192458,
+            -27.3872721
+          ],
+          [
+            -55.9190409,
+            -27.385788
+          ],
+          [
+            -55.919014,
+            -27.3855953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132227",
+      "properties": {
+        "@id": "way/389132227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.919014,
+            -27.3855953
+          ],
+          [
+            -55.9189435,
+            -27.3850738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499784",
+      "properties": {
+        "@id": "way/272499784",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180222,
+            -27.3784237
+          ],
+          [
+            -55.9178937,
+            -27.3774939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500918",
+      "properties": {
+        "@id": "way/272500918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9189435,
+            -27.3850738
+          ],
+          [
+            -55.9188136,
+            -27.3841466
+          ],
+          [
+            -55.9187832,
+            -27.3839267
+          ],
+          [
+            -55.9186859,
+            -27.3832227
+          ],
+          [
+            -55.9186716,
+            -27.3831197
+          ],
+          [
+            -55.9185783,
+            -27.3824446
+          ],
+          [
+            -55.9185548,
+            -27.382275
+          ],
+          [
+            -55.9184351,
+            -27.3814092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499786",
+      "properties": {
+        "@id": "way/272499786",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9183241,
+            -27.3806073
+          ],
+          [
+            -55.9182088,
+            -27.3797726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499789",
+      "properties": {
+        "@id": "way/272499789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9182088,
+            -27.3797726
+          ],
+          [
+            -55.9181392,
+            -27.379269
+          ],
+          [
+            -55.9180906,
+            -27.3789177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500915",
+      "properties": {
+        "@id": "way/272500915",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9184351,
+            -27.3814092
+          ],
+          [
+            -55.9183241,
+            -27.3806073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132228",
+      "properties": {
+        "@id": "way/389132228",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180906,
+            -27.3789177
+          ],
+          [
+            -55.9180222,
+            -27.3784237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256661403",
+      "properties": {
+        "@id": "way/256661403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9139057,
+            -27.4032515
+          ],
+          [
+            -55.9138503,
+            -27.4031655
+          ],
+          [
+            -55.9137653,
+            -27.4025381
+          ],
+          [
+            -55.9137436,
+            -27.4023781
+          ],
+          [
+            -55.9136903,
+            -27.401977
+          ],
+          [
+            -55.9136296,
+            -27.4015207
+          ],
+          [
+            -55.9136187,
+            -27.4014421
+          ],
+          [
+            -55.9135797,
+            -27.40116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263020",
+      "properties": {
+        "@id": "way/320263020",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.914747,
+            -27.4031553
+          ],
+          [
+            -55.9146132,
+            -27.4031703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355792328",
+      "properties": {
+        "@id": "way/355792328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9146132,
+            -27.4031703
+          ],
+          [
+            -55.9139057,
+            -27.4032515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383102600",
+      "properties": {
+        "@id": "way/383102600",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9135797,
+            -27.40116
+          ],
+          [
+            -55.9135196,
+            -27.4007247
+          ],
+          [
+            -55.9134006,
+            -27.3998468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541674",
+      "properties": {
+        "@id": "way/388541674",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134006,
+            -27.3998468
+          ],
+          [
+            -55.9134498,
+            -27.3997462
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499780",
+      "properties": {
+        "@id": "way/272499780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9177638,
+            -27.3765548
+          ],
+          [
+            -55.917631,
+            -27.3755938
+          ],
+          [
+            -55.9174299,
+            -27.3741405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499782",
+      "properties": {
+        "@id": "way/272499782",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9178937,
+            -27.3774939
+          ],
+          [
+            -55.9177638,
+            -27.3765548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499793",
+      "properties": {
+        "@id": "way/272499793",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9174299,
+            -27.3741405
+          ],
+          [
+            -55.9173087,
+            -27.3732634
+          ],
+          [
+            -55.9171663,
+            -27.3722339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341077789",
+      "properties": {
+        "@id": "way/341077789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9171663,
+            -27.3722339
+          ],
+          [
+            -55.9162166,
+            -27.3723384
+          ],
+          [
+            -55.9160134,
+            -27.3723611
+          ],
+          [
+            -55.9153958,
+            -27.3724287
+          ],
+          [
+            -55.9153489,
+            -27.3724338
+          ],
+          [
+            -55.9146911,
+            -27.3725059
+          ],
+          [
+            -55.9146321,
+            -27.3725124
+          ],
+          [
+            -55.9144315,
+            -27.3725346
+          ],
+          [
+            -55.913572,
+            -27.3726291
+          ],
+          [
+            -55.9134981,
+            -27.3726434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255588438",
+      "properties": {
+        "@id": "way/255588438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134981,
+            -27.3726434
+          ],
+          [
+            -55.9134253,
+            -27.3726514
+          ],
+          [
+            -55.9125244,
+            -27.3727505
+          ],
+          [
+            -55.9118035,
+            -27.3728298
+          ],
+          [
+            -55.9116185,
+            -27.3728501
+          ],
+          [
+            -55.911421,
+            -27.3728718
+          ],
+          [
+            -55.9097374,
+            -27.3730558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605145",
+      "properties": {
+        "@id": "way/388605145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023022,
+            -27.3738755
+          ],
+          [
+            -55.9022679,
+            -27.3739391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228303240",
+      "properties": {
+        "@id": "way/228303240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022679,
+            -27.3739391
+          ],
+          [
+            -55.9022048,
+            -27.3739724
+          ],
+          [
+            -55.9021318,
+            -27.373978
+          ],
+          [
+            -55.9020633,
+            -27.3739549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106548",
+      "properties": {
+        "@id": "way/383106548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9086073,
+            -27.3731803
+          ],
+          [
+            -55.9081026,
+            -27.373236
+          ],
+          [
+            -55.9072023,
+            -27.3733353
+          ],
+          [
+            -55.9070023,
+            -27.3733573
+          ],
+          [
+            -55.9067973,
+            -27.37338
+          ],
+          [
+            -55.9059929,
+            -27.3734686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541690",
+      "properties": {
+        "@id": "way/388541690",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9020097,
+            -27.3739026
+          ],
+          [
+            -55.9019901,
+            -27.3738342
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113063",
+      "properties": {
+        "@id": "way/33113063",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.9019864,
+            -27.3736718
+          ],
+          [
+            -55.9018621,
+            -27.3729076
+          ],
+          [
+            -55.9018416,
+            -27.3727691
+          ],
+          [
+            -55.9017146,
+            -27.3718372
+          ],
+          [
+            -55.901581,
+            -27.370883
+          ],
+          [
+            -55.9015373,
+            -27.3705685
+          ],
+          [
+            -55.9015208,
+            -27.3704499
+          ],
+          [
+            -55.90147,
+            -27.370084
+          ],
+          [
+            -55.9014649,
+            -27.3700471
+          ],
+          [
+            -55.901451,
+            -27.3699474
+          ],
+          [
+            -55.9014376,
+            -27.3698511
+          ],
+          [
+            -55.9013321,
+            -27.3690915
+          ],
+          [
+            -55.9013218,
+            -27.3690175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263550326",
+      "properties": {
+        "@id": "way/263550326",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8953072,
+            -27.3640019
+          ],
+          [
+            -55.8942664,
+            -27.3641154
+          ],
+          [
+            -55.893206,
+            -27.3642309
+          ],
+          [
+            -55.8922784,
+            -27.364332
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8910938,
+            -27.3644611
+          ],
+          [
+            -55.8902301,
+            -27.3645552
+          ],
+          [
+            -55.8900155,
+            -27.3645786
+          ],
+          [
+            -55.8890323,
+            -27.3646857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791933",
+      "properties": {
+        "@id": "way/308791933",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010558,
+            -27.3671017
+          ],
+          [
+            -55.9009551,
+            -27.3663765
+          ],
+          [
+            -55.9009307,
+            -27.366201
+          ],
+          [
+            -55.9009196,
+            -27.3661212
+          ],
+          [
+            -55.9008159,
+            -27.3653748
+          ],
+          [
+            -55.9008044,
+            -27.365292
+          ],
+          [
+            -55.9007668,
+            -27.3650212
+          ],
+          [
+            -55.9006754,
+            -27.3643628
+          ],
+          [
+            -55.9006202,
+            -27.3639666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307890360",
+      "properties": {
+        "@id": "way/307890360",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.90119,
+            -27.3680682
+          ],
+          [
+            -55.901082,
+            -27.3672903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106541",
+      "properties": {
+        "@id": "way/383106541",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013218,
+            -27.3690175
+          ],
+          [
+            -55.9013135,
+            -27.3689577
+          ],
+          [
+            -55.9012037,
+            -27.368167
+          ],
+          [
+            -55.90119,
+            -27.3680682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489605",
+      "properties": {
+        "@id": "way/389489605",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901082,
+            -27.3672903
+          ],
+          [
+            -55.9010631,
+            -27.3671542
+          ],
+          [
+            -55.9010558,
+            -27.3671017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967889",
+      "properties": {
+        "@id": "way/43967889",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005459,
+            -27.3634306
+          ],
+          [
+            -55.8994818,
+            -27.3635465
+          ],
+          [
+            -55.8986071,
+            -27.3636432
+          ],
+          [
+            -55.8984422,
+            -27.3636598
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8963557,
+            -27.3638877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639786",
+      "properties": {
+        "@id": "way/398639786",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9006202,
+            -27.3639666
+          ],
+          [
+            -55.9006134,
+            -27.3639178
+          ],
+          [
+            -55.9005459,
+            -27.3634306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429748",
+      "properties": {
+        "@id": "way/256429748",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8963557,
+            -27.3638877
+          ],
+          [
+            -55.8954738,
+            -27.3639838
+          ],
+          [
+            -55.8953072,
+            -27.3640019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43974939",
+      "properties": {
+        "@id": "way/43974939",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5809455,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 28 sentido Aeroparque - Pueto Viejo",
+              "from": "Aeropuerto Libertador General San Martín",
+              "name": "Línea 28: Aeroparque → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8890323,
+            -27.3646857
+          ],
+          [
+            -55.8888051,
+            -27.3647101
+          ],
+          [
+            -55.8885894,
+            -27.3646841
+          ],
+          [
+            -55.8879085,
+            -27.3644644
+          ],
+          [
+            -55.8870745,
+            -27.3640508
+          ],
+          [
+            -55.8869017,
+            -27.3639677
+          ]
+        ]
+      }
+    }
+  ]
+}

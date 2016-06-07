@@ -1,0 +1,1562 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/48408796",
+      "properties": {
+        "@id": "way/48408796",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8560603,
+            -27.4652521
+          ],
+          [
+            -55.8556398,
+            -27.4658557
+          ],
+          [
+            -55.8554801,
+            -27.4660086
+          ],
+          [
+            -55.8554033,
+            -27.4660652
+          ],
+          [
+            -55.8543424,
+            -27.4665133
+          ],
+          [
+            -55.8527227,
+            -27.4672169
+          ],
+          [
+            -55.8506464,
+            -27.46812
+          ],
+          [
+            -55.8473468,
+            -27.4695553
+          ],
+          [
+            -55.8471072,
+            -27.4696746
+          ],
+          [
+            -55.8469264,
+            -27.469779
+          ],
+          [
+            -55.8465725,
+            -27.4700181
+          ],
+          [
+            -55.8450353,
+            -27.4712007
+          ],
+          [
+            -55.8433852,
+            -27.4724026
+          ],
+          [
+            -55.8430535,
+            -27.4726442
+          ],
+          [
+            -55.8416088,
+            -27.4736963
+          ],
+          [
+            -55.8411484,
+            -27.4740317
+          ],
+          [
+            -55.8411099,
+            -27.4740597
+          ],
+          [
+            -55.8407057,
+            -27.4743541
+          ],
+          [
+            -55.8398073,
+            -27.4750117
+          ],
+          [
+            -55.8388121,
+            -27.475719
+          ],
+          [
+            -55.8378482,
+            -27.4764297
+          ],
+          [
+            -55.835899,
+            -27.4779241
+          ],
+          [
+            -55.8351052,
+            -27.4785326
+          ],
+          [
+            -55.8342828,
+            -27.4791455
+          ],
+          [
+            -55.8333531,
+            -27.479892
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49773986",
+      "properties": {
+        "@id": "way/49773986",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8614073,
+            -27.4570178
+          ],
+          [
+            -55.8611031,
+            -27.4567486
+          ],
+          [
+            -55.8607628,
+            -27.4564474
+          ],
+          [
+            -55.8603725,
+            -27.456102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49789807",
+      "properties": {
+        "@id": "way/49789807",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8603725,
+            -27.456102
+          ],
+          [
+            -55.859409,
+            -27.4569593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309659980",
+      "properties": {
+        "@id": "way/309659980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.858113,
+            -27.4558122
+          ],
+          [
+            -55.8586841,
+            -27.4563178
+          ],
+          [
+            -55.859409,
+            -27.4569593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341612",
+      "properties": {
+        "@id": "way/389341612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8615689,
+            -27.456788
+          ],
+          [
+            -55.8616389,
+            -27.4569261
+          ],
+          [
+            -55.8616819,
+            -27.4570321
+          ],
+          [
+            -55.8613241,
+            -27.4575387
+          ],
+          [
+            -55.861064,
+            -27.4579008
+          ],
+          [
+            -55.8605097,
+            -27.4587123
+          ],
+          [
+            -55.86042,
+            -27.4588436
+          ],
+          [
+            -55.8598059,
+            -27.4597412
+          ],
+          [
+            -55.8592713,
+            -27.4605407
+          ],
+          [
+            -55.8591818,
+            -27.4606746
+          ],
+          [
+            -55.8585207,
+            -27.4616477
+          ],
+          [
+            -55.8580614,
+            -27.4623233
+          ],
+          [
+            -55.8576618,
+            -27.462885
+          ],
+          [
+            -55.8573079,
+            -27.4633823
+          ],
+          [
+            -55.8571504,
+            -27.4636037
+          ],
+          [
+            -55.8567418,
+            -27.4642177
+          ],
+          [
+            -55.8565896,
+            -27.4644463
+          ],
+          [
+            -55.8560603,
+            -27.4652521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677541",
+      "properties": {
+        "@id": "way/391677541",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8614073,
+            -27.4570178
+          ],
+          [
+            -55.8615689,
+            -27.456788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263299840",
+      "properties": {
+        "@id": "way/263299840",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8740288,
+            -27.4441164
+          ],
+          [
+            -55.8747024,
+            -27.4435036
+          ],
+          [
+            -55.8747857,
+            -27.4434278
+          ],
+          [
+            -55.8749806,
+            -27.4432506
+          ],
+          [
+            -55.8756285,
+            -27.4426372
+          ],
+          [
+            -55.8763489,
+            -27.441934
+          ],
+          [
+            -55.8765653,
+            -27.4417199
+          ],
+          [
+            -55.8769784,
+            -27.4413759
+          ],
+          [
+            -55.8772558,
+            -27.4411566
+          ],
+          [
+            -55.8774726,
+            -27.4410256
+          ],
+          [
+            -55.8776637,
+            -27.4409101
+          ],
+          [
+            -55.87898,
+            -27.4401106
+          ],
+          [
+            -55.8805133,
+            -27.4391793
+          ],
+          [
+            -55.8816046,
+            -27.4385164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309659989",
+      "properties": {
+        "@id": "way/309659989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8649213,
+            -27.4530459
+          ],
+          [
+            -55.8643373,
+            -27.4534257
+          ],
+          [
+            -55.8638168,
+            -27.4537388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/335474798",
+      "properties": {
+        "@id": "way/335474798",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8678864,
+            -27.4502787
+          ],
+          [
+            -55.8667869,
+            -27.4513066
+          ],
+          [
+            -55.8658827,
+            -27.4521519
+          ],
+          [
+            -55.8658368,
+            -27.4521982
+          ],
+          [
+            -55.8657949,
+            -27.4522396
+          ],
+          [
+            -55.8656585,
+            -27.4523735
+          ],
+          [
+            -55.8653758,
+            -27.452651
+          ],
+          [
+            -55.8650685,
+            -27.452918
+          ],
+          [
+            -55.8649213,
+            -27.4530459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345413594",
+      "properties": {
+        "@id": "way/345413594",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8731804,
+            -27.4451901
+          ],
+          [
+            -55.8723982,
+            -27.4459419
+          ],
+          [
+            -55.8707754,
+            -27.4475018
+          ],
+          [
+            -55.8700967,
+            -27.4481541
+          ],
+          [
+            -55.8692772,
+            -27.4489418
+          ],
+          [
+            -55.8678864,
+            -27.4502787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369025216",
+      "properties": {
+        "@id": "way/369025216",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8638168,
+            -27.4537388
+          ],
+          [
+            -55.8629372,
+            -27.4542057
+          ],
+          [
+            -55.8627504,
+            -27.4543606
+          ],
+          [
+            -55.8625982,
+            -27.4545722
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341611",
+      "properties": {
+        "@id": "way/389341611",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8730665,
+            -27.445091
+          ],
+          [
+            -55.8740288,
+            -27.4441164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341614",
+      "properties": {
+        "@id": "way/389341614",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8730665,
+            -27.445091
+          ],
+          [
+            -55.8731804,
+            -27.4451901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237321529",
+      "properties": {
+        "@id": "way/237321529",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8828194,
+            -27.4376718
+          ],
+          [
+            -55.8829319,
+            -27.4375564
+          ],
+          [
+            -55.8834356,
+            -27.4370398
+          ],
+          [
+            -55.8835189,
+            -27.4369543
+          ],
+          [
+            -55.8836341,
+            -27.4368338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299641054",
+      "properties": {
+        "@id": "way/299641054",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8816046,
+            -27.4385164
+          ],
+          [
+            -55.8821194,
+            -27.4382168
+          ],
+          [
+            -55.882386,
+            -27.4380385
+          ],
+          [
+            -55.8824929,
+            -27.4379532
+          ],
+          [
+            -55.8826465,
+            -27.4378301
+          ],
+          [
+            -55.8828194,
+            -27.4376718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299641055",
+      "properties": {
+        "@id": "way/299641055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8836341,
+            -27.4368338
+          ],
+          [
+            -55.8842946,
+            -27.436134
+          ],
+          [
+            -55.8844126,
+            -27.4360037
+          ],
+          [
+            -55.8850759,
+            -27.4353453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281103",
+      "properties": {
+        "@id": "way/198281103",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888311,
+            -27.4323611
+          ],
+          [
+            -55.8887445,
+            -27.4324667
+          ],
+          [
+            -55.8885992,
+            -27.432573
+          ],
+          [
+            -55.8884449,
+            -27.4326788
+          ],
+          [
+            -55.8883197,
+            -27.4327647
+          ],
+          [
+            -55.888183,
+            -27.4328552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816822",
+      "properties": {
+        "@id": "way/254816822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888092,
+            -27.4327801
+          ],
+          [
+            -55.8879621,
+            -27.432673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725184",
+      "properties": {
+        "@id": "way/308725184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8879621,
+            -27.432673
+          ],
+          [
+            -55.8878962,
+            -27.432741
+          ],
+          [
+            -55.8872794,
+            -27.433321
+          ],
+          [
+            -55.886968,
+            -27.4336358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725270",
+      "properties": {
+        "@id": "way/308725270",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867556,
+            -27.4338519
+          ],
+          [
+            -55.8865134,
+            -27.4340983
+          ],
+          [
+            -55.8864651,
+            -27.4341462
+          ],
+          [
+            -55.8863816,
+            -27.4342288
+          ],
+          [
+            -55.8862641,
+            -27.4343417
+          ],
+          [
+            -55.8857244,
+            -27.4348572
+          ],
+          [
+            -55.8854991,
+            -27.4350204
+          ],
+          [
+            -55.8852795,
+            -27.4351473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361477740",
+      "properties": {
+        "@id": "way/361477740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888183,
+            -27.4328552
+          ],
+          [
+            -55.888092,
+            -27.4327801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341608",
+      "properties": {
+        "@id": "way/389341608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8850759,
+            -27.4353453
+          ],
+          [
+            -55.8851973,
+            -27.4352279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341610",
+      "properties": {
+        "@id": "way/389341610",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8851973,
+            -27.4352279
+          ],
+          [
+            -55.8852795,
+            -27.4351473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888630",
+      "properties": {
+        "@id": "way/392888630",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.886968,
+            -27.4336358
+          ],
+          [
+            -55.8867556,
+            -27.4338519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/323048764",
+      "properties": {
+        "@id": "way/323048764",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8614988,
+            -27.4548251
+          ],
+          [
+            -55.8609017,
+            -27.4547789
+          ],
+          [
+            -55.8604971,
+            -27.4548032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330716822",
+      "properties": {
+        "@id": "way/330716822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8593334,
+            -27.4551843
+          ],
+          [
+            -55.8589298,
+            -27.4554358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/345776252",
+      "properties": {
+        "@id": "way/345776252",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8604971,
+            -27.4548032
+          ],
+          [
+            -55.8603373,
+            -27.4548319
+          ],
+          [
+            -55.8600652,
+            -27.4549084
+          ],
+          [
+            -55.8593334,
+            -27.4551843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677545",
+      "properties": {
+        "@id": "way/391677545",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8589298,
+            -27.4554358
+          ],
+          [
+            -55.858113,
+            -27.4558122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677549",
+      "properties": {
+        "@id": "way/391677549",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8618188,
+            -27.4550037
+          ],
+          [
+            -55.8614988,
+            -27.4548251
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677550",
+      "properties": {
+        "@id": "way/391677550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5866190,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 48: Campus UNaM → x Américas → Don Santiago",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "48",
+              "route": "bus",
+              "to": "Don Santiago",
+              "type": "route",
+              "via": "Avenida de las Américas"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8625982,
+            -27.4545722
+          ],
+          [
+            -55.8625948,
+            -27.45467
+          ],
+          [
+            -55.8624875,
+            -27.4548247
+          ],
+          [
+            -55.8623159,
+            -27.4549556
+          ],
+          [
+            -55.8621335,
+            -27.4550032
+          ],
+          [
+            -55.8618188,
+            -27.4550037
+          ]
+        ]
+      }
+    }
+  ]
+}

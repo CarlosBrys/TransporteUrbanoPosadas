@@ -1,0 +1,2056 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/209290800",
+      "properties": {
+        "@id": "way/209290800",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9444001,
+            -27.3896339
+          ],
+          [
+            -55.944515,
+            -27.3905003
+          ],
+          [
+            -55.9447114,
+            -27.3919809
+          ],
+          [
+            -55.9448259,
+            -27.3928445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974064",
+      "properties": {
+        "@id": "way/398974064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9448259,
+            -27.3928445
+          ],
+          [
+            -55.9452312,
+            -27.3928033
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370328",
+      "properties": {
+        "@id": "way/340370328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9458812,
+            -27.3894587
+          ],
+          [
+            -55.9455653,
+            -27.389496
+          ],
+          [
+            -55.9449837,
+            -27.3895649
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396593559",
+      "properties": {
+        "@id": "way/396593559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9458812,
+            -27.3894587
+          ],
+          [
+            -55.9461793,
+            -27.3893776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396593560",
+      "properties": {
+        "@id": "way/396593560",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9457214,
+            -27.3860639
+          ],
+          [
+            -55.9458874,
+            -27.3872653
+          ],
+          [
+            -55.9459326,
+            -27.3875925
+          ],
+          [
+            -55.9460601,
+            -27.3885148
+          ],
+          [
+            -55.9461793,
+            -27.3893776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974060",
+      "properties": {
+        "@id": "way/398974060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9449837,
+            -27.3895649
+          ],
+          [
+            -55.9444001,
+            -27.3896339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256523024",
+      "properties": {
+        "@id": "way/256523024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.934099,
+            -27.383869
+          ],
+          [
+            -55.9349671,
+            -27.3837729
+          ],
+          [
+            -55.9358802,
+            -27.3836718
+          ],
+          [
+            -55.9368196,
+            -27.3835678
+          ],
+          [
+            -55.9376015,
+            -27.3834798
+          ],
+          [
+            -55.9376718,
+            -27.3834719
+          ],
+          [
+            -55.937765,
+            -27.3834631
+          ],
+          [
+            -55.93869,
+            -27.3833607
+          ],
+          [
+            -55.9396122,
+            -27.3832587
+          ],
+          [
+            -55.940486,
+            -27.3831619
+          ],
+          [
+            -55.9414017,
+            -27.3830606
+          ],
+          [
+            -55.9414655,
+            -27.3830535
+          ],
+          [
+            -55.9415746,
+            -27.3830414
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341073027",
+      "properties": {
+        "@id": "way/341073027",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452194,
+            -27.3827418
+          ],
+          [
+            -55.9453315,
+            -27.3835039
+          ],
+          [
+            -55.9454529,
+            -27.3843289
+          ],
+          [
+            -55.9455708,
+            -27.3851311
+          ],
+          [
+            -55.9457214,
+            -27.3860639
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259490996",
+      "properties": {
+        "@id": "way/259490996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452035,
+            -27.3826397
+          ],
+          [
+            -55.9452121,
+            -27.3826921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974061",
+      "properties": {
+        "@id": "way/398974061",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9415746,
+            -27.3830414
+          ],
+          [
+            -55.9451103,
+            -27.38265
+          ],
+          [
+            -55.9452035,
+            -27.3826397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398974065",
+      "properties": {
+        "@id": "way/398974065",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9452121,
+            -27.3826921
+          ],
+          [
+            -55.9452194,
+            -27.3827418
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760873",
+      "properties": {
+        "@id": "way/388760873",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9190889,
+            -27.3855336
+          ],
+          [
+            -55.9200461,
+            -27.3854247
+          ],
+          [
+            -55.9209757,
+            -27.3853217
+          ],
+          [
+            -55.9218695,
+            -27.3852228
+          ],
+          [
+            -55.9227104,
+            -27.3851298
+          ],
+          [
+            -55.9228556,
+            -27.3851137
+          ],
+          [
+            -55.9235836,
+            -27.3850331
+          ],
+          [
+            -55.924216,
+            -27.3849631
+          ],
+          [
+            -55.9258371,
+            -27.3847836
+          ],
+          [
+            -55.9265458,
+            -27.3847052
+          ],
+          [
+            -55.9274416,
+            -27.384606
+          ],
+          [
+            -55.9283995,
+            -27.3844999
+          ],
+          [
+            -55.9293959,
+            -27.3843896
+          ],
+          [
+            -55.9302888,
+            -27.3842895
+          ],
+          [
+            -55.9312394,
+            -27.3841855
+          ],
+          [
+            -55.9321236,
+            -27.3840876
+          ],
+          [
+            -55.9330491,
+            -27.3839852
+          ],
+          [
+            -55.9339731,
+            -27.3838829
+          ],
+          [
+            -55.934099,
+            -27.383869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396618660",
+      "properties": {
+        "@id": "way/396618660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180906,
+            -27.3789177
+          ],
+          [
+            -55.9176848,
+            -27.3789623
+          ],
+          [
+            -55.9171533,
+            -27.3790207
+          ],
+          [
+            -55.9166478,
+            -27.3790763
+          ],
+          [
+            -55.9162981,
+            -27.3791147
+          ],
+          [
+            -55.9155143,
+            -27.3792009
+          ],
+          [
+            -55.9152926,
+            -27.3792253
+          ],
+          [
+            -55.9146901,
+            -27.3792916
+          ],
+          [
+            -55.9145254,
+            -27.3793097
+          ],
+          [
+            -55.9144404,
+            -27.379319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422659820",
+      "properties": {
+        "@id": "way/422659820",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9186404,
+            -27.3822836
+          ],
+          [
+            -55.9187545,
+            -27.3831107
+          ],
+          [
+            -55.9188659,
+            -27.3839177
+          ],
+          [
+            -55.9189617,
+            -27.384635
+          ],
+          [
+            -55.91898,
+            -27.3847451
+          ],
+          [
+            -55.9190238,
+            -27.385062
+          ],
+          [
+            -55.9190889,
+            -27.3855336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499787",
+      "properties": {
+        "@id": "way/272499787",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9184077,
+            -27.3805977
+          ],
+          [
+            -55.9185185,
+            -27.3814001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499790",
+      "properties": {
+        "@id": "way/272499790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9182927,
+            -27.3797634
+          ],
+          [
+            -55.9184077,
+            -27.3805977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500916",
+      "properties": {
+        "@id": "way/272500916",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9185185,
+            -27.3814001
+          ],
+          [
+            -55.9186069,
+            -27.3820599
+          ],
+          [
+            -55.9186296,
+            -27.3822055
+          ],
+          [
+            -55.9186404,
+            -27.3822836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132223",
+      "properties": {
+        "@id": "way/389132223",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181379,
+            -27.3789125
+          ],
+          [
+            -55.9180906,
+            -27.3789177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132224",
+      "properties": {
+        "@id": "way/389132224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181752,
+            -27.3789124
+          ],
+          [
+            -55.9181379,
+            -27.3789125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132226",
+      "properties": {
+        "@id": "way/389132226",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181752,
+            -27.3789124
+          ],
+          [
+            -55.9182927,
+            -27.3797634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396609427",
+      "properties": {
+        "@id": "way/396609427",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9102302,
+            -27.3764129
+          ],
+          [
+            -55.9103522,
+            -27.3772607
+          ],
+          [
+            -55.9104838,
+            -27.3780752
+          ],
+          [
+            -55.9105845,
+            -27.3788555
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566389",
+      "properties": {
+        "@id": "way/340566389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9144404,
+            -27.379319
+          ],
+          [
+            -55.9143486,
+            -27.3793291
+          ],
+          [
+            -55.9142283,
+            -27.3793423
+          ],
+          [
+            -55.913378,
+            -27.3794358
+          ],
+          [
+            -55.9132608,
+            -27.3794487
+          ],
+          [
+            -55.912746,
+            -27.3795053
+          ],
+          [
+            -55.9126842,
+            -27.3795121
+          ],
+          [
+            -55.9125496,
+            -27.3795269
+          ],
+          [
+            -55.9124413,
+            -27.3795388
+          ],
+          [
+            -55.9123699,
+            -27.3795467
+          ],
+          [
+            -55.9122206,
+            -27.3795631
+          ],
+          [
+            -55.9116004,
+            -27.3796313
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791939",
+      "properties": {
+        "@id": "way/308791939",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9098581,
+            -27.3739925
+          ],
+          [
+            -55.9099603,
+            -27.3747253
+          ],
+          [
+            -55.9100662,
+            -27.3754844
+          ],
+          [
+            -55.9101824,
+            -27.3761423
+          ],
+          [
+            -55.9102302,
+            -27.3764129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106548",
+      "properties": {
+        "@id": "way/383106548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9086073,
+            -27.3731803
+          ],
+          [
+            -55.9081026,
+            -27.373236
+          ],
+          [
+            -55.9072023,
+            -27.3733353
+          ],
+          [
+            -55.9070023,
+            -27.3733573
+          ],
+          [
+            -55.9067973,
+            -27.37338
+          ],
+          [
+            -55.9059929,
+            -27.3734686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106567",
+      "properties": {
+        "@id": "way/383106567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.902062,
+            -27.3737054
+          ],
+          [
+            -55.9021016,
+            -27.3736951
+          ],
+          [
+            -55.9021547,
+            -27.3736873
+          ],
+          [
+            -55.9022078,
+            -27.3736952
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541666",
+      "properties": {
+        "@id": "way/388541666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.8998718,
+            -27.3739674
+          ],
+          [
+            -55.9009116,
+            -27.3738555
+          ],
+          [
+            -55.9013027,
+            -27.3738135
+          ],
+          [
+            -55.901901,
+            -27.3737491
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967887",
+      "properties": {
+        "@id": "way/43967887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677076",
+      "properties": {
+        "@id": "way/318677076",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8941099,
+            -27.3552993
+          ],
+          [
+            -55.8941642,
+            -27.355701
+          ],
+          [
+            -55.894214,
+            -27.3560719
+          ],
+          [
+            -55.8942246,
+            -27.3561508
+          ],
+          [
+            -55.8942365,
+            -27.3562394
+          ],
+          [
+            -55.8943604,
+            -27.3571587
+          ],
+          [
+            -55.894469,
+            -27.3579649
+          ],
+          [
+            -55.894485,
+            -27.3580836
+          ],
+          [
+            -55.8946133,
+            -27.359036
+          ],
+          [
+            -55.894738,
+            -27.3599611
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/282646944",
+      "properties": {
+        "@id": "way/282646944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993446,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 16 ramal Manantiales sentido Parque Paraguayo - barrio Manantiales, de la ciudad Posadas",
+              "from": "Parque República del Paraguay",
+              "name": "Línea 16 - Ramal Los Manantiales: Parque Paraguayo → Manantiales",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "16xM",
+              "route": "bus",
+              "to": "Los Manantiales",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8939843,
+            -27.3543675
+          ],
+          [
+            -55.8941099,
+            -27.3552993
+          ]
+        ]
+      }
+    }
+  ]
+}

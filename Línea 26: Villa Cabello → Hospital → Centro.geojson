@@ -1,0 +1,2361 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:35:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/210667149",
+      "properties": {
+        "@id": "way/210667149",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531492,
+            -27.3718812
+          ],
+          [
+            -55.9531275,
+            -27.3718387
+          ],
+          [
+            -55.9530819,
+            -27.3717767
+          ],
+          [
+            -55.9530361,
+            -27.3717629
+          ],
+          [
+            -55.9529983,
+            -27.3717582
+          ],
+          [
+            -55.9529559,
+            -27.3717529
+          ],
+          [
+            -55.9528778,
+            -27.371751
+          ],
+          [
+            -55.9527282,
+            -27.3717678
+          ],
+          [
+            -55.9525184,
+            -27.3717903
+          ],
+          [
+            -55.9513629,
+            -27.3719138
+          ],
+          [
+            -55.9512702,
+            -27.3719237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611174",
+      "properties": {
+        "@id": "way/396611174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.947522,
+            -27.3722729
+          ],
+          [
+            -55.9465947,
+            -27.3723758
+          ],
+          [
+            -55.9457045,
+            -27.3724748
+          ],
+          [
+            -55.9448293,
+            -27.3725722
+          ],
+          [
+            -55.9440408,
+            -27.3726597
+          ],
+          [
+            -55.9438395,
+            -27.372682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259357981",
+      "properties": {
+        "@id": "way/259357981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438395,
+            -27.372682
+          ],
+          [
+            -55.9429006,
+            -27.3727865
+          ],
+          [
+            -55.941987,
+            -27.3728879
+          ],
+          [
+            -55.9410829,
+            -27.3729884
+          ],
+          [
+            -55.9401992,
+            -27.3730866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421716",
+      "properties": {
+        "@id": "way/394421716",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9512702,
+            -27.3719237
+          ],
+          [
+            -55.9510394,
+            -27.3719484
+          ],
+          [
+            -55.9502892,
+            -27.3720308
+          ],
+          [
+            -55.9490629,
+            -27.3721581
+          ],
+          [
+            -55.9489755,
+            -27.3721672
+          ],
+          [
+            -55.9478201,
+            -27.3722924
+          ],
+          [
+            -55.9476464,
+            -27.3723112
+          ],
+          [
+            -55.947522,
+            -27.3722729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259355308",
+      "properties": {
+        "@id": "way/259355308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9410188,
+            -27.3798182
+          ],
+          [
+            -55.9400796,
+            -27.3799217
+          ],
+          [
+            -55.9395685,
+            -27.379978
+          ],
+          [
+            -55.939171,
+            -27.3800218
+          ],
+          [
+            -55.9382404,
+            -27.3801243
+          ],
+          [
+            -55.9373123,
+            -27.3802266
+          ],
+          [
+            -55.9364804,
+            -27.3803182
+          ],
+          [
+            -55.9363476,
+            -27.3803328
+          ],
+          [
+            -55.9357123,
+            -27.3804028
+          ],
+          [
+            -55.9354199,
+            -27.380435
+          ],
+          [
+            -55.9345255,
+            -27.3805336
+          ],
+          [
+            -55.933649,
+            -27.3806302
+          ],
+          [
+            -55.9335196,
+            -27.3806444
+          ],
+          [
+            -55.9330306,
+            -27.3806983
+          ],
+          [
+            -55.9326115,
+            -27.3807445
+          ],
+          [
+            -55.9321313,
+            -27.3807974
+          ],
+          [
+            -55.9316737,
+            -27.3808478
+          ],
+          [
+            -55.9312245,
+            -27.3808973
+          ],
+          [
+            -55.9307842,
+            -27.3809458
+          ],
+          [
+            -55.9303296,
+            -27.3809959
+          ],
+          [
+            -55.9298594,
+            -27.3810477
+          ],
+          [
+            -55.9288634,
+            -27.3811574
+          ],
+          [
+            -55.9279469,
+            -27.3812585
+          ],
+          [
+            -55.9270141,
+            -27.3813611
+          ],
+          [
+            -55.9260992,
+            -27.3814619
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421715",
+      "properties": {
+        "@id": "way/394421715",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9406625,
+            -27.3764407
+          ],
+          [
+            -55.9407776,
+            -27.3772736
+          ],
+          [
+            -55.9408936,
+            -27.3781136
+          ],
+          [
+            -55.9410021,
+            -27.378899
+          ],
+          [
+            -55.9411232,
+            -27.3797756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706891",
+      "properties": {
+        "@id": "way/397706891",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9411232,
+            -27.3797756
+          ],
+          [
+            -55.9410188,
+            -27.3798182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341059184",
+      "properties": {
+        "@id": "way/341059184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.921916,
+            -27.3785044
+          ],
+          [
+            -55.921862,
+            -27.3785103
+          ],
+          [
+            -55.920932,
+            -27.3786117
+          ],
+          [
+            -55.9200445,
+            -27.3787085
+          ],
+          [
+            -55.9199673,
+            -27.3787169
+          ],
+          [
+            -55.9191177,
+            -27.3788096
+          ],
+          [
+            -55.9181752,
+            -27.3789124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396618660",
+      "properties": {
+        "@id": "way/396618660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180906,
+            -27.3789177
+          ],
+          [
+            -55.9176848,
+            -27.3789623
+          ],
+          [
+            -55.9171533,
+            -27.3790207
+          ],
+          [
+            -55.9166478,
+            -27.3790763
+          ],
+          [
+            -55.9162981,
+            -27.3791147
+          ],
+          [
+            -55.9155143,
+            -27.3792009
+          ],
+          [
+            -55.9152926,
+            -27.3792253
+          ],
+          [
+            -55.9146901,
+            -27.3792916
+          ],
+          [
+            -55.9145254,
+            -27.3793097
+          ],
+          [
+            -55.9144404,
+            -27.379319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341059185",
+      "properties": {
+        "@id": "way/341059185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9256089,
+            -27.3781015
+          ],
+          [
+            -55.9254973,
+            -27.3781137
+          ],
+          [
+            -55.9250939,
+            -27.3781577
+          ],
+          [
+            -55.9250408,
+            -27.3781635
+          ],
+          [
+            -55.9244846,
+            -27.3782242
+          ],
+          [
+            -55.9243074,
+            -27.3782435
+          ],
+          [
+            -55.9239102,
+            -27.3782869
+          ],
+          [
+            -55.9237852,
+            -27.3783005
+          ],
+          [
+            -55.9232201,
+            -27.3783622
+          ],
+          [
+            -55.9225494,
+            -27.3784353
+          ],
+          [
+            -55.9225049,
+            -27.3784402
+          ],
+          [
+            -55.9220988,
+            -27.3784844
+          ],
+          [
+            -55.9220182,
+            -27.3784932
+          ],
+          [
+            -55.9219643,
+            -27.3784991
+          ],
+          [
+            -55.921916,
+            -27.3785044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684622",
+      "properties": {
+        "@id": "way/397684622",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9260992,
+            -27.3814619
+          ],
+          [
+            -55.9260618,
+            -27.3813919
+          ],
+          [
+            -55.9259951,
+            -27.3808624
+          ],
+          [
+            -55.9259604,
+            -27.3806143
+          ],
+          [
+            -55.9259184,
+            -27.380314
+          ],
+          [
+            -55.9258391,
+            -27.3797491
+          ],
+          [
+            -55.9257684,
+            -27.3792413
+          ],
+          [
+            -55.9257254,
+            -27.3789337
+          ],
+          [
+            -55.9256919,
+            -27.3786945
+          ],
+          [
+            -55.9256089,
+            -27.3781015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132223",
+      "properties": {
+        "@id": "way/389132223",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181379,
+            -27.3789125
+          ],
+          [
+            -55.9180906,
+            -27.3789177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132224",
+      "properties": {
+        "@id": "way/389132224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181752,
+            -27.3789124
+          ],
+          [
+            -55.9181379,
+            -27.3789125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113111",
+      "properties": {
+        "@id": "way/33113111",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9036464,
+            -27.3839123
+          ],
+          [
+            -55.9023079,
+            -27.3840593
+          ],
+          [
+            -55.9012657,
+            -27.3841738
+          ],
+          [
+            -55.8999096,
+            -27.3843227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268131162",
+      "properties": {
+        "@id": "way/268131162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097073,
+            -27.3798415
+          ],
+          [
+            -55.9088581,
+            -27.3799338
+          ],
+          [
+            -55.9081053,
+            -27.3800157
+          ],
+          [
+            -55.9080509,
+            -27.3800216
+          ],
+          [
+            -55.9069391,
+            -27.3801424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265037400",
+      "properties": {
+        "@id": "way/265037400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9106997,
+            -27.3797343
+          ],
+          [
+            -55.9097073,
+            -27.3798415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566389",
+      "properties": {
+        "@id": "way/340566389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9144404,
+            -27.379319
+          ],
+          [
+            -55.9143486,
+            -27.3793291
+          ],
+          [
+            -55.9142283,
+            -27.3793423
+          ],
+          [
+            -55.913378,
+            -27.3794358
+          ],
+          [
+            -55.9132608,
+            -27.3794487
+          ],
+          [
+            -55.912746,
+            -27.3795053
+          ],
+          [
+            -55.9126842,
+            -27.3795121
+          ],
+          [
+            -55.9125496,
+            -27.3795269
+          ],
+          [
+            -55.9124413,
+            -27.3795388
+          ],
+          [
+            -55.9123699,
+            -27.3795467
+          ],
+          [
+            -55.9122206,
+            -27.3795631
+          ],
+          [
+            -55.9116004,
+            -27.3796313
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566394",
+      "properties": {
+        "@id": "way/340566394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9069391,
+            -27.3801424
+          ],
+          [
+            -55.9069707,
+            -27.3803692
+          ],
+          [
+            -55.907057,
+            -27.3809889
+          ],
+          [
+            -55.9070931,
+            -27.3812479
+          ],
+          [
+            -55.9071712,
+            -27.3818087
+          ],
+          [
+            -55.9072835,
+            -27.3826146
+          ],
+          [
+            -55.9073822,
+            -27.3833235
+          ],
+          [
+            -55.9074067,
+            -27.3834994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566396",
+      "properties": {
+        "@id": "way/340566396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9074067,
+            -27.3834994
+          ],
+          [
+            -55.9068166,
+            -27.3835642
+          ],
+          [
+            -55.9061511,
+            -27.3836373
+          ],
+          [
+            -55.9057766,
+            -27.3836784
+          ],
+          [
+            -55.9055479,
+            -27.3837035
+          ],
+          [
+            -55.9047995,
+            -27.3837857
+          ],
+          [
+            -55.9036464,
+            -27.3839123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799961",
+      "properties": {
+        "@id": "way/293799961",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999096,
+            -27.3843227
+          ],
+          [
+            -55.8989074,
+            -27.3844303
+          ],
+          [
+            -55.8979762,
+            -27.3845324
+          ],
+          [
+            -55.8972062,
+            -27.3846141
+          ],
+          [
+            -55.8969891,
+            -27.3846375
+          ],
+          [
+            -55.896339,
+            -27.3847077
+          ],
+          [
+            -55.8961328,
+            -27.38473
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350557",
+      "properties": {
+        "@id": "way/312350557",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8961328,
+            -27.38473
+          ],
+          [
+            -55.8960003,
+            -27.3847443
+          ],
+          [
+            -55.8951608,
+            -27.384835
+          ],
+          [
+            -55.8943056,
+            -27.3849274
+          ],
+          [
+            -55.8942014,
+            -27.3849387
+          ],
+          [
+            -55.8937835,
+            -27.3849838
+          ],
+          [
+            -55.8934645,
+            -27.3850183
+          ],
+          [
+            -55.8934578,
+            -27.385019
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.891541,
+            -27.378456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357117019",
+      "properties": {
+        "@id": "way/357117019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89212,
+            -27.3826928
+          ],
+          [
+            -55.8921843,
+            -27.383154
+          ],
+          [
+            -55.8922063,
+            -27.3833187
+          ],
+          [
+            -55.8922239,
+            -27.3834376
+          ],
+          [
+            -55.8922448,
+            -27.3835659
+          ],
+          [
+            -55.8922674,
+            -27.3837042
+          ],
+          [
+            -55.8922771,
+            -27.3837802
+          ],
+          [
+            -55.8923318,
+            -27.3842106
+          ],
+          [
+            -55.8924293,
+            -27.3849257
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607397",
+      "properties": {
+        "@id": "way/254607397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891805,
+            -27.3803732
+          ],
+          [
+            -55.8918197,
+            -27.3804813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607398",
+      "properties": {
+        "@id": "way/254607398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89185,
+            -27.3807141
+          ],
+          [
+            -55.8918735,
+            -27.3809263
+          ],
+          [
+            -55.8919517,
+            -27.3815004
+          ],
+          [
+            -55.891995,
+            -27.3817971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607400",
+      "properties": {
+        "@id": "way/254607400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918197,
+            -27.3804813
+          ],
+          [
+            -55.8918353,
+            -27.3806084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696509",
+      "properties": {
+        "@id": "way/340696509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891541,
+            -27.378456
+          ],
+          [
+            -55.8916447,
+            -27.3792717
+          ],
+          [
+            -55.8916526,
+            -27.3793229
+          ],
+          [
+            -55.8916688,
+            -27.3794156
+          ],
+          [
+            -55.8916753,
+            -27.3794402
+          ],
+          [
+            -55.8917544,
+            -27.3800332
+          ],
+          [
+            -55.8917715,
+            -27.3801563
+          ],
+          [
+            -55.891805,
+            -27.3803732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341081146",
+      "properties": {
+        "@id": "way/341081146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891995,
+            -27.3817971
+          ],
+          [
+            -55.8920164,
+            -27.3819656
+          ],
+          [
+            -55.89212,
+            -27.3826928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381950159",
+      "properties": {
+        "@id": "way/381950159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918353,
+            -27.3806084
+          ],
+          [
+            -55.89185,
+            -27.3807141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684631",
+      "properties": {
+        "@id": "way/397684631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401992,
+            -27.3730866
+          ],
+          [
+            -55.9403185,
+            -27.3739499
+          ],
+          [
+            -55.9404273,
+            -27.3747375
+          ],
+          [
+            -55.9405422,
+            -27.3755695
+          ],
+          [
+            -55.9406625,
+            -27.3764407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785956",
+      "properties": {
+        "@id": "way/193785956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.897634,
+            -27.3732059
+          ],
+          [
+            -55.8975336,
+            -27.3724437
+          ],
+          [
+            -55.8975149,
+            -27.3723015
+          ],
+          [
+            -55.8973893,
+            -27.3713471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163484",
+      "properties": {
+        "@id": "way/318163484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977641,
+            -27.3741942
+          ],
+          [
+            -55.8976525,
+            -27.3733465
+          ],
+          [
+            -55.897634,
+            -27.3732059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397574",
+      "properties": {
+        "@id": "way/398397574",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8967288,
+            -27.3743026
+          ],
+          [
+            -55.8975374,
+            -27.3742186
+          ],
+          [
+            -55.8977641,
+            -27.3741942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113069",
+      "properties": {
+        "@id": "way/33113069",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300039403",
+      "properties": {
+        "@id": "way/300039403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.8914549,
+            -27.3748804
+          ],
+          [
+            -55.8925199,
+            -27.3747642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677071",
+      "properties": {
+        "@id": "way/318677071",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925199,
+            -27.3747642
+          ],
+          [
+            -55.8933688,
+            -27.3746715
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785955",
+      "properties": {
+        "@id": "way/193785955",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8973893,
+            -27.3713471
+          ],
+          [
+            -55.897263,
+            -27.370409
+          ],
+          [
+            -55.8971285,
+            -27.3694804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432302",
+      "properties": {
+        "@id": "way/256432302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8966131,
+            -27.3657504
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8963557,
+            -27.3638877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746784",
+      "properties": {
+        "@id": "way/281746784",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8937655,
+            -27.3746244
+          ],
+          [
+            -55.8946219,
+            -27.3745323
+          ],
+          [
+            -55.8947183,
+            -27.3745219
+          ],
+          [
+            -55.8947316,
+            -27.3745205
+          ],
+          [
+            -55.8954575,
+            -27.3744423
+          ],
+          [
+            -55.8957005,
+            -27.3744191
+          ],
+          [
+            -55.8967288,
+            -27.3743026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432306",
+      "properties": {
+        "@id": "way/256432306",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8968702,
+            -27.3676112
+          ],
+          [
+            -55.8967405,
+            -27.3666727
+          ],
+          [
+            -55.8966356,
+            -27.3659133
+          ],
+          [
+            -55.8966131,
+            -27.3657504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432308",
+      "properties": {
+        "@id": "way/256432308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8971285,
+            -27.3694804
+          ],
+          [
+            -55.897063,
+            -27.3690064
+          ],
+          [
+            -55.8970377,
+            -27.3688235
+          ],
+          [
+            -55.8970128,
+            -27.3686428
+          ],
+          [
+            -55.8969982,
+            -27.3685372
+          ],
+          [
+            -55.8969648,
+            -27.3682953
+          ],
+          [
+            -55.8968702,
+            -27.3676112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432299",
+      "properties": {
+        "@id": "way/256432299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8960965,
+            -27.3620283
+          ],
+          [
+            -55.8959659,
+            -27.3610746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432304",
+      "properties": {
+        "@id": "way/256432304",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5974535,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 26 ramal Hospital, sentido Villa Cabello - Centro de la ciudad Posadas",
+              "from": "Villa Cabello",
+              "name": "Línea 26: Villa Cabello → Hospital → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "26xH",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8963557,
+            -27.3638877
+          ],
+          [
+            -55.8962243,
+            -27.3629691
+          ],
+          [
+            -55.8961101,
+            -27.3621285
+          ],
+          [
+            -55.8960965,
+            -27.3620283
+          ]
+        ]
+      }
+    }
+  ]
+}

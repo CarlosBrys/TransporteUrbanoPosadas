@@ -1,0 +1,2032 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:57:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/261590646",
+      "properties": {
+        "@id": "way/261590646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8470267,
+            -27.4694909
+          ],
+          [
+            -55.8472514,
+            -27.4693859
+          ],
+          [
+            -55.8496787,
+            -27.4683027
+          ],
+          [
+            -55.8505525,
+            -27.4679305
+          ],
+          [
+            -55.8515739,
+            -27.4674971
+          ],
+          [
+            -55.8526348,
+            -27.467043
+          ],
+          [
+            -55.8542519,
+            -27.4663544
+          ],
+          [
+            -55.854316,
+            -27.4663271
+          ],
+          [
+            -55.8544936,
+            -27.466256
+          ],
+          [
+            -55.8552132,
+            -27.4659676
+          ],
+          [
+            -55.8553066,
+            -27.4659075
+          ],
+          [
+            -55.8554776,
+            -27.4657095
+          ],
+          [
+            -55.8557745,
+            -27.4652686
+          ],
+          [
+            -55.8558571,
+            -27.465146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261590644",
+      "properties": {
+        "@id": "way/261590644",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8350331,
+            -27.4782721
+          ],
+          [
+            -55.8355118,
+            -27.4779186
+          ],
+          [
+            -55.8357219,
+            -27.4777617
+          ],
+          [
+            -55.8367162,
+            -27.4770193
+          ],
+          [
+            -55.8386866,
+            -27.4755829
+          ],
+          [
+            -55.8392726,
+            -27.4751514
+          ],
+          [
+            -55.8405677,
+            -27.4742035
+          ],
+          [
+            -55.8409434,
+            -27.4739339
+          ],
+          [
+            -55.8410385,
+            -27.4738656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261590645",
+      "properties": {
+        "@id": "way/261590645",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8410385,
+            -27.4738656
+          ],
+          [
+            -55.8414179,
+            -27.4735813
+          ],
+          [
+            -55.8415275,
+            -27.473506
+          ],
+          [
+            -55.8417304,
+            -27.4733526
+          ],
+          [
+            -55.8420061,
+            -27.4731588
+          ],
+          [
+            -55.8425144,
+            -27.4727805
+          ],
+          [
+            -55.8429886,
+            -27.4724325
+          ],
+          [
+            -55.8432378,
+            -27.4722529
+          ],
+          [
+            -55.8434799,
+            -27.4720784
+          ],
+          [
+            -55.8439715,
+            -27.4717181
+          ],
+          [
+            -55.8447449,
+            -27.4711504
+          ],
+          [
+            -55.8448999,
+            -27.4710366
+          ],
+          [
+            -55.8461611,
+            -27.4701017
+          ],
+          [
+            -55.8464686,
+            -27.4698656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261590647",
+      "properties": {
+        "@id": "way/261590647",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8464686,
+            -27.4698656
+          ],
+          [
+            -55.8468469,
+            -27.4695749
+          ],
+          [
+            -55.8470267,
+            -27.4694909
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341627",
+      "properties": {
+        "@id": "way/389341627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8558571,
+            -27.465146
+          ],
+          [
+            -55.8560603,
+            -27.4652521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48411844",
+      "properties": {
+        "@id": "way/48411844",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8560603,
+            -27.4652521
+          ],
+          [
+            -55.8569071,
+            -27.4656945
+          ],
+          [
+            -55.8575643,
+            -27.4660685
+          ],
+          [
+            -55.8577529,
+            -27.4661102
+          ],
+          [
+            -55.858876,
+            -27.4660667
+          ],
+          [
+            -55.8598647,
+            -27.4660285
+          ],
+          [
+            -55.8607652,
+            -27.4659912
+          ],
+          [
+            -55.861715,
+            -27.4659623
+          ],
+          [
+            -55.8626747,
+            -27.4659123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49792731",
+      "properties": {
+        "@id": "way/49792731",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8626747,
+            -27.4659123
+          ],
+          [
+            -55.8626198,
+            -27.4650217
+          ],
+          [
+            -55.8625899,
+            -27.4633669
+          ],
+          [
+            -55.8626986,
+            -27.4629332
+          ],
+          [
+            -55.8626964,
+            -27.4626523
+          ],
+          [
+            -55.8626362,
+            -27.4615184
+          ],
+          [
+            -55.8625659,
+            -27.4603978
+          ],
+          [
+            -55.8625285,
+            -27.4598929
+          ],
+          [
+            -55.8624856,
+            -27.4593125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307904215",
+      "properties": {
+        "@id": "way/307904215",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8626324,
+            -27.4587566
+          ],
+          [
+            -55.862562,
+            -27.4566324
+          ],
+          [
+            -55.8625734,
+            -27.4561409
+          ],
+          [
+            -55.8625465,
+            -27.4557363
+          ],
+          [
+            -55.8624663,
+            -27.4555141
+          ],
+          [
+            -55.8623728,
+            -27.455365
+          ],
+          [
+            -55.8621484,
+            -27.4551866
+          ],
+          [
+            -55.8618188,
+            -27.4550037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339844337",
+      "properties": {
+        "@id": "way/339844337",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8624844,
+            -27.4592007
+          ],
+          [
+            -55.8626324,
+            -27.4587566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677544",
+      "properties": {
+        "@id": "way/391677544",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8624856,
+            -27.4593125
+          ],
+          [
+            -55.8624844,
+            -27.4592007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261626130",
+      "properties": {
+        "@id": "way/261626130",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8336438,
+            -27.4792983
+          ],
+          [
+            -55.8350331,
+            -27.4782721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262938236",
+      "properties": {
+        "@id": "way/262938236",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907094,
+            -27.429772
+          ],
+          [
+            -55.8906199,
+            -27.4298683
+          ],
+          [
+            -55.8892546,
+            -27.431315
+          ],
+          [
+            -55.8888781,
+            -27.4317128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263320887",
+      "properties": {
+        "@id": "way/263320887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8875578,
+            -27.4326495
+          ],
+          [
+            -55.8883083,
+            -27.4318677
+          ],
+          [
+            -55.889117,
+            -27.4310563
+          ],
+          [
+            -55.8898901,
+            -27.4302692
+          ],
+          [
+            -55.8899523,
+            -27.4302057
+          ],
+          [
+            -55.890506,
+            -27.4296245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834486",
+      "properties": {
+        "@id": "way/268834486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8890461,
+            -27.4318268
+          ],
+          [
+            -55.8891516,
+            -27.4318984
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341629",
+      "properties": {
+        "@id": "way/389341629",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8891516,
+            -27.4318984
+          ],
+          [
+            -55.8890157,
+            -27.4321015
+          ],
+          [
+            -55.8889413,
+            -27.4322087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386158368",
+      "properties": {
+        "@id": "way/386158368",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89059,
+            -27.4296833
+          ],
+          [
+            -55.8907094,
+            -27.429772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/403637305",
+      "properties": {
+        "@id": "way/403637305",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890506,
+            -27.4296245
+          ],
+          [
+            -55.89059,
+            -27.4296833
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263299840",
+      "properties": {
+        "@id": "way/263299840",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8740288,
+            -27.4441164
+          ],
+          [
+            -55.8747024,
+            -27.4435036
+          ],
+          [
+            -55.8747857,
+            -27.4434278
+          ],
+          [
+            -55.8749806,
+            -27.4432506
+          ],
+          [
+            -55.8756285,
+            -27.4426372
+          ],
+          [
+            -55.8763489,
+            -27.441934
+          ],
+          [
+            -55.8765653,
+            -27.4417199
+          ],
+          [
+            -55.8769784,
+            -27.4413759
+          ],
+          [
+            -55.8772558,
+            -27.4411566
+          ],
+          [
+            -55.8774726,
+            -27.4410256
+          ],
+          [
+            -55.8776637,
+            -27.4409101
+          ],
+          [
+            -55.87898,
+            -27.4401106
+          ],
+          [
+            -55.8805133,
+            -27.4391793
+          ],
+          [
+            -55.8816046,
+            -27.4385164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381744552",
+      "properties": {
+        "@id": "way/381744552",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8651621,
+            -27.4520069
+          ],
+          [
+            -55.8653254,
+            -27.4519818
+          ],
+          [
+            -55.8654248,
+            -27.4519124
+          ],
+          [
+            -55.8654725,
+            -27.451884
+          ],
+          [
+            -55.8665481,
+            -27.4511122
+          ],
+          [
+            -55.8677629,
+            -27.4499878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341621",
+      "properties": {
+        "@id": "way/389341621",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8635631,
+            -27.4527021
+          ],
+          [
+            -55.8642532,
+            -27.4523594
+          ],
+          [
+            -55.8649437,
+            -27.4520164
+          ],
+          [
+            -55.8650503,
+            -27.4520136
+          ],
+          [
+            -55.8651621,
+            -27.4520069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/311990555",
+      "properties": {
+        "@id": "way/311990555",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8627256,
+            -27.4533214
+          ],
+          [
+            -55.8633245,
+            -27.4529246
+          ],
+          [
+            -55.8635631,
+            -27.4527021
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/369028166",
+      "properties": {
+        "@id": "way/369028166",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8677629,
+            -27.4499878
+          ],
+          [
+            -55.8692205,
+            -27.4485993
+          ],
+          [
+            -55.8698813,
+            -27.4479735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299637577",
+      "properties": {
+        "@id": "way/299637577",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8706724,
+            -27.4474141
+          ],
+          [
+            -55.8714443,
+            -27.446664
+          ],
+          [
+            -55.8721186,
+            -27.4459888
+          ],
+          [
+            -55.8722766,
+            -27.4458392
+          ],
+          [
+            -55.8727528,
+            -27.4453882
+          ],
+          [
+            -55.8730665,
+            -27.445091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381744550",
+      "properties": {
+        "@id": "way/381744550",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8698813,
+            -27.4479735
+          ],
+          [
+            -55.8699802,
+            -27.4480561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341609",
+      "properties": {
+        "@id": "way/389341609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8699802,
+            -27.4480561
+          ],
+          [
+            -55.8706724,
+            -27.4474141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341611",
+      "properties": {
+        "@id": "way/389341611",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8730665,
+            -27.445091
+          ],
+          [
+            -55.8740288,
+            -27.4441164
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/237321529",
+      "properties": {
+        "@id": "way/237321529",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8828194,
+            -27.4376718
+          ],
+          [
+            -55.8829319,
+            -27.4375564
+          ],
+          [
+            -55.8834356,
+            -27.4370398
+          ],
+          [
+            -55.8835189,
+            -27.4369543
+          ],
+          [
+            -55.8836341,
+            -27.4368338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299641054",
+      "properties": {
+        "@id": "way/299641054",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8816046,
+            -27.4385164
+          ],
+          [
+            -55.8821194,
+            -27.4382168
+          ],
+          [
+            -55.882386,
+            -27.4380385
+          ],
+          [
+            -55.8824929,
+            -27.4379532
+          ],
+          [
+            -55.8826465,
+            -27.4378301
+          ],
+          [
+            -55.8828194,
+            -27.4376718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299641055",
+      "properties": {
+        "@id": "way/299641055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8836341,
+            -27.4368338
+          ],
+          [
+            -55.8842946,
+            -27.436134
+          ],
+          [
+            -55.8844126,
+            -27.4360037
+          ],
+          [
+            -55.8850759,
+            -27.4353453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281102",
+      "properties": {
+        "@id": "way/198281102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888781,
+            -27.4317128
+          ],
+          [
+            -55.8890461,
+            -27.4318268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265034238",
+      "properties": {
+        "@id": "way/265034238",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8851973,
+            -27.4352279
+          ],
+          [
+            -55.8853314,
+            -27.4349759
+          ],
+          [
+            -55.8854824,
+            -27.4347817
+          ],
+          [
+            -55.8856371,
+            -27.4346046
+          ],
+          [
+            -55.8857847,
+            -27.4344682
+          ],
+          [
+            -55.8860658,
+            -27.4341875
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725271",
+      "properties": {
+        "@id": "way/308725271",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867514,
+            -27.4334725
+          ],
+          [
+            -55.8870544,
+            -27.4331551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725393",
+      "properties": {
+        "@id": "way/308725393",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870544,
+            -27.4331551
+          ],
+          [
+            -55.8870804,
+            -27.4330597
+          ],
+          [
+            -55.8871423,
+            -27.432947
+          ],
+          [
+            -55.8872758,
+            -27.4328256
+          ],
+          [
+            -55.8873898,
+            -27.4327388
+          ],
+          [
+            -55.8874419,
+            -27.4327041
+          ],
+          [
+            -55.8875578,
+            -27.4326495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386638789",
+      "properties": {
+        "@id": "way/386638789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8860658,
+            -27.4341875
+          ],
+          [
+            -55.8861859,
+            -27.4340701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/386638790",
+      "properties": {
+        "@id": "way/386638790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8861859,
+            -27.4340701
+          ],
+          [
+            -55.8862172,
+            -27.4340364
+          ],
+          [
+            -55.8862586,
+            -27.4339918
+          ],
+          [
+            -55.8865444,
+            -27.4336837
+          ],
+          [
+            -55.8867514,
+            -27.4334725
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341608",
+      "properties": {
+        "@id": "way/389341608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8850759,
+            -27.4353453
+          ],
+          [
+            -55.8851973,
+            -27.4352279
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389409727",
+      "properties": {
+        "@id": "way/389409727",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8889413,
+            -27.4322087
+          ],
+          [
+            -55.8888311,
+            -27.4323611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228884286",
+      "properties": {
+        "@id": "way/228884286",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8618736,
+            -27.4535618
+          ],
+          [
+            -55.8622106,
+            -27.4535719
+          ],
+          [
+            -55.8627256,
+            -27.4533214
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/309659973",
+      "properties": {
+        "@id": "way/309659973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8614988,
+            -27.4548251
+          ],
+          [
+            -55.8613253,
+            -27.4546997
+          ],
+          [
+            -55.8611705,
+            -27.4545392
+          ],
+          [
+            -55.8610284,
+            -27.4542083
+          ],
+          [
+            -55.8609977,
+            -27.4540076
+          ],
+          [
+            -55.861005,
+            -27.453932
+          ],
+          [
+            -55.8610213,
+            -27.4538548
+          ],
+          [
+            -55.8611183,
+            -27.4537263
+          ],
+          [
+            -55.8612709,
+            -27.4536111
+          ],
+          [
+            -55.8614683,
+            -27.4535395
+          ],
+          [
+            -55.8616639,
+            -27.4535186
+          ],
+          [
+            -55.8618736,
+            -27.4535618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/391677549",
+      "properties": {
+        "@id": "way/391677549",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5823428,
+            "reltags": {
+              "colour": "#00913F",
+              "from": "Don Santiago",
+              "name": "Línea 53: Don Santiago → x Irigoyen → Campus UNaM",
+              "network": "SITM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "public_transport:version": "2",
+              "ref": "53",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route",
+              "via": "Irigoyen"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8618188,
+            -27.4550037
+          ],
+          [
+            -55.8614988,
+            -27.4548251
+          ]
+        ]
+      }
+    }
+  ]
+}

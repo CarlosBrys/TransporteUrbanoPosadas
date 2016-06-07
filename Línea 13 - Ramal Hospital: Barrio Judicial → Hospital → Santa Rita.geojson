@@ -1,0 +1,2914 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:07:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/341964644",
+      "properties": {
+        "@id": "way/341964644",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9419852,
+            -27.3864309
+          ],
+          [
+            -55.9419359,
+            -27.3864363
+          ],
+          [
+            -55.940954,
+            -27.3865508
+          ],
+          [
+            -55.9400889,
+            -27.3866484
+          ],
+          [
+            -55.9382397,
+            -27.386857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210667805",
+      "properties": {
+        "@id": "way/210667805",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9303875,
+            -27.357318
+          ],
+          [
+            -55.9302941,
+            -27.3573288
+          ],
+          [
+            -55.9300088,
+            -27.3573596
+          ],
+          [
+            -55.9293505,
+            -27.3574281
+          ],
+          [
+            -55.9286252,
+            -27.3575075
+          ],
+          [
+            -55.9284458,
+            -27.3575272
+          ],
+          [
+            -55.9275841,
+            -27.3576215
+          ],
+          [
+            -55.9268521,
+            -27.3577017
+          ],
+          [
+            -55.9265316,
+            -27.3577368
+          ],
+          [
+            -55.9263449,
+            -27.3577583
+          ],
+          [
+            -55.9253113,
+            -27.3578706
+          ],
+          [
+            -55.9241352,
+            -27.3579996
+          ],
+          [
+            -55.9231566,
+            -27.3581068
+          ],
+          [
+            -55.9230518,
+            -27.3581182
+          ],
+          [
+            -55.9229033,
+            -27.3581345
+          ],
+          [
+            -55.9222919,
+            -27.3582015
+          ],
+          [
+            -55.9213641,
+            -27.3583031
+          ],
+          [
+            -55.9210662,
+            -27.3583357
+          ],
+          [
+            -55.9202027,
+            -27.3584303
+          ],
+          [
+            -55.91945,
+            -27.3585128
+          ],
+          [
+            -55.9191851,
+            -27.3585418
+          ],
+          [
+            -55.9190791,
+            -27.3585534
+          ],
+          [
+            -55.9158449,
+            -27.3589078
+          ],
+          [
+            -55.9154661,
+            -27.3589493
+          ],
+          [
+            -55.9153315,
+            -27.358964
+          ],
+          [
+            -55.914484,
+            -27.3590569
+          ],
+          [
+            -55.9135114,
+            -27.3591634
+          ],
+          [
+            -55.9126115,
+            -27.359262
+          ],
+          [
+            -55.9119491,
+            -27.3593346
+          ],
+          [
+            -55.9117355,
+            -27.359358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259491511",
+      "properties": {
+        "@id": "way/259491511",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9382397,
+            -27.386857
+          ],
+          [
+            -55.9372693,
+            -27.3869456
+          ],
+          [
+            -55.93635,
+            -27.3870323
+          ],
+          [
+            -55.9353918,
+            -27.3871226
+          ],
+          [
+            -55.9345477,
+            -27.3872349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677065",
+      "properties": {
+        "@id": "way/318677065",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9270107,
+            -27.3880504
+          ],
+          [
+            -55.9279531,
+            -27.3879459
+          ],
+          [
+            -55.9288698,
+            -27.3878442
+          ],
+          [
+            -55.9297852,
+            -27.3877426
+          ],
+          [
+            -55.9307251,
+            -27.3876382
+          ],
+          [
+            -55.9308232,
+            -27.3876269
+          ],
+          [
+            -55.9317163,
+            -27.3875283
+          ],
+          [
+            -55.9326537,
+            -27.3874243
+          ],
+          [
+            -55.9335547,
+            -27.3873243
+          ],
+          [
+            -55.934427,
+            -27.3872197
+          ],
+          [
+            -55.9345477,
+            -27.3872349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299601831",
+      "properties": {
+        "@id": "way/299601831",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9194864,
+            -27.388931
+          ],
+          [
+            -55.919236,
+            -27.3889591
+          ],
+          [
+            -55.9187302,
+            -27.3890157
+          ],
+          [
+            -55.9183854,
+            -27.3890544
+          ],
+          [
+            -55.9177821,
+            -27.389122
+          ],
+          [
+            -55.916706,
+            -27.3892426
+          ],
+          [
+            -55.9159201,
+            -27.3893307
+          ],
+          [
+            -55.9158277,
+            -27.3893471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299601830",
+      "properties": {
+        "@id": "way/299601830",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9194864,
+            -27.388931
+          ],
+          [
+            -55.9196077,
+            -27.3888722
+          ],
+          [
+            -55.9205172,
+            -27.388771
+          ],
+          [
+            -55.9214332,
+            -27.3886693
+          ],
+          [
+            -55.922337,
+            -27.388569
+          ],
+          [
+            -55.9232902,
+            -27.3884632
+          ],
+          [
+            -55.9248554,
+            -27.3882896
+          ],
+          [
+            -55.9251838,
+            -27.3882531
+          ],
+          [
+            -55.9260773,
+            -27.388154
+          ],
+          [
+            -55.926379,
+            -27.3881205
+          ],
+          [
+            -55.9270107,
+            -27.3880504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340384438",
+      "properties": {
+        "@id": "way/340384438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9158277,
+            -27.3893471
+          ],
+          [
+            -55.9157537,
+            -27.3893553
+          ],
+          [
+            -55.9154759,
+            -27.3893858
+          ],
+          [
+            -55.9149655,
+            -27.3894419
+          ],
+          [
+            -55.9149322,
+            -27.3894456
+          ],
+          [
+            -55.9139375,
+            -27.389555
+          ],
+          [
+            -55.9136869,
+            -27.3895825
+          ],
+          [
+            -55.9130108,
+            -27.3896569
+          ],
+          [
+            -55.9122972,
+            -27.3897353
+          ],
+          [
+            -55.9120988,
+            -27.3897502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670144",
+      "properties": {
+        "@id": "way/318670144",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9120988,
+            -27.3897502
+          ],
+          [
+            -55.9121227,
+            -27.3899278
+          ],
+          [
+            -55.9122056,
+            -27.390493
+          ],
+          [
+            -55.9122319,
+            -27.3906937
+          ],
+          [
+            -55.912294,
+            -27.3911729
+          ],
+          [
+            -55.9123046,
+            -27.3912234
+          ],
+          [
+            -55.912393,
+            -27.3918834
+          ],
+          [
+            -55.9124074,
+            -27.3919867
+          ],
+          [
+            -55.9124254,
+            -27.3921155
+          ],
+          [
+            -55.9124568,
+            -27.392335
+          ],
+          [
+            -55.9125541,
+            -27.3930592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340382447",
+      "properties": {
+        "@id": "way/340382447",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088091,
+            -27.3934757
+          ],
+          [
+            -55.9077192,
+            -27.3936134
+          ],
+          [
+            -55.9071684,
+            -27.3936698
+          ],
+          [
+            -55.9061888,
+            -27.3937595
+          ],
+          [
+            -55.9050159,
+            -27.3938855
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340384434",
+      "properties": {
+        "@id": "way/340384434",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024133,
+            -27.3941877
+          ],
+          [
+            -55.9013068,
+            -27.3943209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259354640",
+      "properties": {
+        "@id": "way/259354640",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9125541,
+            -27.3930592
+          ],
+          [
+            -55.9116453,
+            -27.3931639
+          ],
+          [
+            -55.9115276,
+            -27.3931768
+          ],
+          [
+            -55.9106682,
+            -27.3932713
+          ],
+          [
+            -55.9103793,
+            -27.3933031
+          ],
+          [
+            -55.9097351,
+            -27.3933739
+          ],
+          [
+            -55.9093992,
+            -27.3934109
+          ],
+          [
+            -55.9088091,
+            -27.3934757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113117",
+      "properties": {
+        "@id": "way/33113117",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9050159,
+            -27.3938855
+          ],
+          [
+            -55.9044731,
+            -27.3939485
+          ],
+          [
+            -55.903487,
+            -27.394063
+          ],
+          [
+            -55.9024133,
+            -27.3941877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259433855",
+      "properties": {
+        "@id": "way/259433855",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8929162,
+            -27.3884557
+          ],
+          [
+            -55.8929346,
+            -27.388531
+          ],
+          [
+            -55.8929961,
+            -27.3889715
+          ],
+          [
+            -55.8931646,
+            -27.3901778
+          ],
+          [
+            -55.8932576,
+            -27.390846
+          ],
+          [
+            -55.8933654,
+            -27.3916188
+          ],
+          [
+            -55.8933949,
+            -27.3917846
+          ],
+          [
+            -55.8934924,
+            -27.3925279
+          ],
+          [
+            -55.8935584,
+            -27.3929982
+          ],
+          [
+            -55.8935732,
+            -27.393107
+          ],
+          [
+            -55.8936558,
+            -27.3936972
+          ],
+          [
+            -55.8937353,
+            -27.3942687
+          ],
+          [
+            -55.8938399,
+            -27.3949679
+          ],
+          [
+            -55.8938582,
+            -27.3951497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340384435",
+      "properties": {
+        "@id": "way/340384435",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975735,
+            -27.3947373
+          ],
+          [
+            -55.8974536,
+            -27.3947506
+          ],
+          [
+            -55.8969874,
+            -27.3948023
+          ],
+          [
+            -55.8959509,
+            -27.3949174
+          ],
+          [
+            -55.8948722,
+            -27.3950371
+          ],
+          [
+            -55.8938582,
+            -27.3951497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799964",
+      "properties": {
+        "@id": "way/293799964",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013068,
+            -27.3943209
+          ],
+          [
+            -55.9002016,
+            -27.394444
+          ],
+          [
+            -55.8992014,
+            -27.3945554
+          ],
+          [
+            -55.8981467,
+            -27.3946729
+          ],
+          [
+            -55.8976818,
+            -27.3947251
+          ],
+          [
+            -55.8975735,
+            -27.3947373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350559",
+      "properties": {
+        "@id": "way/312350559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8924578,
+            -27.3851145
+          ],
+          [
+            -55.8925314,
+            -27.3856416
+          ],
+          [
+            -55.8925793,
+            -27.3859846
+          ],
+          [
+            -55.8926134,
+            -27.3862287
+          ],
+          [
+            -55.8926878,
+            -27.3867624
+          ],
+          [
+            -55.8928052,
+            -27.3876023
+          ],
+          [
+            -55.8929042,
+            -27.3883117
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.891541,
+            -27.378456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357117019",
+      "properties": {
+        "@id": "way/357117019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89212,
+            -27.3826928
+          ],
+          [
+            -55.8921843,
+            -27.383154
+          ],
+          [
+            -55.8922063,
+            -27.3833187
+          ],
+          [
+            -55.8922239,
+            -27.3834376
+          ],
+          [
+            -55.8922448,
+            -27.3835659
+          ],
+          [
+            -55.8922674,
+            -27.3837042
+          ],
+          [
+            -55.8922771,
+            -27.3837802
+          ],
+          [
+            -55.8923318,
+            -27.3842106
+          ],
+          [
+            -55.8924293,
+            -27.3849257
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607397",
+      "properties": {
+        "@id": "way/254607397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891805,
+            -27.3803732
+          ],
+          [
+            -55.8918197,
+            -27.3804813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607398",
+      "properties": {
+        "@id": "way/254607398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89185,
+            -27.3807141
+          ],
+          [
+            -55.8918735,
+            -27.3809263
+          ],
+          [
+            -55.8919517,
+            -27.3815004
+          ],
+          [
+            -55.891995,
+            -27.3817971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607400",
+      "properties": {
+        "@id": "way/254607400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918197,
+            -27.3804813
+          ],
+          [
+            -55.8918353,
+            -27.3806084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696509",
+      "properties": {
+        "@id": "way/340696509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891541,
+            -27.378456
+          ],
+          [
+            -55.8916447,
+            -27.3792717
+          ],
+          [
+            -55.8916526,
+            -27.3793229
+          ],
+          [
+            -55.8916688,
+            -27.3794156
+          ],
+          [
+            -55.8916753,
+            -27.3794402
+          ],
+          [
+            -55.8917544,
+            -27.3800332
+          ],
+          [
+            -55.8917715,
+            -27.3801563
+          ],
+          [
+            -55.891805,
+            -27.3803732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341081146",
+      "properties": {
+        "@id": "way/341081146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891995,
+            -27.3817971
+          ],
+          [
+            -55.8920164,
+            -27.3819656
+          ],
+          [
+            -55.89212,
+            -27.3826928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381950159",
+      "properties": {
+        "@id": "way/381950159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918353,
+            -27.3806084
+          ],
+          [
+            -55.89185,
+            -27.3807141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783171",
+      "properties": {
+        "@id": "way/340783171",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9349767,
+            -27.363528
+          ],
+          [
+            -55.9350521,
+            -27.3640673
+          ],
+          [
+            -55.9351287,
+            -27.3646148
+          ],
+          [
+            -55.9352075,
+            -27.3651785
+          ],
+          [
+            -55.935277,
+            -27.3656754
+          ],
+          [
+            -55.9353059,
+            -27.3658816
+          ],
+          [
+            -55.9353518,
+            -27.3662099
+          ],
+          [
+            -55.9354433,
+            -27.3668638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783162",
+      "properties": {
+        "@id": "way/340783162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9386907,
+            -27.363114
+          ],
+          [
+            -55.9377816,
+            -27.3632213
+          ],
+          [
+            -55.9368401,
+            -27.3633325
+          ],
+          [
+            -55.9349767,
+            -27.363528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317270850",
+      "properties": {
+        "@id": "way/317270850",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9386907,
+            -27.363114
+          ],
+          [
+            -55.938564,
+            -27.3621846
+          ],
+          [
+            -55.9384666,
+            -27.3614837
+          ],
+          [
+            -55.9384603,
+            -27.3614381
+          ],
+          [
+            -55.9383433,
+            -27.3605972
+          ],
+          [
+            -55.9382282,
+            -27.3597691
+          ],
+          [
+            -55.9380957,
+            -27.3588169
+          ],
+          [
+            -55.9380269,
+            -27.358321
+          ],
+          [
+            -55.9379548,
+            -27.3578019
+          ],
+          [
+            -55.9378894,
+            -27.3573441
+          ],
+          [
+            -55.9377795,
+            -27.3565568
+          ],
+          [
+            -55.9377651,
+            -27.3564536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639787",
+      "properties": {
+        "@id": "way/398639787",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9377651,
+            -27.3564536
+          ],
+          [
+            -55.9376648,
+            -27.3565172
+          ],
+          [
+            -55.93711,
+            -27.356578
+          ],
+          [
+            -55.9359027,
+            -27.3567103
+          ],
+          [
+            -55.9354709,
+            -27.3567576
+          ],
+          [
+            -55.9340514,
+            -27.3569131
+          ],
+          [
+            -55.9318224,
+            -27.3571594
+          ],
+          [
+            -55.9303875,
+            -27.357318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726917",
+      "properties": {
+        "@id": "way/308726917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.896761,
+            -27.3745334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318162526",
+      "properties": {
+        "@id": "way/318162526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746778",
+      "properties": {
+        "@id": "way/281746778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8947616,
+            -27.3747601
+          ],
+          [
+            -55.8946548,
+            -27.3747722
+          ],
+          [
+            -55.8937994,
+            -27.3748691
+          ],
+          [
+            -55.8936142,
+            -27.3748901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350562",
+      "properties": {
+        "@id": "way/312350562",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925526,
+            -27.3750001
+          ],
+          [
+            -55.8918304,
+            -27.375079
+          ],
+          [
+            -55.8914876,
+            -27.3751164
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670143",
+      "properties": {
+        "@id": "way/318670143",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8936142,
+            -27.3748901
+          ],
+          [
+            -55.8925526,
+            -27.3750001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834476",
+      "properties": {
+        "@id": "way/268834476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896761,
+            -27.3745334
+          ],
+          [
+            -55.8957326,
+            -27.37465
+          ],
+          [
+            -55.8955524,
+            -27.3746703
+          ],
+          [
+            -55.8947616,
+            -27.3747601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144347404",
+      "properties": {
+        "@id": "way/144347404",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9106255,
+            -27.3594796
+          ],
+          [
+            -55.9101436,
+            -27.3595228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605141",
+      "properties": {
+        "@id": "way/388605141",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9101436,
+            -27.3595228
+          ],
+          [
+            -55.9100733,
+            -27.3595305
+          ],
+          [
+            -55.9095869,
+            -27.3595737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421719",
+      "properties": {
+        "@id": "way/394421719",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9117355,
+            -27.359358
+          ],
+          [
+            -55.91163,
+            -27.3593696
+          ],
+          [
+            -55.9115032,
+            -27.3593835
+          ],
+          [
+            -55.9106255,
+            -27.3594796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144347400",
+      "properties": {
+        "@id": "way/144347400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9095869,
+            -27.3595737
+          ],
+          [
+            -55.909442,
+            -27.3595949
+          ],
+          [
+            -55.9085847,
+            -27.3596935
+          ],
+          [
+            -55.9078855,
+            -27.3597701
+          ],
+          [
+            -55.907076,
+            -27.3598588
+          ],
+          [
+            -55.9066237,
+            -27.3599083
+          ],
+          [
+            -55.9058657,
+            -27.3599913
+          ],
+          [
+            -55.9053746,
+            -27.3600451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295990420",
+      "properties": {
+        "@id": "way/295990420",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9053746,
+            -27.3600451
+          ],
+          [
+            -55.9052729,
+            -27.3600564
+          ],
+          [
+            -55.9051098,
+            -27.360074
+          ],
+          [
+            -55.9041402,
+            -27.3601819
+          ],
+          [
+            -55.9036535,
+            -27.3602357
+          ],
+          [
+            -55.9034013,
+            -27.3602636
+          ],
+          [
+            -55.9028664,
+            -27.3603228
+          ],
+          [
+            -55.90238,
+            -27.3603767
+          ],
+          [
+            -55.9016404,
+            -27.3604639
+          ],
+          [
+            -55.9005552,
+            -27.3605919
+          ],
+          [
+            -55.9004421,
+            -27.3605553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113064",
+      "properties": {
+        "@id": "way/33113064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001884,
+            -27.360574
+          ],
+          [
+            -55.9001466,
+            -27.3606278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791932",
+      "properties": {
+        "@id": "way/308791932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002218,
+            -27.3605939
+          ],
+          [
+            -55.9001884,
+            -27.360574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677077",
+      "properties": {
+        "@id": "way/318677077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004421,
+            -27.3605553
+          ],
+          [
+            -55.900409,
+            -27.3605822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/354245465",
+      "properties": {
+        "@id": "way/354245465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001466,
+            -27.3606278
+          ],
+          [
+            -55.8996283,
+            -27.3606839
+          ],
+          [
+            -55.8994756,
+            -27.3607002
+          ],
+          [
+            -55.8993796,
+            -27.3607105
+          ],
+          [
+            -55.8990928,
+            -27.3607411
+          ],
+          [
+            -55.8980528,
+            -27.3608519
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/385983230",
+      "properties": {
+        "@id": "way/385983230",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5993499,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Hospital, sentido barrio Judiciales - Santa Rita, de la ciudad Posadas",
+              "from": "Barrio Judicial",
+              "name": "Línea 13 - Ramal Hospital: Barrio Judicial → Hospital → Santa Rita",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xH",
+              "route": "bus",
+              "to": "Santa Rita",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900409,
+            -27.3605822
+          ],
+          [
+            -55.9003295,
+            -27.3606102
+          ],
+          [
+            -55.9002218,
+            -27.3605939
+          ]
+        ]
+      }
+    }
+  ]
+}

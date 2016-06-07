@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:41:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/254226392",
+      "properties": {
+        "@id": "way/254226392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9795631,
+            -27.4110599
+          ],
+          [
+            -55.9799233,
+            -27.4106538
+          ],
+          [
+            -55.9801777,
+            -27.4103627
+          ],
+          [
+            -55.9802334,
+            -27.4102989
+          ],
+          [
+            -55.9810278,
+            -27.4094071
+          ],
+          [
+            -55.9817795,
+            -27.4086377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888616",
+      "properties": {
+        "@id": "way/392888616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9660177,
+            -27.4014456
+          ],
+          [
+            -55.9677102,
+            -27.4026103
+          ],
+          [
+            -55.9704674,
+            -27.4045938
+          ],
+          [
+            -55.9757762,
+            -27.4083909
+          ],
+          [
+            -55.9760093,
+            -27.4085577
+          ],
+          [
+            -55.9761844,
+            -27.4086829
+          ],
+          [
+            -55.9768424,
+            -27.4091535
+          ],
+          [
+            -55.9770691,
+            -27.4093156
+          ],
+          [
+            -55.9773518,
+            -27.4095133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/409937432",
+      "properties": {
+        "@id": "way/409937432",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9773518,
+            -27.4095133
+          ],
+          [
+            -55.9795631,
+            -27.4110599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816806",
+      "properties": {
+        "@id": "way/254816806",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8891466,
+            -27.4321648
+          ],
+          [
+            -55.8890467,
+            -27.4323122
+          ],
+          [
+            -55.888932,
+            -27.4324815
+          ],
+          [
+            -55.8888514,
+            -27.4325497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261582332",
+      "properties": {
+        "@id": "way/261582332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918977,
+            -27.4247022
+          ],
+          [
+            -55.8918067,
+            -27.4248174
+          ],
+          [
+            -55.8914452,
+            -27.4252047
+          ],
+          [
+            -55.8913768,
+            -27.425278
+          ],
+          [
+            -55.8911394,
+            -27.4255574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358184229",
+      "properties": {
+        "@id": "way/358184229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8921827,
+            -27.4242994
+          ],
+          [
+            -55.8921719,
+            -27.4243238
+          ],
+          [
+            -55.8920678,
+            -27.4245591
+          ],
+          [
+            -55.8918977,
+            -27.4247022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358184232",
+      "properties": {
+        "@id": "way/358184232",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8911394,
+            -27.4255574
+          ],
+          [
+            -55.890886,
+            -27.4258369
+          ],
+          [
+            -55.8905829,
+            -27.4261747
+          ],
+          [
+            -55.8903487,
+            -27.4264456
+          ],
+          [
+            -55.8895747,
+            -27.4272911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972033",
+      "properties": {
+        "@id": "way/43972033",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980019,
+            -27.4237285
+          ],
+          [
+            -55.8969727,
+            -27.4234352
+          ],
+          [
+            -55.8959554,
+            -27.4231453
+          ],
+          [
+            -55.8958073,
+            -27.4231043
+          ],
+          [
+            -55.8956583,
+            -27.4230606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48408931",
+      "properties": {
+        "@id": "way/48408931",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8928422,
+            -27.4225824
+          ],
+          [
+            -55.8926357,
+            -27.4230147
+          ],
+          [
+            -55.8925319,
+            -27.4232907
+          ],
+          [
+            -55.8923745,
+            -27.4237679
+          ],
+          [
+            -55.8923293,
+            -27.4239049
+          ],
+          [
+            -55.8921827,
+            -27.4242994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549266",
+      "properties": {
+        "@id": "way/264549266",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8956583,
+            -27.4230606
+          ],
+          [
+            -55.8949077,
+            -27.4229782
+          ],
+          [
+            -55.8943793,
+            -27.4228862
+          ],
+          [
+            -55.8932091,
+            -27.4226951
+          ],
+          [
+            -55.8928422,
+            -27.4225824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549272",
+      "properties": {
+        "@id": "way/264549272",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8895747,
+            -27.4272911
+          ],
+          [
+            -55.8888243,
+            -27.4280664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927944",
+      "properties": {
+        "@id": "way/127927944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994643,
+            -27.4207506
+          ],
+          [
+            -55.9001133,
+            -27.4181852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927956",
+      "properties": {
+        "@id": "way/127927956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001133,
+            -27.4181852
+          ],
+          [
+            -55.9002634,
+            -27.4175322
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927959",
+      "properties": {
+        "@id": "way/127927959",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8994264,
+            -27.4209519
+          ],
+          [
+            -55.8994643,
+            -27.4207506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619468",
+      "properties": {
+        "@id": "way/40619468",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024304,
+            -27.4047507
+          ],
+          [
+            -55.9022249,
+            -27.404624
+          ],
+          [
+            -55.9019825,
+            -27.4045719
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44003866",
+      "properties": {
+        "@id": "way/44003866",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010261,
+            -27.4137976
+          ],
+          [
+            -55.9011079,
+            -27.4134209
+          ],
+          [
+            -55.9011236,
+            -27.4133731
+          ],
+          [
+            -55.9013515,
+            -27.4124261
+          ],
+          [
+            -55.9015358,
+            -27.4116601
+          ],
+          [
+            -55.9015753,
+            -27.411496
+          ],
+          [
+            -55.901754,
+            -27.4108113
+          ],
+          [
+            -55.9017709,
+            -27.4107467
+          ],
+          [
+            -55.9018084,
+            -27.4106028
+          ],
+          [
+            -55.9018284,
+            -27.4105207
+          ],
+          [
+            -55.9020362,
+            -27.4096685
+          ],
+          [
+            -55.9021268,
+            -27.4092703
+          ],
+          [
+            -55.9022476,
+            -27.4087391
+          ],
+          [
+            -55.9024493,
+            -27.4078523
+          ],
+          [
+            -55.9025817,
+            -27.4073223
+          ],
+          [
+            -55.902644,
+            -27.4070729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619465",
+      "properties": {
+        "@id": "way/40619465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9028715,
+            -27.4055064
+          ],
+          [
+            -55.9026854,
+            -27.4051021
+          ],
+          [
+            -55.9025042,
+            -27.404816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726914",
+      "properties": {
+        "@id": "way/308726914",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902644,
+            -27.4070729
+          ],
+          [
+            -55.9026643,
+            -27.4069917
+          ],
+          [
+            -55.9026788,
+            -27.4069336
+          ],
+          [
+            -55.9027755,
+            -27.4064526
+          ],
+          [
+            -55.902798,
+            -27.4062106
+          ],
+          [
+            -55.9027901,
+            -27.4059898
+          ],
+          [
+            -55.9027825,
+            -27.405781
+          ],
+          [
+            -55.9027562,
+            -27.4055656
+          ],
+          [
+            -55.9028715,
+            -27.4055064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726918",
+      "properties": {
+        "@id": "way/308726918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9025042,
+            -27.404816
+          ],
+          [
+            -55.9024304,
+            -27.4047507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263321879",
+      "properties": {
+        "@id": "way/263321879",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009387,
+            -27.4141861
+          ],
+          [
+            -55.9010053,
+            -27.4138902
+          ],
+          [
+            -55.9010261,
+            -27.4137976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509186",
+      "properties": {
+        "@id": "way/384509186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.900398,
+            -27.4164687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509191",
+      "properties": {
+        "@id": "way/384509191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900398,
+            -27.4164687
+          ],
+          [
+            -55.9004486,
+            -27.4161686
+          ],
+          [
+            -55.9005248,
+            -27.4158593
+          ],
+          [
+            -55.9009085,
+            -27.414317
+          ],
+          [
+            -55.9009387,
+            -27.4141861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113068",
+      "properties": {
+        "@id": "way/33113068",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8990035,
+            -27.4048941
+          ],
+          [
+            -55.8989545,
+            -27.4045392
+          ],
+          [
+            -55.8988832,
+            -27.4040401
+          ],
+          [
+            -55.8987677,
+            -27.403221
+          ],
+          [
+            -55.8985842,
+            -27.4017998
+          ],
+          [
+            -55.8985433,
+            -27.4015609
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228369485",
+      "properties": {
+        "@id": "way/228369485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019825,
+            -27.4045719
+          ],
+          [
+            -55.9019451,
+            -27.4045759
+          ],
+          [
+            -55.9015027,
+            -27.4046238
+          ],
+          [
+            -55.9004932,
+            -27.404733
+          ],
+          [
+            -55.8994381,
+            -27.4048471
+          ],
+          [
+            -55.8990035,
+            -27.4048941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396950653",
+      "properties": {
+        "@id": "way/396950653",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9639639,
+            -27.3995045
+          ],
+          [
+            -55.9642709,
+            -27.3997251
+          ],
+          [
+            -55.9643997,
+            -27.3998108
+          ],
+          [
+            -55.9645784,
+            -27.3999451
+          ],
+          [
+            -55.9648292,
+            -27.4001502
+          ],
+          [
+            -55.9652059,
+            -27.4005647
+          ],
+          [
+            -55.9656038,
+            -27.4010075
+          ],
+          [
+            -55.9660177,
+            -27.4014456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531392",
+      "properties": {
+        "@id": "way/388531392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.960399,
+            -27.3980541
+          ],
+          [
+            -55.9607504,
+            -27.3980996
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711441",
+      "properties": {
+        "@id": "way/101711441",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632891,
+            -27.3929392
+          ],
+          [
+            -55.9629745,
+            -27.393168
+          ],
+          [
+            -55.9625448,
+            -27.3935433
+          ],
+          [
+            -55.962309,
+            -27.3937589
+          ],
+          [
+            -55.9622203,
+            -27.3938522
+          ],
+          [
+            -55.9621362,
+            -27.3939517
+          ],
+          [
+            -55.961786,
+            -27.394531
+          ],
+          [
+            -55.9616582,
+            -27.3947425
+          ],
+          [
+            -55.9614451,
+            -27.3951088
+          ],
+          [
+            -55.9611855,
+            -27.395555
+          ],
+          [
+            -55.9610192,
+            -27.3958408
+          ],
+          [
+            -55.9601736,
+            -27.3972943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711456",
+      "properties": {
+        "@id": "way/101711456",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9601736,
+            -27.3972943
+          ],
+          [
+            -55.9601428,
+            -27.3974065
+          ],
+          [
+            -55.9601366,
+            -27.3975405
+          ],
+          [
+            -55.9601459,
+            -27.397598
+          ],
+          [
+            -55.9601674,
+            -27.3977375
+          ],
+          [
+            -55.9601983,
+            -27.3978031
+          ],
+          [
+            -55.9602845,
+            -27.397929
+          ],
+          [
+            -55.960399,
+            -27.3980541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263201370",
+      "properties": {
+        "@id": "way/263201370",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632958,
+            -27.3825968
+          ],
+          [
+            -55.9633567,
+            -27.3826717
+          ],
+          [
+            -55.9633721,
+            -27.3828527
+          ],
+          [
+            -55.9633186,
+            -27.3830704
+          ],
+          [
+            -55.9632883,
+            -27.3831375
+          ],
+          [
+            -55.963242,
+            -27.3832399
+          ],
+          [
+            -55.9630766,
+            -27.3836056
+          ],
+          [
+            -55.9620161,
+            -27.3861358
+          ],
+          [
+            -55.9618337,
+            -27.3865568
+          ],
+          [
+            -55.9617427,
+            -27.38681
+          ],
+          [
+            -55.9617201,
+            -27.3870986
+          ],
+          [
+            -55.9619976,
+            -27.3896734
+          ],
+          [
+            -55.9620475,
+            -27.3900329
+          ],
+          [
+            -55.9624663,
+            -27.3907518
+          ],
+          [
+            -55.9629604,
+            -27.3920634
+          ],
+          [
+            -55.9630818,
+            -27.3923214
+          ],
+          [
+            -55.9631637,
+            -27.3924326
+          ],
+          [
+            -55.9632754,
+            -27.3925186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918059",
+      "properties": {
+        "@id": "way/343918059",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9607504,
+            -27.3980996
+          ],
+          [
+            -55.9610211,
+            -27.3981765
+          ],
+          [
+            -55.961805,
+            -27.3984403
+          ],
+          [
+            -55.9623992,
+            -27.3986617
+          ],
+          [
+            -55.9632693,
+            -27.3990574
+          ],
+          [
+            -55.9637592,
+            -27.3993682
+          ],
+          [
+            -55.9638901,
+            -27.3994531
+          ],
+          [
+            -55.9639639,
+            -27.3995045
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711445",
+      "properties": {
+        "@id": "way/101711445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632754,
+            -27.3925186
+          ],
+          [
+            -55.963324,
+            -27.3925301
+          ],
+          [
+            -55.9633688,
+            -27.3925502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918060",
+      "properties": {
+        "@id": "way/343918060",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9633688,
+            -27.3925502
+          ],
+          [
+            -55.963425,
+            -27.3925948
+          ],
+          [
+            -55.9634629,
+            -27.3926527
+          ],
+          [
+            -55.9634788,
+            -27.3927181
+          ],
+          [
+            -55.9634712,
+            -27.3927847
+          ],
+          [
+            -55.9634408,
+            -27.392846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531395",
+      "properties": {
+        "@id": "way/388531395",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9634408,
+            -27.392846
+          ],
+          [
+            -55.9634001,
+            -27.3928886
+          ],
+          [
+            -55.9633483,
+            -27.3929204
+          ],
+          [
+            -55.9632891,
+            -27.3929392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263201369",
+      "properties": {
+        "@id": "way/263201369",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9609837,
+            -27.3738456
+          ],
+          [
+            -55.9610756,
+            -27.3739345
+          ],
+          [
+            -55.9611208,
+            -27.3741271
+          ],
+          [
+            -55.9612117,
+            -27.3747779
+          ],
+          [
+            -55.9615603,
+            -27.3771458
+          ],
+          [
+            -55.961651,
+            -27.3774541
+          ],
+          [
+            -55.9623465,
+            -27.3795965
+          ],
+          [
+            -55.9631011,
+            -27.3818769
+          ],
+          [
+            -55.9632423,
+            -27.3822877
+          ],
+          [
+            -55.9632434,
+            -27.3823676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888633",
+      "properties": {
+        "@id": "way/392888633",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632434,
+            -27.3823676
+          ],
+          [
+            -55.9632986,
+            -27.3824413
+          ],
+          [
+            -55.9633088,
+            -27.3825296
+          ],
+          [
+            -55.9632958,
+            -27.3825968
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255089330",
+      "properties": {
+        "@id": "way/255089330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9579209,
+            -27.3728035
+          ],
+          [
+            -55.9599575,
+            -27.373376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255317562",
+      "properties": {
+        "@id": "way/255317562",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9599575,
+            -27.373376
+          ],
+          [
+            -55.9606921,
+            -27.3735731
+          ],
+          [
+            -55.9607284,
+            -27.3736232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888635",
+      "properties": {
+        "@id": "way/392888635",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9607284,
+            -27.3736232
+          ],
+          [
+            -55.9607938,
+            -27.3736403
+          ],
+          [
+            -55.9608869,
+            -27.3737059
+          ],
+          [
+            -55.9609554,
+            -27.3737833
+          ],
+          [
+            -55.9609837,
+            -27.3738456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144841996",
+      "properties": {
+        "@id": "way/144841996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9542748,
+            -27.3717843
+          ],
+          [
+            -55.9572382,
+            -27.3726174
+          ],
+          [
+            -55.9579209,
+            -27.3728035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256262904",
+      "properties": {
+        "@id": "way/256262904",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541807,
+            -27.371532
+          ],
+          [
+            -55.9541865,
+            -27.3716005
+          ],
+          [
+            -55.9541994,
+            -27.3716658
+          ],
+          [
+            -55.9542157,
+            -27.3717176
+          ],
+          [
+            -55.9542748,
+            -27.3717843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888618",
+      "properties": {
+        "@id": "way/392888618",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9535678,
+            -27.3712444
+          ],
+          [
+            -55.9536653,
+            -27.3711764
+          ],
+          [
+            -55.9537299,
+            -27.3711544
+          ],
+          [
+            -55.9538503,
+            -27.3711434
+          ],
+          [
+            -55.9539614,
+            -27.3711639
+          ],
+          [
+            -55.9540591,
+            -27.3712149
+          ],
+          [
+            -55.9541343,
+            -27.3712919
+          ],
+          [
+            -55.9541639,
+            -27.3713511
+          ],
+          [
+            -55.9541834,
+            -27.3714163
+          ],
+          [
+            -55.9541854,
+            -27.371476
+          ],
+          [
+            -55.9541807,
+            -27.371532
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396598892",
+      "properties": {
+        "@id": "way/396598892",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9533018,
+            -27.371605
+          ],
+          [
+            -55.953456,
+            -27.371399
+          ],
+          [
+            -55.9535678,
+            -27.3712444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611174",
+      "properties": {
+        "@id": "way/396611174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.947522,
+            -27.3722729
+          ],
+          [
+            -55.9465947,
+            -27.3723758
+          ],
+          [
+            -55.9457045,
+            -27.3724748
+          ],
+          [
+            -55.9448293,
+            -27.3725722
+          ],
+          [
+            -55.9440408,
+            -27.3726597
+          ],
+          [
+            -55.9438395,
+            -27.372682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43991510",
+      "properties": {
+        "@id": "way/43991510",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.947522,
+            -27.3722729
+          ],
+          [
+            -55.947634,
+            -27.3722175
+          ],
+          [
+            -55.9478454,
+            -27.3721957
+          ],
+          [
+            -55.9488264,
+            -27.3720945
+          ],
+          [
+            -55.9502774,
+            -27.3719432
+          ],
+          [
+            -55.9512577,
+            -27.3718351
+          ],
+          [
+            -55.951351,
+            -27.3718252
+          ],
+          [
+            -55.9521739,
+            -27.371738
+          ],
+          [
+            -55.9525268,
+            -27.3717006
+          ],
+          [
+            -55.9529327,
+            -27.3716576
+          ],
+          [
+            -55.9530246,
+            -27.3716479
+          ],
+          [
+            -55.9533018,
+            -27.371605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259357981",
+      "properties": {
+        "@id": "way/259357981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438395,
+            -27.372682
+          ],
+          [
+            -55.9429006,
+            -27.3727865
+          ],
+          [
+            -55.941987,
+            -27.3728879
+          ],
+          [
+            -55.9410829,
+            -27.3729884
+          ],
+          [
+            -55.9401992,
+            -27.3730866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381018",
+      "properties": {
+        "@id": "way/340381018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985433,
+            -27.4015609
+          ],
+          [
+            -55.8984592,
+            -27.4010341
+          ],
+          [
+            -55.8984011,
+            -27.4006223
+          ],
+          [
+            -55.8982407,
+            -27.3994849
+          ],
+          [
+            -55.8980784,
+            -27.3983184
+          ],
+          [
+            -55.8980691,
+            -27.3982516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/195217717",
+      "properties": {
+        "@id": "way/195217717",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8944274,
+            -27.3986322
+          ],
+          [
+            -55.8944056,
+            -27.3986432
+          ],
+          [
+            -55.8943813,
+            -27.3986488
+          ],
+          [
+            -55.8943563,
+            -27.3986485
+          ],
+          [
+            -55.8943322,
+            -27.3986425
+          ],
+          [
+            -55.8943086,
+            -27.3986295
+          ],
+          [
+            -55.8942903,
+            -27.3986111
+          ],
+          [
+            -55.8942787,
+            -27.3985888
+          ],
+          [
+            -55.8942748,
+            -27.3985645
+          ],
+          [
+            -55.8942794,
+            -27.3985391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/279037468",
+      "properties": {
+        "@id": "way/279037468",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8937739,
+            -27.3951591
+          ],
+          [
+            -55.8935482,
+            -27.393425
+          ],
+          [
+            -55.8935372,
+            -27.3933249
+          ],
+          [
+            -55.8933452,
+            -27.391778
+          ],
+          [
+            -55.8931988,
+            -27.3909225
+          ],
+          [
+            -55.8930894,
+            -27.3901034
+          ],
+          [
+            -55.8929827,
+            -27.3893042
+          ],
+          [
+            -55.8928943,
+            -27.3886697
+          ],
+          [
+            -55.8928801,
+            -27.3885298
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299921855",
+      "properties": {
+        "@id": "way/299921855",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980691,
+            -27.3982516
+          ],
+          [
+            -55.897944,
+            -27.3982695
+          ],
+          [
+            -55.8979215,
+            -27.3982727
+          ],
+          [
+            -55.8974725,
+            -27.3983216
+          ],
+          [
+            -55.8968385,
+            -27.3983669
+          ],
+          [
+            -55.8956821,
+            -27.3984903
+          ],
+          [
+            -55.8945759,
+            -27.3986283
+          ],
+          [
+            -55.8944274,
+            -27.3986322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398979499",
+      "properties": {
+        "@id": "way/398979499",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8942794,
+            -27.3985391
+          ],
+          [
+            -55.8942834,
+            -27.3983966
+          ],
+          [
+            -55.8941859,
+            -27.3976889
+          ],
+          [
+            -55.8939939,
+            -27.3965268
+          ],
+          [
+            -55.8938287,
+            -27.3955568
+          ],
+          [
+            -55.8938006,
+            -27.3953568
+          ],
+          [
+            -55.8937915,
+            -27.3952944
+          ],
+          [
+            -55.8937739,
+            -27.3951591
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350559",
+      "properties": {
+        "@id": "way/312350559",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8924578,
+            -27.3851145
+          ],
+          [
+            -55.8925314,
+            -27.3856416
+          ],
+          [
+            -55.8925793,
+            -27.3859846
+          ],
+          [
+            -55.8926134,
+            -27.3862287
+          ],
+          [
+            -55.8926878,
+            -27.3867624
+          ],
+          [
+            -55.8928052,
+            -27.3876023
+          ],
+          [
+            -55.8929042,
+            -27.3883117
+          ],
+          [
+            -55.8929162,
+            -27.3884557
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.891541,
+            -27.378456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/357117019",
+      "properties": {
+        "@id": "way/357117019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89212,
+            -27.3826928
+          ],
+          [
+            -55.8921843,
+            -27.383154
+          ],
+          [
+            -55.8922063,
+            -27.3833187
+          ],
+          [
+            -55.8922239,
+            -27.3834376
+          ],
+          [
+            -55.8922448,
+            -27.3835659
+          ],
+          [
+            -55.8922674,
+            -27.3837042
+          ],
+          [
+            -55.8922771,
+            -27.3837802
+          ],
+          [
+            -55.8923318,
+            -27.3842106
+          ],
+          [
+            -55.8924293,
+            -27.3849257
+          ],
+          [
+            -55.8924578,
+            -27.3851145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607397",
+      "properties": {
+        "@id": "way/254607397",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891805,
+            -27.3803732
+          ],
+          [
+            -55.8918197,
+            -27.3804813
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607398",
+      "properties": {
+        "@id": "way/254607398",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.89185,
+            -27.3807141
+          ],
+          [
+            -55.8918735,
+            -27.3809263
+          ],
+          [
+            -55.8919517,
+            -27.3815004
+          ],
+          [
+            -55.891995,
+            -27.3817971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607400",
+      "properties": {
+        "@id": "way/254607400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918197,
+            -27.3804813
+          ],
+          [
+            -55.8918353,
+            -27.3806084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696509",
+      "properties": {
+        "@id": "way/340696509",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891541,
+            -27.378456
+          ],
+          [
+            -55.8916447,
+            -27.3792717
+          ],
+          [
+            -55.8916526,
+            -27.3793229
+          ],
+          [
+            -55.8916688,
+            -27.3794156
+          ],
+          [
+            -55.8916753,
+            -27.3794402
+          ],
+          [
+            -55.8917544,
+            -27.3800332
+          ],
+          [
+            -55.8917715,
+            -27.3801563
+          ],
+          [
+            -55.891805,
+            -27.3803732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341081146",
+      "properties": {
+        "@id": "way/341081146",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891995,
+            -27.3817971
+          ],
+          [
+            -55.8920164,
+            -27.3819656
+          ],
+          [
+            -55.89212,
+            -27.3826928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/381950159",
+      "properties": {
+        "@id": "way/381950159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918353,
+            -27.3806084
+          ],
+          [
+            -55.89185,
+            -27.3807141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341073018",
+      "properties": {
+        "@id": "way/341073018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9400809,
+            -27.3730997
+          ],
+          [
+            -55.939701,
+            -27.373142
+          ],
+          [
+            -55.9382491,
+            -27.3733036
+          ],
+          [
+            -55.9380578,
+            -27.3733246
+          ],
+          [
+            -55.9366076,
+            -27.3734858
+          ],
+          [
+            -55.9363731,
+            -27.3735119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684633",
+      "properties": {
+        "@id": "way/397684633",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401992,
+            -27.3730866
+          ],
+          [
+            -55.9401386,
+            -27.3730933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684634",
+      "properties": {
+        "@id": "way/397684634",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401386,
+            -27.3730933
+          ],
+          [
+            -55.9400809,
+            -27.3730997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341073017",
+      "properties": {
+        "@id": "way/341073017",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326505,
+            -27.3739256
+          ],
+          [
+            -55.9325801,
+            -27.3739334
+          ],
+          [
+            -55.9321027,
+            -27.3739864
+          ],
+          [
+            -55.9320431,
+            -27.373993
+          ],
+          [
+            -55.9317273,
+            -27.3740281
+          ],
+          [
+            -55.9313212,
+            -27.3740733
+          ],
+          [
+            -55.930742,
+            -27.3741376
+          ],
+          [
+            -55.9302238,
+            -27.3741952
+          ],
+          [
+            -55.929841,
+            -27.3742377
+          ],
+          [
+            -55.9295122,
+            -27.3742743
+          ],
+          [
+            -55.9290632,
+            -27.3743241
+          ],
+          [
+            -55.9289895,
+            -27.3743323
+          ],
+          [
+            -55.9289359,
+            -27.3743383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766806",
+      "properties": {
+        "@id": "way/340766806",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9289359,
+            -27.3743383
+          ],
+          [
+            -55.9288669,
+            -27.374346
+          ],
+          [
+            -55.9273264,
+            -27.3745177
+          ],
+          [
+            -55.927281,
+            -27.3745223
+          ],
+          [
+            -55.9269911,
+            -27.3745545
+          ],
+          [
+            -55.9262287,
+            -27.3746392
+          ],
+          [
+            -55.9254561,
+            -27.3747251
+          ],
+          [
+            -55.9252401,
+            -27.3747491
+          ],
+          [
+            -55.9251941,
+            -27.3747542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611928",
+      "properties": {
+        "@id": "way/396611928",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9363731,
+            -27.3735119
+          ],
+          [
+            -55.9361682,
+            -27.3735347
+          ],
+          [
+            -55.9349742,
+            -27.3736673
+          ],
+          [
+            -55.9343486,
+            -27.3737368
+          ],
+          [
+            -55.9336387,
+            -27.3738157
+          ],
+          [
+            -55.9327165,
+            -27.3739182
+          ],
+          [
+            -55.9326505,
+            -27.3739256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766805",
+      "properties": {
+        "@id": "way/340766805",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9214506,
+            -27.3751697
+          ],
+          [
+            -55.9214007,
+            -27.3751753
+          ],
+          [
+            -55.9208651,
+            -27.3752348
+          ],
+          [
+            -55.9204596,
+            -27.3752798
+          ],
+          [
+            -55.9199333,
+            -27.3753382
+          ],
+          [
+            -55.9195756,
+            -27.3753779
+          ],
+          [
+            -55.9187865,
+            -27.3754655
+          ],
+          [
+            -55.9186505,
+            -27.3754806
+          ],
+          [
+            -55.9177161,
+            -27.3755843
+          ],
+          [
+            -55.9176767,
+            -27.3755887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566391",
+      "properties": {
+        "@id": "way/340566391",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9176767,
+            -27.3755887
+          ],
+          [
+            -55.917631,
+            -27.3755938
+          ],
+          [
+            -55.9172221,
+            -27.3756393
+          ],
+          [
+            -55.9166356,
+            -27.3757047
+          ],
+          [
+            -55.9161777,
+            -27.3757557
+          ],
+          [
+            -55.9158254,
+            -27.3757949
+          ],
+          [
+            -55.9150574,
+            -27.3758805
+          ],
+          [
+            -55.9149102,
+            -27.3758969
+          ],
+          [
+            -55.9140445,
+            -27.3759933
+          ],
+          [
+            -55.9139733,
+            -27.3760047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396613233",
+      "properties": {
+        "@id": "way/396613233",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9251941,
+            -27.3747542
+          ],
+          [
+            -55.9251417,
+            -27.37476
+          ],
+          [
+            -55.9249829,
+            -27.3747777
+          ],
+          [
+            -55.924566,
+            -27.3748241
+          ],
+          [
+            -55.9238486,
+            -27.3749036
+          ],
+          [
+            -55.9233233,
+            -27.3749619
+          ],
+          [
+            -55.9227609,
+            -27.3750243
+          ],
+          [
+            -55.9220485,
+            -27.3751034
+          ],
+          [
+            -55.921683,
+            -27.3751439
+          ],
+          [
+            -55.9215004,
+            -27.3751642
+          ],
+          [
+            -55.9214506,
+            -27.3751697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566392",
+      "properties": {
+        "@id": "way/340566392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9139733,
+            -27.3760047
+          ],
+          [
+            -55.9138917,
+            -27.3760136
+          ],
+          [
+            -55.9131702,
+            -27.376093
+          ],
+          [
+            -55.9122841,
+            -27.3761904
+          ],
+          [
+            -55.9120873,
+            -27.376212
+          ],
+          [
+            -55.9111276,
+            -27.3763176
+          ],
+          [
+            -55.9102302,
+            -27.3764129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572034",
+      "properties": {
+        "@id": "way/340572034",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9064801,
+            -27.3768286
+          ],
+          [
+            -55.9058856,
+            -27.3769001
+          ],
+          [
+            -55.904877,
+            -27.3770081
+          ],
+          [
+            -55.9047905,
+            -27.377019
+          ],
+          [
+            -55.9046198,
+            -27.3770405
+          ],
+          [
+            -55.9044659,
+            -27.3770567
+          ],
+          [
+            -55.9038212,
+            -27.3771248
+          ],
+          [
+            -55.9029435,
+            -27.3772262
+          ],
+          [
+            -55.9027488,
+            -27.3772487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605145",
+      "properties": {
+        "@id": "way/388605145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023022,
+            -27.3738755
+          ],
+          [
+            -55.9022679,
+            -27.3739391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113109",
+      "properties": {
+        "@id": "way/33113109",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9027488,
+            -27.3772487
+          ],
+          [
+            -55.902488,
+            -27.3772769
+          ],
+          [
+            -55.9018915,
+            -27.3773413
+          ],
+          [
+            -55.9010753,
+            -27.377427
+          ],
+          [
+            -55.9010449,
+            -27.3774302
+          ],
+          [
+            -55.9000292,
+            -27.3775368
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228303240",
+      "properties": {
+        "@id": "way/228303240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022679,
+            -27.3739391
+          ],
+          [
+            -55.9022048,
+            -27.3739724
+          ],
+          [
+            -55.9021318,
+            -27.373978
+          ],
+          [
+            -55.9020633,
+            -27.3739549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572036",
+      "properties": {
+        "@id": "way/340572036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9018476,
+            -27.3705303
+          ],
+          [
+            -55.901891,
+            -27.3708487
+          ],
+          [
+            -55.9019155,
+            -27.3710288
+          ],
+          [
+            -55.9019343,
+            -27.3711667
+          ],
+          [
+            -55.9020212,
+            -27.3718045
+          ],
+          [
+            -55.9020706,
+            -27.372153
+          ],
+          [
+            -55.9021484,
+            -27.3727373
+          ],
+          [
+            -55.9022735,
+            -27.3736546
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396609426",
+      "properties": {
+        "@id": "way/396609426",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9102302,
+            -27.3764129
+          ],
+          [
+            -55.9092398,
+            -27.3765252
+          ],
+          [
+            -55.90914,
+            -27.3765361
+          ],
+          [
+            -55.9084915,
+            -27.3766073
+          ],
+          [
+            -55.9083962,
+            -27.3766178
+          ],
+          [
+            -55.9074078,
+            -27.3767266
+          ],
+          [
+            -55.9064801,
+            -27.3768286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663260",
+      "properties": {
+        "@id": "way/38663260",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9018632,
+            -27.3739838
+          ],
+          [
+            -55.9009433,
+            -27.3740842
+          ],
+          [
+            -55.8999037,
+            -27.3741977
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113069",
+      "properties": {
+        "@id": "way/33113069",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300039403",
+      "properties": {
+        "@id": "way/300039403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.8914549,
+            -27.3748804
+          ],
+          [
+            -55.8925199,
+            -27.3747642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677071",
+      "properties": {
+        "@id": "way/318677071",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925199,
+            -27.3747642
+          ],
+          [
+            -55.8933688,
+            -27.3746715
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918050",
+      "properties": {
+        "@id": "way/343918050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010017,
+            -27.3643271
+          ],
+          [
+            -55.9011279,
+            -27.3652529
+          ],
+          [
+            -55.9011406,
+            -27.365346
+          ],
+          [
+            -55.9012345,
+            -27.3660341
+          ],
+          [
+            -55.9012549,
+            -27.3661839
+          ],
+          [
+            -55.9013321,
+            -27.3667503
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262574908",
+      "properties": {
+        "@id": "way/262574908",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9016365,
+            -27.3689828
+          ],
+          [
+            -55.9016465,
+            -27.369056
+          ],
+          [
+            -55.901751,
+            -27.369823
+          ],
+          [
+            -55.9017582,
+            -27.3698756
+          ],
+          [
+            -55.9017637,
+            -27.369916
+          ],
+          [
+            -55.9017772,
+            -27.3700148
+          ],
+          [
+            -55.9018323,
+            -27.370419
+          ],
+          [
+            -55.9018476,
+            -27.3705303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489606",
+      "properties": {
+        "@id": "way/389489606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.9015074,
+            -27.3680356
+          ],
+          [
+            -55.9015144,
+            -27.3680873
+          ],
+          [
+            -55.9015209,
+            -27.3681347
+          ],
+          [
+            -55.9016277,
+            -27.3689184
+          ],
+          [
+            -55.9016365,
+            -27.3689828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782375",
+      "properties": {
+        "@id": "way/222782375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004121,
+            -27.3603231
+          ],
+          [
+            -55.9004677,
+            -27.3603834
+          ],
+          [
+            -55.9004786,
+            -27.3604936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266510233",
+      "properties": {
+        "@id": "way/266510233",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900409,
+            -27.3605822
+          ],
+          [
+            -55.9004989,
+            -27.3606395
+          ],
+          [
+            -55.9006196,
+            -27.3615246
+          ],
+          [
+            -55.9006311,
+            -27.3616089
+          ],
+          [
+            -55.9007099,
+            -27.3621868
+          ],
+          [
+            -55.9008058,
+            -27.3628904
+          ],
+          [
+            -55.9008352,
+            -27.3631056
+          ],
+          [
+            -55.9008618,
+            -27.3633012
+          ],
+          [
+            -55.9008746,
+            -27.3633949
+          ],
+          [
+            -55.900941,
+            -27.3638799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834480",
+      "properties": {
+        "@id": "way/268834480",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8977428,
+            -27.360591
+          ],
+          [
+            -55.8980126,
+            -27.3605619
+          ],
+          [
+            -55.8987282,
+            -27.3604848
+          ],
+          [
+            -55.8990524,
+            -27.3604498
+          ],
+          [
+            -55.9000914,
+            -27.3603437
+          ],
+          [
+            -55.9001456,
+            -27.3603761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670147",
+      "properties": {
+        "@id": "way/318670147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004786,
+            -27.3604936
+          ],
+          [
+            -55.9004421,
+            -27.3605553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677077",
+      "properties": {
+        "@id": "way/318677077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004421,
+            -27.3605553
+          ],
+          [
+            -55.900409,
+            -27.3605822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888631",
+      "properties": {
+        "@id": "way/392888631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001456,
+            -27.3603761
+          ],
+          [
+            -55.9002015,
+            -27.3603203
+          ],
+          [
+            -55.900316,
+            -27.3602918
+          ],
+          [
+            -55.9004121,
+            -27.3603231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396091327",
+      "properties": {
+        "@id": "way/396091327",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009444,
+            -27.3639056
+          ],
+          [
+            -55.9009474,
+            -27.3639285
+          ],
+          [
+            -55.9010017,
+            -27.3643271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639785",
+      "properties": {
+        "@id": "way/398639785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900941,
+            -27.3638799
+          ],
+          [
+            -55.9009444,
+            -27.3639056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350565",
+      "properties": {
+        "@id": "way/312350565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8946695,
+            -27.3609224
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760880",
+      "properties": {
+        "@id": "way/388760880",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261692710",
+      "properties": {
+        "@id": "way/261692710",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867556,
+            -27.4338519
+          ],
+          [
+            -55.8866235,
+            -27.4337443
+          ],
+          [
+            -55.8865444,
+            -27.4336837
+          ],
+          [
+            -55.885617,
+            -27.4329726
+          ],
+          [
+            -55.885217,
+            -27.432666
+          ],
+          [
+            -55.8850424,
+            -27.4325321
+          ],
+          [
+            -55.8848277,
+            -27.4323675
+          ],
+          [
+            -55.8847193,
+            -27.4322844
+          ],
+          [
+            -55.8838344,
+            -27.4316038
+          ],
+          [
+            -55.883052,
+            -27.4310059
+          ],
+          [
+            -55.8829365,
+            -27.4309176
+          ],
+          [
+            -55.8826702,
+            -27.4307134
+          ],
+          [
+            -55.8819887,
+            -27.4301888
+          ],
+          [
+            -55.8812164,
+            -27.4295988
+          ],
+          [
+            -55.8811007,
+            -27.4295037
+          ],
+          [
+            -55.8801916,
+            -27.428814
+          ],
+          [
+            -55.8796632,
+            -27.428408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816821",
+      "properties": {
+        "@id": "way/254816821",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8882904,
+            -27.4329439
+          ],
+          [
+            -55.888183,
+            -27.4328552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816822",
+      "properties": {
+        "@id": "way/254816822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888092,
+            -27.4327801
+          ],
+          [
+            -55.8879621,
+            -27.432673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725184",
+      "properties": {
+        "@id": "way/308725184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8879621,
+            -27.432673
+          ],
+          [
+            -55.8878962,
+            -27.432741
+          ],
+          [
+            -55.8872794,
+            -27.433321
+          ],
+          [
+            -55.886968,
+            -27.4336358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361477740",
+      "properties": {
+        "@id": "way/361477740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888183,
+            -27.4328552
+          ],
+          [
+            -55.888092,
+            -27.4327801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361477742",
+      "properties": {
+        "@id": "way/361477742",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888514,
+            -27.4325497
+          ],
+          [
+            -55.8887229,
+            -27.4326393
+          ],
+          [
+            -55.8885526,
+            -27.4327588
+          ],
+          [
+            -55.8883947,
+            -27.4328696
+          ],
+          [
+            -55.8882904,
+            -27.4329439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888630",
+      "properties": {
+        "@id": "way/392888630",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.886968,
+            -27.4336358
+          ],
+          [
+            -55.8867556,
+            -27.4338519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379033844",
+      "properties": {
+        "@id": "way/379033844",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8866186,
+            -27.4262296
+          ],
+          [
+            -55.886544,
+            -27.426318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888620",
+      "properties": {
+        "@id": "way/392888620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870416,
+            -27.4266995
+          ],
+          [
+            -55.886544,
+            -27.426318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888621",
+      "properties": {
+        "@id": "way/392888621",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888243,
+            -27.4280664
+          ],
+          [
+            -55.8879394,
+            -27.4273857
+          ],
+          [
+            -55.8870416,
+            -27.4266995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972277",
+      "properties": {
+        "@id": "way/43972277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8796632,
+            -27.428408
+          ],
+          [
+            -55.8793619,
+            -27.4287147
+          ],
+          [
+            -55.8788803,
+            -27.4283419
+          ],
+          [
+            -55.8787578,
+            -27.428247
+          ],
+          [
+            -55.8785807,
+            -27.4281099
+          ],
+          [
+            -55.8783888,
+            -27.4279615
+          ],
+          [
+            -55.8787174,
+            -27.4276271
+          ],
+          [
+            -55.8787998,
+            -27.4275432
+          ],
+          [
+            -55.8788806,
+            -27.4274609
+          ],
+          [
+            -55.8791948,
+            -27.4271412
+          ],
+          [
+            -55.8795395,
+            -27.427408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972035",
+      "properties": {
+        "@id": "way/43972035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8861884,
+            -27.4208085
+          ],
+          [
+            -55.886268,
+            -27.421318
+          ],
+          [
+            -55.8862729,
+            -27.4214118
+          ],
+          [
+            -55.886277,
+            -27.4214875
+          ],
+          [
+            -55.886288,
+            -27.4218492
+          ],
+          [
+            -55.8863046,
+            -27.4222592
+          ],
+          [
+            -55.8863447,
+            -27.4223974
+          ],
+          [
+            -55.8863565,
+            -27.4229532
+          ],
+          [
+            -55.8863977,
+            -27.4234679
+          ],
+          [
+            -55.8864263,
+            -27.4238257
+          ],
+          [
+            -55.8864409,
+            -27.4240078
+          ],
+          [
+            -55.8864843,
+            -27.4245501
+          ],
+          [
+            -55.8865265,
+            -27.4250783
+          ],
+          [
+            -55.8865698,
+            -27.4256193
+          ],
+          [
+            -55.8866186,
+            -27.4262296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972278",
+      "properties": {
+        "@id": "way/43972278",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8795395,
+            -27.427408
+          ],
+          [
+            -55.8800446,
+            -27.4268891
+          ],
+          [
+            -55.8808118,
+            -27.4260926
+          ],
+          [
+            -55.8815979,
+            -27.4252913
+          ],
+          [
+            -55.8823679,
+            -27.4245019
+          ],
+          [
+            -55.8831402,
+            -27.4237082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172029618",
+      "properties": {
+        "@id": "way/172029618",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8826998,
+            -27.4226386
+          ],
+          [
+            -55.8825841,
+            -27.4226459
+          ],
+          [
+            -55.8822843,
+            -27.4226648
+          ],
+          [
+            -55.8820805,
+            -27.4226777
+          ],
+          [
+            -55.8818278,
+            -27.4226936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888622",
+      "properties": {
+        "@id": "way/392888622",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8831402,
+            -27.4237082
+          ],
+          [
+            -55.8822716,
+            -27.4230421
+          ],
+          [
+            -55.8818278,
+            -27.4226936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972043",
+      "properties": {
+        "@id": "way/43972043",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8826998,
+            -27.4226386
+          ],
+          [
+            -55.8826551,
+            -27.4220801
+          ],
+          [
+            -55.8826141,
+            -27.4215676
+          ],
+          [
+            -55.8825724,
+            -27.4210451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261582336",
+      "properties": {
+        "@id": "way/261582336",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892248,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal A-3-2, Hospital, sentido Estación Campus UNaM - Itaembé Guazú de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 27: Estación Campus UNaM → Hospital → Itaembé Guazú",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xH",
+              "route": "bus",
+              "to": "Itaembé Guazú",
+              "type": "route",
+              "via": "Hospital"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8861884,
+            -27.4208085
+          ],
+          [
+            -55.8860385,
+            -27.4208267
+          ],
+          [
+            -55.8855684,
+            -27.4208563
+          ],
+          [
+            -55.8849681,
+            -27.4208941
+          ],
+          [
+            -55.8843925,
+            -27.4209305
+          ],
+          [
+            -55.8842665,
+            -27.4209384
+          ],
+          [
+            -55.8837421,
+            -27.4209714
+          ],
+          [
+            -55.8831693,
+            -27.4210075
+          ],
+          [
+            -55.8825724,
+            -27.4210451
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1920 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/43994373",
+      "properties": {
+        "@id": "way/43994373",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.952976,
+            -27.3682949
+          ],
+          [
+            -55.9529681,
+            -27.3684226
+          ],
+          [
+            -55.9529602,
+            -27.3687961
+          ],
+          [
+            -55.9529482,
+            -27.3689164
+          ],
+          [
+            -55.952932,
+            -27.3692401
+          ],
+          [
+            -55.9529129,
+            -27.3694443
+          ],
+          [
+            -55.9528818,
+            -27.3697774
+          ],
+          [
+            -55.9528439,
+            -27.3700069
+          ],
+          [
+            -55.9528255,
+            -27.3701944
+          ],
+          [
+            -55.952841,
+            -27.3703777
+          ],
+          [
+            -55.9529412,
+            -27.3711507
+          ],
+          [
+            -55.9529674,
+            -27.3713138
+          ],
+          [
+            -55.9530246,
+            -27.3716479
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259437385",
+      "properties": {
+        "@id": "way/259437385",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9508656,
+            -27.3685473
+          ],
+          [
+            -55.9505414,
+            -27.3685798
+          ],
+          [
+            -55.9504153,
+            -27.3685924
+          ],
+          [
+            -55.949166,
+            -27.3687176
+          ],
+          [
+            -55.9482128,
+            -27.3688131
+          ],
+          [
+            -55.9481553,
+            -27.3688189
+          ],
+          [
+            -55.9471209,
+            -27.3689225
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341075574",
+      "properties": {
+        "@id": "way/341075574",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433598,
+            -27.3693477
+          ],
+          [
+            -55.942455,
+            -27.3694476
+          ],
+          [
+            -55.9415191,
+            -27.3695509
+          ],
+          [
+            -55.9406061,
+            -27.3696517
+          ],
+          [
+            -55.9404674,
+            -27.369667
+          ],
+          [
+            -55.9399456,
+            -27.3697247
+          ],
+          [
+            -55.939738,
+            -27.3697476
+          ],
+          [
+            -55.939678,
+            -27.3697542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259437384",
+      "properties": {
+        "@id": "way/259437384",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9508656,
+            -27.3685473
+          ],
+          [
+            -55.9509844,
+            -27.3684785
+          ],
+          [
+            -55.9520724,
+            -27.3683594
+          ],
+          [
+            -55.952844,
+            -27.368275
+          ],
+          [
+            -55.952976,
+            -27.3682949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611175",
+      "properties": {
+        "@id": "way/396611175",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9471209,
+            -27.3689225
+          ],
+          [
+            -55.9461762,
+            -27.3690367
+          ],
+          [
+            -55.9454122,
+            -27.369121
+          ],
+          [
+            -55.9452527,
+            -27.3691386
+          ],
+          [
+            -55.9448816,
+            -27.3691796
+          ],
+          [
+            -55.9444892,
+            -27.369223
+          ],
+          [
+            -55.944386,
+            -27.3692343
+          ],
+          [
+            -55.9439879,
+            -27.3692783
+          ],
+          [
+            -55.9435301,
+            -27.3693289
+          ],
+          [
+            -55.9433598,
+            -27.3693477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766811",
+      "properties": {
+        "@id": "way/340766811",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9284589,
+            -27.3709923
+          ],
+          [
+            -55.9283982,
+            -27.370999
+          ],
+          [
+            -55.9273717,
+            -27.3711104
+          ],
+          [
+            -55.92682,
+            -27.3711726
+          ],
+          [
+            -55.9262959,
+            -27.3712302
+          ],
+          [
+            -55.9257648,
+            -27.3712886
+          ],
+          [
+            -55.9252627,
+            -27.3713438
+          ],
+          [
+            -55.9247714,
+            -27.3713978
+          ],
+          [
+            -55.9247266,
+            -27.3714027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611929",
+      "properties": {
+        "@id": "way/396611929",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9359058,
+            -27.3701707
+          ],
+          [
+            -55.9348201,
+            -27.3702906
+          ],
+          [
+            -55.9346232,
+            -27.3703123
+          ],
+          [
+            -55.9344757,
+            -27.3703286
+          ],
+          [
+            -55.933263,
+            -27.3704625
+          ],
+          [
+            -55.9331388,
+            -27.3704762
+          ],
+          [
+            -55.932679,
+            -27.370527
+          ],
+          [
+            -55.9325716,
+            -27.3705388
+          ],
+          [
+            -55.9322519,
+            -27.3705741
+          ],
+          [
+            -55.9321835,
+            -27.3705817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396615846",
+      "properties": {
+        "@id": "way/396615846",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.939678,
+            -27.3697542
+          ],
+          [
+            -55.9396172,
+            -27.3697609
+          ],
+          [
+            -55.9386452,
+            -27.3698682
+          ],
+          [
+            -55.9378221,
+            -27.3699591
+          ],
+          [
+            -55.9377417,
+            -27.369968
+          ],
+          [
+            -55.9359058,
+            -27.3701707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/353728289",
+      "properties": {
+        "@id": "way/353728289",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9321835,
+            -27.3705817
+          ],
+          [
+            -55.9321105,
+            -27.3705897
+          ],
+          [
+            -55.9315815,
+            -27.370648
+          ],
+          [
+            -55.9312034,
+            -27.3706897
+          ],
+          [
+            -55.9305652,
+            -27.3707601
+          ],
+          [
+            -55.9302774,
+            -27.3707918
+          ],
+          [
+            -55.9295111,
+            -27.3708763
+          ],
+          [
+            -55.9293796,
+            -27.3708908
+          ],
+          [
+            -55.9286567,
+            -27.3709701
+          ],
+          [
+            -55.9285177,
+            -27.3709858
+          ],
+          [
+            -55.9284589,
+            -27.3709923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766810",
+      "properties": {
+        "@id": "way/340766810",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9209823,
+            -27.3718144
+          ],
+          [
+            -55.9209365,
+            -27.3718194
+          ],
+          [
+            -55.9204153,
+            -27.3718767
+          ],
+          [
+            -55.919897,
+            -27.3719337
+          ],
+          [
+            -55.9195154,
+            -27.3719757
+          ],
+          [
+            -55.9194381,
+            -27.3719842
+          ],
+          [
+            -55.9188403,
+            -27.3720499
+          ],
+          [
+            -55.9183158,
+            -27.3721076
+          ],
+          [
+            -55.9177865,
+            -27.3721656
+          ],
+          [
+            -55.9174682,
+            -27.3722007
+          ],
+          [
+            -55.9172525,
+            -27.3722244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531387",
+      "properties": {
+        "@id": "way/388531387",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172525,
+            -27.3722244
+          ],
+          [
+            -55.9172108,
+            -27.372229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531388",
+      "properties": {
+        "@id": "way/388531388",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172108,
+            -27.372229
+          ],
+          [
+            -55.9171663,
+            -27.3722339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766809",
+      "properties": {
+        "@id": "way/340766809",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9247266,
+            -27.3714027
+          ],
+          [
+            -55.924673,
+            -27.3714086
+          ],
+          [
+            -55.9240853,
+            -27.3714732
+          ],
+          [
+            -55.9237471,
+            -27.3715104
+          ],
+          [
+            -55.9233824,
+            -27.3715505
+          ],
+          [
+            -55.9229975,
+            -27.3715928
+          ],
+          [
+            -55.9228592,
+            -27.371608
+          ],
+          [
+            -55.9227157,
+            -27.3716238
+          ],
+          [
+            -55.9222974,
+            -27.3716698
+          ],
+          [
+            -55.9219513,
+            -27.3717078
+          ],
+          [
+            -55.9215677,
+            -27.37175
+          ],
+          [
+            -55.9210321,
+            -27.3718089
+          ],
+          [
+            -55.9209823,
+            -27.3718144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341077789",
+      "properties": {
+        "@id": "way/341077789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9171663,
+            -27.3722339
+          ],
+          [
+            -55.9162166,
+            -27.3723384
+          ],
+          [
+            -55.9160134,
+            -27.3723611
+          ],
+          [
+            -55.9153958,
+            -27.3724287
+          ],
+          [
+            -55.9153489,
+            -27.3724338
+          ],
+          [
+            -55.9146911,
+            -27.3725059
+          ],
+          [
+            -55.9146321,
+            -27.3725124
+          ],
+          [
+            -55.9144315,
+            -27.3725346
+          ],
+          [
+            -55.913572,
+            -27.3726291
+          ],
+          [
+            -55.9134981,
+            -27.3726434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255588438",
+      "properties": {
+        "@id": "way/255588438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134981,
+            -27.3726434
+          ],
+          [
+            -55.9134253,
+            -27.3726514
+          ],
+          [
+            -55.9125244,
+            -27.3727505
+          ],
+          [
+            -55.9118035,
+            -27.3728298
+          ],
+          [
+            -55.9116185,
+            -27.3728501
+          ],
+          [
+            -55.911421,
+            -27.3728718
+          ],
+          [
+            -55.9097374,
+            -27.3730558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572036",
+      "properties": {
+        "@id": "way/340572036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9018476,
+            -27.3705303
+          ],
+          [
+            -55.901891,
+            -27.3708487
+          ],
+          [
+            -55.9019155,
+            -27.3710288
+          ],
+          [
+            -55.9019343,
+            -27.3711667
+          ],
+          [
+            -55.9020212,
+            -27.3718045
+          ],
+          [
+            -55.9020706,
+            -27.372153
+          ],
+          [
+            -55.9021484,
+            -27.3727373
+          ],
+          [
+            -55.9022735,
+            -27.3736546
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106548",
+      "properties": {
+        "@id": "way/383106548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9086073,
+            -27.3731803
+          ],
+          [
+            -55.9081026,
+            -27.373236
+          ],
+          [
+            -55.9072023,
+            -27.3733353
+          ],
+          [
+            -55.9070023,
+            -27.3733573
+          ],
+          [
+            -55.9067973,
+            -27.37338
+          ],
+          [
+            -55.9059929,
+            -27.3734686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257525244",
+      "properties": {
+        "@id": "way/257525244",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870713,
+            -27.3658518
+          ],
+          [
+            -55.8875712,
+            -27.3657973
+          ],
+          [
+            -55.8880852,
+            -27.3657413
+          ],
+          [
+            -55.8883451,
+            -27.365713
+          ],
+          [
+            -55.8891657,
+            -27.3656235
+          ],
+          [
+            -55.8901457,
+            -27.3655167
+          ],
+          [
+            -55.8912236,
+            -27.3653993
+          ],
+          [
+            -55.8921112,
+            -27.3653025
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961578",
+      "properties": {
+        "@id": "way/262961578",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985716,
+            -27.3645929
+          ],
+          [
+            -55.8994697,
+            -27.3644947
+          ],
+          [
+            -55.8996112,
+            -27.3644792
+          ],
+          [
+            -55.9006754,
+            -27.3643628
+          ],
+          [
+            -55.9010017,
+            -27.3643271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918050",
+      "properties": {
+        "@id": "way/343918050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010017,
+            -27.3643271
+          ],
+          [
+            -55.9011279,
+            -27.3652529
+          ],
+          [
+            -55.9011406,
+            -27.365346
+          ],
+          [
+            -55.9012345,
+            -27.3660341
+          ],
+          [
+            -55.9012549,
+            -27.3661839
+          ],
+          [
+            -55.9013321,
+            -27.3667503
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489616",
+      "properties": {
+        "@id": "way/389489616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8931472,
+            -27.3651896
+          ],
+          [
+            -55.8933357,
+            -27.3651691
+          ],
+          [
+            -55.894396,
+            -27.3650535
+          ],
+          [
+            -55.8952336,
+            -27.3649623
+          ],
+          [
+            -55.8954368,
+            -27.3649401
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8973312,
+            -27.3647337
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429750",
+      "properties": {
+        "@id": "way/256429750",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8985716,
+            -27.3645929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262574908",
+      "properties": {
+        "@id": "way/262574908",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9016365,
+            -27.3689828
+          ],
+          [
+            -55.9016465,
+            -27.369056
+          ],
+          [
+            -55.901751,
+            -27.369823
+          ],
+          [
+            -55.9017582,
+            -27.3698756
+          ],
+          [
+            -55.9017637,
+            -27.369916
+          ],
+          [
+            -55.9017772,
+            -27.3700148
+          ],
+          [
+            -55.9018323,
+            -27.370419
+          ],
+          [
+            -55.9018476,
+            -27.3705303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489606",
+      "properties": {
+        "@id": "way/389489606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.9015074,
+            -27.3680356
+          ],
+          [
+            -55.9015144,
+            -27.3680873
+          ],
+          [
+            -55.9015209,
+            -27.3681347
+          ],
+          [
+            -55.9016277,
+            -27.3689184
+          ],
+          [
+            -55.9016365,
+            -27.3689828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356652561",
+      "properties": {
+        "@id": "way/356652561",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8876639,
+            -27.3724105
+          ],
+          [
+            -55.8876341,
+            -27.3721655
+          ],
+          [
+            -55.8875506,
+            -27.3714772
+          ],
+          [
+            -55.8874625,
+            -27.3707516
+          ],
+          [
+            -55.887435,
+            -27.3705252
+          ],
+          [
+            -55.8872552,
+            -27.3690441
+          ],
+          [
+            -55.8871618,
+            -27.3688737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134706405",
+      "properties": {
+        "@id": "way/134706405",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867318,
+            -27.3658916
+          ],
+          [
+            -55.8870713,
+            -27.3658518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260093758",
+      "properties": {
+        "@id": "way/260093758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8871618,
+            -27.3688737
+          ],
+          [
+            -55.8871103,
+            -27.3686783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265412437",
+      "properties": {
+        "@id": "way/265412437",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.88708,
+            -27.3685612
+          ],
+          [
+            -55.8869718,
+            -27.3677306
+          ],
+          [
+            -55.8868513,
+            -27.3668065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340693570",
+      "properties": {
+        "@id": "way/340693570",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8871103,
+            -27.3686783
+          ],
+          [
+            -55.88708,
+            -27.3685612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356688361",
+      "properties": {
+        "@id": "way/356688361",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5825798,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 23 ramal Sarmiento sentido Exestación - Villa Cabello de la ciudad Posadas",
+              "from": "Exestación de trenes",
+              "name": "Línea 23 - Ramal Exestación: Exestación → Villa Cabello",
+              "network": "Posadas",
+              "operator": "Bencivenga SRL",
+              "public_transport:version": "2",
+              "ref": "23xSF",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8868513,
+            -27.3668065
+          ],
+          [
+            -55.8868191,
+            -27.3667521
+          ],
+          [
+            -55.8867135,
+            -27.3659421
+          ],
+          [
+            -55.8867318,
+            -27.3658916
+          ]
+        ]
+      }
+    }
+  ]
+}

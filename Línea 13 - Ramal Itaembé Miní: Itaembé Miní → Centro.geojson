@@ -1,0 +1,2689 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/340031106",
+      "properties": {
+        "@id": "way/340031106",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9515642,
+            -27.4134805
+          ],
+          [
+            -55.9513994,
+            -27.4135195
+          ],
+          [
+            -55.9506817,
+            -27.4136891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031108",
+      "properties": {
+        "@id": "way/340031108",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9506817,
+            -27.4136891
+          ],
+          [
+            -55.9499447,
+            -27.4138663
+          ],
+          [
+            -55.9497741,
+            -27.413907
+          ],
+          [
+            -55.9491888,
+            -27.4140462
+          ],
+          [
+            -55.9484679,
+            -27.4142178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370229086",
+      "properties": {
+        "@id": "way/370229086",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9508738,
+            -27.4112156
+          ],
+          [
+            -55.9512399,
+            -27.4124167
+          ],
+          [
+            -55.9515642,
+            -27.4134805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031102",
+      "properties": {
+        "@id": "way/340031102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9505747,
+            -27.4102342
+          ],
+          [
+            -55.9508738,
+            -27.4112156
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227665",
+      "properties": {
+        "@id": "way/370227665",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9529314,
+            -27.4040933
+          ],
+          [
+            -55.9528257,
+            -27.4037416
+          ],
+          [
+            -55.9526757,
+            -27.4032426
+          ],
+          [
+            -55.9522528,
+            -27.4018351
+          ],
+          [
+            -55.9521957,
+            -27.4016451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43994626",
+      "properties": {
+        "@id": "way/43994626",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541142,
+            -27.4080297
+          ],
+          [
+            -55.9534638,
+            -27.4081894
+          ],
+          [
+            -55.9527213,
+            -27.4083718
+          ],
+          [
+            -55.9516806,
+            -27.4086274
+          ],
+          [
+            -55.950964,
+            -27.4088034
+          ],
+          [
+            -55.9502017,
+            -27.409012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877225",
+      "properties": {
+        "@id": "way/339877225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541142,
+            -27.4080297
+          ],
+          [
+            -55.954098,
+            -27.4079758
+          ],
+          [
+            -55.9540432,
+            -27.4077935
+          ],
+          [
+            -55.9539924,
+            -27.4076245
+          ],
+          [
+            -55.9538317,
+            -27.4070896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877226",
+      "properties": {
+        "@id": "way/339877226",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531094,
+            -27.4046859
+          ],
+          [
+            -55.9529314,
+            -27.4040933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877231",
+      "properties": {
+        "@id": "way/339877231",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9502017,
+            -27.409012
+          ],
+          [
+            -55.9505747,
+            -27.4102342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227666",
+      "properties": {
+        "@id": "way/370227666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9538317,
+            -27.4070896
+          ],
+          [
+            -55.9536752,
+            -27.406569
+          ],
+          [
+            -55.9536489,
+            -27.4064814
+          ],
+          [
+            -55.9536243,
+            -27.4063993
+          ],
+          [
+            -55.9531646,
+            -27.4048694
+          ],
+          [
+            -55.9531094,
+            -27.4046859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877224",
+      "properties": {
+        "@id": "way/339877224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9521957,
+            -27.4016451
+          ],
+          [
+            -55.9518794,
+            -27.4005924
+          ],
+          [
+            -55.9516805,
+            -27.3999302
+          ],
+          [
+            -55.9515554,
+            -27.3995139
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727757",
+      "properties": {
+        "@id": "way/257727757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9460621,
+            -27.3996634
+          ],
+          [
+            -55.9457879,
+            -27.3996935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727758",
+      "properties": {
+        "@id": "way/257727758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9457879,
+            -27.3996935
+          ],
+          [
+            -55.9455387,
+            -27.3997226
+          ],
+          [
+            -55.9447151,
+            -27.399815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260707186",
+      "properties": {
+        "@id": "way/260707186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9447151,
+            -27.399815
+          ],
+          [
+            -55.9445353,
+            -27.399884
+          ],
+          [
+            -55.9444044,
+            -27.3999241
+          ],
+          [
+            -55.9442806,
+            -27.3999558
+          ],
+          [
+            -55.9441378,
+            -27.3999727
+          ],
+          [
+            -55.9439902,
+            -27.3999727
+          ],
+          [
+            -55.9438578,
+            -27.3999084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736567",
+      "properties": {
+        "@id": "way/396736567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9474594,
+            -27.399507
+          ],
+          [
+            -55.9466016,
+            -27.3996033
+          ],
+          [
+            -55.9460621,
+            -27.3996634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101792728",
+      "properties": {
+        "@id": "way/101792728",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438578,
+            -27.3999084
+          ],
+          [
+            -55.9437938,
+            -27.3998063
+          ],
+          [
+            -55.9437394,
+            -27.3994057
+          ],
+          [
+            -55.943693,
+            -27.3990719
+          ],
+          [
+            -55.943665,
+            -27.3989275
+          ],
+          [
+            -55.9436163,
+            -27.3985202
+          ],
+          [
+            -55.943575,
+            -27.3982235
+          ],
+          [
+            -55.9435628,
+            -27.398136
+          ],
+          [
+            -55.9435493,
+            -27.3980388
+          ],
+          [
+            -55.9434766,
+            -27.397516
+          ],
+          [
+            -55.9434491,
+            -27.3973179
+          ],
+          [
+            -55.9434029,
+            -27.396986
+          ],
+          [
+            -55.9433606,
+            -27.3966918
+          ],
+          [
+            -55.9433315,
+            -27.3964973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677058",
+      "properties": {
+        "@id": "way/318677058",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9428654,
+            -27.3931059
+          ],
+          [
+            -55.9423959,
+            -27.3897446
+          ],
+          [
+            -55.9422953,
+            -27.3890213
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877229",
+      "properties": {
+        "@id": "way/339877229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9514201,
+            -27.3990635
+          ],
+          [
+            -55.950517,
+            -27.399164
+          ],
+          [
+            -55.9501498,
+            -27.3992052
+          ],
+          [
+            -55.9493056,
+            -27.3992999
+          ],
+          [
+            -55.9491901,
+            -27.3993113
+          ],
+          [
+            -55.9489742,
+            -27.3993371
+          ],
+          [
+            -55.9487541,
+            -27.3993685
+          ],
+          [
+            -55.9477973,
+            -27.3994691
+          ],
+          [
+            -55.9474594,
+            -27.399507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677059",
+      "properties": {
+        "@id": "way/318677059",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433218,
+            -27.3964326
+          ],
+          [
+            -55.943214,
+            -27.3956274
+          ],
+          [
+            -55.9430947,
+            -27.3947696
+          ],
+          [
+            -55.942982,
+            -27.3939588
+          ],
+          [
+            -55.9428654,
+            -27.3931059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760868",
+      "properties": {
+        "@id": "way/388760868",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9433315,
+            -27.3964973
+          ],
+          [
+            -55.9433218,
+            -27.3964326
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/317270857",
+      "properties": {
+        "@id": "way/317270857",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9422953,
+            -27.3890213
+          ],
+          [
+            -55.942288,
+            -27.3889688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392142659",
+      "properties": {
+        "@id": "way/392142659",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.942288,
+            -27.3889688
+          ],
+          [
+            -55.9422699,
+            -27.3888387
+          ],
+          [
+            -55.9422621,
+            -27.3887822
+          ],
+          [
+            -55.9420725,
+            -27.3874189
+          ],
+          [
+            -55.9419359,
+            -27.3864363
+          ],
+          [
+            -55.9417805,
+            -27.3853189
+          ],
+          [
+            -55.9417044,
+            -27.3847717
+          ],
+          [
+            -55.9414801,
+            -27.3831566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257040079",
+      "properties": {
+        "@id": "way/257040079",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9405517,
+            -27.3764888
+          ],
+          [
+            -55.9396475,
+            -27.3765882
+          ],
+          [
+            -55.9387262,
+            -27.3766894
+          ],
+          [
+            -55.9378,
+            -27.3767913
+          ],
+          [
+            -55.9368464,
+            -27.3768961
+          ],
+          [
+            -55.9342163,
+            -27.3771852
+          ],
+          [
+            -55.9331861,
+            -27.3772985
+          ],
+          [
+            -55.9330532,
+            -27.3773131
+          ],
+          [
+            -55.931211,
+            -27.3775156
+          ],
+          [
+            -55.9295466,
+            -27.3776985
+          ],
+          [
+            -55.9294653,
+            -27.3777074
+          ],
+          [
+            -55.929336,
+            -27.3776949
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257040080",
+      "properties": {
+        "@id": "way/257040080",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.929336,
+            -27.3776949
+          ],
+          [
+            -55.9287658,
+            -27.3777571
+          ],
+          [
+            -55.9280381,
+            -27.3778365
+          ],
+          [
+            -55.9274864,
+            -27.3778967
+          ],
+          [
+            -55.9269014,
+            -27.3779605
+          ],
+          [
+            -55.9262165,
+            -27.3780352
+          ],
+          [
+            -55.9257076,
+            -27.3780907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684630",
+      "properties": {
+        "@id": "way/397684630",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9410096,
+            -27.3797548
+          ],
+          [
+            -55.9408889,
+            -27.3789171
+          ],
+          [
+            -55.940779,
+            -27.3781259
+          ],
+          [
+            -55.9406625,
+            -27.3772864
+          ],
+          [
+            -55.9405517,
+            -27.3764888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706887",
+      "properties": {
+        "@id": "way/397706887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9410188,
+            -27.3798182
+          ],
+          [
+            -55.9410096,
+            -27.3797548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706888",
+      "properties": {
+        "@id": "way/397706888",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9414801,
+            -27.3831566
+          ],
+          [
+            -55.9414655,
+            -27.3830535
+          ],
+          [
+            -55.9413479,
+            -27.3822217
+          ],
+          [
+            -55.9412345,
+            -27.3814051
+          ],
+          [
+            -55.9411231,
+            -27.3806031
+          ],
+          [
+            -55.9410188,
+            -27.3798182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341059184",
+      "properties": {
+        "@id": "way/341059184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.921916,
+            -27.3785044
+          ],
+          [
+            -55.921862,
+            -27.3785103
+          ],
+          [
+            -55.920932,
+            -27.3786117
+          ],
+          [
+            -55.9200445,
+            -27.3787085
+          ],
+          [
+            -55.9199673,
+            -27.3787169
+          ],
+          [
+            -55.9191177,
+            -27.3788096
+          ],
+          [
+            -55.9181752,
+            -27.3789124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396618660",
+      "properties": {
+        "@id": "way/396618660",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9180906,
+            -27.3789177
+          ],
+          [
+            -55.9176848,
+            -27.3789623
+          ],
+          [
+            -55.9171533,
+            -27.3790207
+          ],
+          [
+            -55.9166478,
+            -27.3790763
+          ],
+          [
+            -55.9162981,
+            -27.3791147
+          ],
+          [
+            -55.9155143,
+            -27.3792009
+          ],
+          [
+            -55.9152926,
+            -27.3792253
+          ],
+          [
+            -55.9146901,
+            -27.3792916
+          ],
+          [
+            -55.9145254,
+            -27.3793097
+          ],
+          [
+            -55.9144404,
+            -27.379319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341059185",
+      "properties": {
+        "@id": "way/341059185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9256089,
+            -27.3781015
+          ],
+          [
+            -55.9254973,
+            -27.3781137
+          ],
+          [
+            -55.9250939,
+            -27.3781577
+          ],
+          [
+            -55.9250408,
+            -27.3781635
+          ],
+          [
+            -55.9244846,
+            -27.3782242
+          ],
+          [
+            -55.9243074,
+            -27.3782435
+          ],
+          [
+            -55.9239102,
+            -27.3782869
+          ],
+          [
+            -55.9237852,
+            -27.3783005
+          ],
+          [
+            -55.9232201,
+            -27.3783622
+          ],
+          [
+            -55.9225494,
+            -27.3784353
+          ],
+          [
+            -55.9225049,
+            -27.3784402
+          ],
+          [
+            -55.9220988,
+            -27.3784844
+          ],
+          [
+            -55.9220182,
+            -27.3784932
+          ],
+          [
+            -55.9219643,
+            -27.3784991
+          ],
+          [
+            -55.921916,
+            -27.3785044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421713",
+      "properties": {
+        "@id": "way/394421713",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9257076,
+            -27.3780907
+          ],
+          [
+            -55.9256583,
+            -27.3780961
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684627",
+      "properties": {
+        "@id": "way/397684627",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9256583,
+            -27.3780961
+          ],
+          [
+            -55.9256089,
+            -27.3781015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132223",
+      "properties": {
+        "@id": "way/389132223",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181379,
+            -27.3789125
+          ],
+          [
+            -55.9180906,
+            -27.3789177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132224",
+      "properties": {
+        "@id": "way/389132224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181752,
+            -27.3789124
+          ],
+          [
+            -55.9181379,
+            -27.3789125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268131162",
+      "properties": {
+        "@id": "way/268131162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097073,
+            -27.3798415
+          ],
+          [
+            -55.9088581,
+            -27.3799338
+          ],
+          [
+            -55.9081053,
+            -27.3800157
+          ],
+          [
+            -55.9080509,
+            -27.3800216
+          ],
+          [
+            -55.9069391,
+            -27.3801424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572038",
+      "properties": {
+        "@id": "way/340572038",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9064801,
+            -27.3768286
+          ],
+          [
+            -55.9065729,
+            -27.3775015
+          ],
+          [
+            -55.9065799,
+            -27.3775524
+          ],
+          [
+            -55.9065968,
+            -27.3776748
+          ],
+          [
+            -55.9066034,
+            -27.3777229
+          ],
+          [
+            -55.9067468,
+            -27.3787625
+          ],
+          [
+            -55.9067568,
+            -27.3788353
+          ],
+          [
+            -55.9068977,
+            -27.3798564
+          ],
+          [
+            -55.9069391,
+            -27.3801424
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265037400",
+      "properties": {
+        "@id": "way/265037400",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9106997,
+            -27.3797343
+          ],
+          [
+            -55.9097073,
+            -27.3798415
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566389",
+      "properties": {
+        "@id": "way/340566389",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9144404,
+            -27.379319
+          ],
+          [
+            -55.9143486,
+            -27.3793291
+          ],
+          [
+            -55.9142283,
+            -27.3793423
+          ],
+          [
+            -55.913378,
+            -27.3794358
+          ],
+          [
+            -55.9132608,
+            -27.3794487
+          ],
+          [
+            -55.912746,
+            -27.3795053
+          ],
+          [
+            -55.9126842,
+            -27.3795121
+          ],
+          [
+            -55.9125496,
+            -27.3795269
+          ],
+          [
+            -55.9124413,
+            -27.3795388
+          ],
+          [
+            -55.9123699,
+            -27.3795467
+          ],
+          [
+            -55.9122206,
+            -27.3795631
+          ],
+          [
+            -55.9116004,
+            -27.3796313
+          ],
+          [
+            -55.9106997,
+            -27.3797343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670142",
+      "properties": {
+        "@id": "way/318670142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9061253,
+            -27.3743293
+          ],
+          [
+            -55.9061404,
+            -27.374438
+          ],
+          [
+            -55.9062768,
+            -27.3754131
+          ],
+          [
+            -55.9064063,
+            -27.3763396
+          ],
+          [
+            -55.9064801,
+            -27.3768286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605145",
+      "properties": {
+        "@id": "way/388605145",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023022,
+            -27.3738755
+          ],
+          [
+            -55.9022679,
+            -27.3739391
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/228303240",
+      "properties": {
+        "@id": "way/228303240",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022679,
+            -27.3739391
+          ],
+          [
+            -55.9022048,
+            -27.3739724
+          ],
+          [
+            -55.9021318,
+            -27.373978
+          ],
+          [
+            -55.9020633,
+            -27.3739549
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663260",
+      "properties": {
+        "@id": "way/38663260",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020633,
+            -27.3739549
+          ],
+          [
+            -55.9018632,
+            -27.3739838
+          ],
+          [
+            -55.9009433,
+            -27.3740842
+          ],
+          [
+            -55.8999037,
+            -27.3741977
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726917",
+      "properties": {
+        "@id": "way/308726917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.896761,
+            -27.3745334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746778",
+      "properties": {
+        "@id": "way/281746778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8947616,
+            -27.3747601
+          ],
+          [
+            -55.8946548,
+            -27.3747722
+          ],
+          [
+            -55.8937994,
+            -27.3748691
+          ],
+          [
+            -55.8936142,
+            -27.3748901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746790",
+      "properties": {
+        "@id": "way/281746790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8936142,
+            -27.3748901
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834476",
+      "properties": {
+        "@id": "way/268834476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896761,
+            -27.3745334
+          ],
+          [
+            -55.8957326,
+            -27.37465
+          ],
+          [
+            -55.8955524,
+            -27.3746703
+          ],
+          [
+            -55.8947616,
+            -27.3747601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5877542,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 13 ramal Itaembé Miní, sentido Itaembé Miní - Centro de la ciudad Posadas",
+              "from": "Centro",
+              "name": "Línea 13 - Ramal Itaembé Miní: Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "13xIT.M",
+              "route": "bus",
+              "to": "Itaembé Miní",
+              "type": "route",
+              "via": "Cementerio"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    }
+  ]
+}

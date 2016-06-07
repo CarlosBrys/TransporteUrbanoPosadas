@@ -1,0 +1,5617 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T10:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/254816806",
+      "properties": {
+        "@id": "way/254816806",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8891466,
+            -27.4321648
+          ],
+          [
+            -55.8890467,
+            -27.4323122
+          ],
+          [
+            -55.888932,
+            -27.4324815
+          ],
+          [
+            -55.8888514,
+            -27.4325497
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261582332",
+      "properties": {
+        "@id": "way/261582332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8918977,
+            -27.4247022
+          ],
+          [
+            -55.8918067,
+            -27.4248174
+          ],
+          [
+            -55.8914452,
+            -27.4252047
+          ],
+          [
+            -55.8913768,
+            -27.425278
+          ],
+          [
+            -55.8911394,
+            -27.4255574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358184229",
+      "properties": {
+        "@id": "way/358184229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8921827,
+            -27.4242994
+          ],
+          [
+            -55.8921719,
+            -27.4243238
+          ],
+          [
+            -55.8920678,
+            -27.4245591
+          ],
+          [
+            -55.8918977,
+            -27.4247022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358184232",
+      "properties": {
+        "@id": "way/358184232",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8911394,
+            -27.4255574
+          ],
+          [
+            -55.890886,
+            -27.4258369
+          ],
+          [
+            -55.8905829,
+            -27.4261747
+          ],
+          [
+            -55.8903487,
+            -27.4264456
+          ],
+          [
+            -55.8895747,
+            -27.4272911
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972033",
+      "properties": {
+        "@id": "way/43972033",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980019,
+            -27.4237285
+          ],
+          [
+            -55.8969727,
+            -27.4234352
+          ],
+          [
+            -55.8959554,
+            -27.4231453
+          ],
+          [
+            -55.8958073,
+            -27.4231043
+          ],
+          [
+            -55.8956583,
+            -27.4230606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48408931",
+      "properties": {
+        "@id": "way/48408931",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8928422,
+            -27.4225824
+          ],
+          [
+            -55.8926357,
+            -27.4230147
+          ],
+          [
+            -55.8925319,
+            -27.4232907
+          ],
+          [
+            -55.8923745,
+            -27.4237679
+          ],
+          [
+            -55.8923293,
+            -27.4239049
+          ],
+          [
+            -55.8921827,
+            -27.4242994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549266",
+      "properties": {
+        "@id": "way/264549266",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8956583,
+            -27.4230606
+          ],
+          [
+            -55.8949077,
+            -27.4229782
+          ],
+          [
+            -55.8943793,
+            -27.4228862
+          ],
+          [
+            -55.8932091,
+            -27.4226951
+          ],
+          [
+            -55.8928422,
+            -27.4225824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549272",
+      "properties": {
+        "@id": "way/264549272",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8895747,
+            -27.4272911
+          ],
+          [
+            -55.8888243,
+            -27.4280664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927944",
+      "properties": {
+        "@id": "way/127927944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994643,
+            -27.4207506
+          ],
+          [
+            -55.9001133,
+            -27.4181852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927956",
+      "properties": {
+        "@id": "way/127927956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001133,
+            -27.4181852
+          ],
+          [
+            -55.9002634,
+            -27.4175322
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927959",
+      "properties": {
+        "@id": "way/127927959",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8994264,
+            -27.4209519
+          ],
+          [
+            -55.8994643,
+            -27.4207506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619470",
+      "properties": {
+        "@id": "way/40619470",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902405,
+            -27.4042425
+          ],
+          [
+            -55.9024831,
+            -27.403937
+          ],
+          [
+            -55.9025364,
+            -27.4037107
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44003866",
+      "properties": {
+        "@id": "way/44003866",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010261,
+            -27.4137976
+          ],
+          [
+            -55.9011079,
+            -27.4134209
+          ],
+          [
+            -55.9011236,
+            -27.4133731
+          ],
+          [
+            -55.9013515,
+            -27.4124261
+          ],
+          [
+            -55.9015358,
+            -27.4116601
+          ],
+          [
+            -55.9015753,
+            -27.411496
+          ],
+          [
+            -55.901754,
+            -27.4108113
+          ],
+          [
+            -55.9017709,
+            -27.4107467
+          ],
+          [
+            -55.9018084,
+            -27.4106028
+          ],
+          [
+            -55.9018284,
+            -27.4105207
+          ],
+          [
+            -55.9020362,
+            -27.4096685
+          ],
+          [
+            -55.9021268,
+            -27.4092703
+          ],
+          [
+            -55.9022476,
+            -27.4087391
+          ],
+          [
+            -55.9024493,
+            -27.4078523
+          ],
+          [
+            -55.9025817,
+            -27.4073223
+          ],
+          [
+            -55.902644,
+            -27.4070729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619465",
+      "properties": {
+        "@id": "way/40619465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9028715,
+            -27.4055064
+          ],
+          [
+            -55.9026854,
+            -27.4051021
+          ],
+          [
+            -55.9025042,
+            -27.404816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726914",
+      "properties": {
+        "@id": "way/308726914",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902644,
+            -27.4070729
+          ],
+          [
+            -55.9026643,
+            -27.4069917
+          ],
+          [
+            -55.9026788,
+            -27.4069336
+          ],
+          [
+            -55.9027755,
+            -27.4064526
+          ],
+          [
+            -55.902798,
+            -27.4062106
+          ],
+          [
+            -55.9027901,
+            -27.4059898
+          ],
+          [
+            -55.9027825,
+            -27.405781
+          ],
+          [
+            -55.9027562,
+            -27.4055656
+          ],
+          [
+            -55.9028715,
+            -27.4055064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726918",
+      "properties": {
+        "@id": "way/308726918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9025042,
+            -27.404816
+          ],
+          [
+            -55.9024304,
+            -27.4047507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350569",
+      "properties": {
+        "@id": "way/312350569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023708,
+            -27.4043107
+          ],
+          [
+            -55.902405,
+            -27.4042425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350570",
+      "properties": {
+        "@id": "way/312350570",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024304,
+            -27.4047507
+          ],
+          [
+            -55.902372,
+            -27.4046487
+          ],
+          [
+            -55.9023496,
+            -27.4045395
+          ],
+          [
+            -55.9023474,
+            -27.4044
+          ],
+          [
+            -55.9023708,
+            -27.4043107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263321879",
+      "properties": {
+        "@id": "way/263321879",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009387,
+            -27.4141861
+          ],
+          [
+            -55.9010053,
+            -27.4138902
+          ],
+          [
+            -55.9010261,
+            -27.4137976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509186",
+      "properties": {
+        "@id": "way/384509186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.900398,
+            -27.4164687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509191",
+      "properties": {
+        "@id": "way/384509191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900398,
+            -27.4164687
+          ],
+          [
+            -55.9004486,
+            -27.4161686
+          ],
+          [
+            -55.9005248,
+            -27.4158593
+          ],
+          [
+            -55.9009085,
+            -27.414317
+          ],
+          [
+            -55.9009387,
+            -27.4141861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113092",
+      "properties": {
+        "@id": "way/33113092",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9106219,
+            -27.3593652
+          ],
+          [
+            -55.9114232,
+            -27.3592782
+          ],
+          [
+            -55.911484,
+            -27.3592716
+          ],
+          [
+            -55.9116179,
+            -27.359257
+          ],
+          [
+            -55.9117268,
+            -27.3592452
+          ],
+          [
+            -55.9126459,
+            -27.3591454
+          ],
+          [
+            -55.913346,
+            -27.3590693
+          ],
+          [
+            -55.9140462,
+            -27.3589933
+          ],
+          [
+            -55.9148365,
+            -27.3589074
+          ],
+          [
+            -55.9153319,
+            -27.3588536
+          ],
+          [
+            -55.9153975,
+            -27.3588465
+          ],
+          [
+            -55.9182347,
+            -27.3585384
+          ],
+          [
+            -55.9186838,
+            -27.3584896
+          ],
+          [
+            -55.9191504,
+            -27.3584556
+          ],
+          [
+            -55.9209591,
+            -27.3582425
+          ],
+          [
+            -55.9218899,
+            -27.3581414
+          ],
+          [
+            -55.9226755,
+            -27.358056
+          ],
+          [
+            -55.9228893,
+            -27.3580328
+          ],
+          [
+            -55.9236415,
+            -27.3579511
+          ],
+          [
+            -55.9241213,
+            -27.357899
+          ],
+          [
+            -55.9252979,
+            -27.357774
+          ],
+          [
+            -55.926517,
+            -27.3576388
+          ],
+          [
+            -55.9284321,
+            -27.3574308
+          ],
+          [
+            -55.9293374,
+            -27.3573325
+          ],
+          [
+            -55.9303205,
+            -27.3572311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799997",
+      "properties": {
+        "@id": "way/293799997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022528,
+            -27.40109
+          ],
+          [
+            -55.9022599,
+            -27.401141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800000",
+      "properties": {
+        "@id": "way/293800000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022674,
+            -27.4011946
+          ],
+          [
+            -55.9023961,
+            -27.4021154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800001",
+      "properties": {
+        "@id": "way/293800001",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024763,
+            -27.402689
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314214151",
+      "properties": {
+        "@id": "way/314214151",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023961,
+            -27.4021154
+          ],
+          [
+            -55.9024119,
+            -27.4022287
+          ],
+          [
+            -55.9024763,
+            -27.402689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381023",
+      "properties": {
+        "@id": "way/340381023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022599,
+            -27.401141
+          ],
+          [
+            -55.9022674,
+            -27.4011946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800002",
+      "properties": {
+        "@id": "way/293800002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9021347,
+            -27.4002453
+          ],
+          [
+            -55.902225,
+            -27.4008908
+          ],
+          [
+            -55.9022528,
+            -27.40109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799970",
+      "properties": {
+        "@id": "way/293799970",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020373,
+            -27.3995484
+          ],
+          [
+            -55.9021347,
+            -27.4002453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799977",
+      "properties": {
+        "@id": "way/293799977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017878,
+            -27.3977627
+          ],
+          [
+            -55.9017923,
+            -27.397795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799983",
+      "properties": {
+        "@id": "way/293799983",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019095,
+            -27.3986335
+          ],
+          [
+            -55.902014,
+            -27.3993811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799986",
+      "properties": {
+        "@id": "way/293799986",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902014,
+            -27.3993811
+          ],
+          [
+            -55.9020373,
+            -27.3995484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799996",
+      "properties": {
+        "@id": "way/293799996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017982,
+            -27.397837
+          ],
+          [
+            -55.9018204,
+            -27.3979706
+          ],
+          [
+            -55.9019095,
+            -27.3986335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298202494",
+      "properties": {
+        "@id": "way/298202494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017676,
+            -27.3976183
+          ],
+          [
+            -55.9017731,
+            -27.3976576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299921856",
+      "properties": {
+        "@id": "way/299921856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017784,
+            -27.3976959
+          ],
+          [
+            -55.9017878,
+            -27.3977627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381022",
+      "properties": {
+        "@id": "way/340381022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017731,
+            -27.3976576
+          ],
+          [
+            -55.9017784,
+            -27.3976959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381024",
+      "properties": {
+        "@id": "way/340381024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017923,
+            -27.397795
+          ],
+          [
+            -55.9017982,
+            -27.397837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799989",
+      "properties": {
+        "@id": "way/293799989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900712,
+            -27.390065
+          ],
+          [
+            -55.9008454,
+            -27.3910192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799994",
+      "properties": {
+        "@id": "way/293799994",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015695,
+            -27.396201
+          ],
+          [
+            -55.9017459,
+            -27.3974633
+          ],
+          [
+            -55.9017676,
+            -27.3976183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799969",
+      "properties": {
+        "@id": "way/293799969",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014321,
+            -27.395218
+          ],
+          [
+            -55.9014445,
+            -27.3953064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799971",
+      "properties": {
+        "@id": "way/293799971",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014445,
+            -27.3953064
+          ],
+          [
+            -55.9015531,
+            -27.3960836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799978",
+      "properties": {
+        "@id": "way/293799978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009116,
+            -27.3914928
+          ],
+          [
+            -55.9009285,
+            -27.391614
+          ],
+          [
+            -55.9010422,
+            -27.3924278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799981",
+      "properties": {
+        "@id": "way/293799981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9011702,
+            -27.3933438
+          ],
+          [
+            -55.9012825,
+            -27.394147
+          ],
+          [
+            -55.9013068,
+            -27.3943209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799982",
+      "properties": {
+        "@id": "way/293799982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9008454,
+            -27.3910192
+          ],
+          [
+            -55.9008777,
+            -27.3912509
+          ],
+          [
+            -55.9009116,
+            -27.3914928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799987",
+      "properties": {
+        "@id": "way/293799987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013068,
+            -27.3943209
+          ],
+          [
+            -55.9013321,
+            -27.3945024
+          ],
+          [
+            -55.9014321,
+            -27.395218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799992",
+      "properties": {
+        "@id": "way/293799992",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010422,
+            -27.3924278
+          ],
+          [
+            -55.9011702,
+            -27.3933438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800004",
+      "properties": {
+        "@id": "way/293800004",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015531,
+            -27.3960836
+          ],
+          [
+            -55.9015695,
+            -27.396201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799968",
+      "properties": {
+        "@id": "way/293799968",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000408,
+            -27.3852614
+          ],
+          [
+            -55.9001411,
+            -27.3859797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799973",
+      "properties": {
+        "@id": "way/293799973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900628,
+            -27.3894636
+          ],
+          [
+            -55.900712,
+            -27.390065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799975",
+      "properties": {
+        "@id": "way/293799975",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002421,
+            -27.3867017
+          ],
+          [
+            -55.9002577,
+            -27.3868138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799976",
+      "properties": {
+        "@id": "way/293799976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999096,
+            -27.3843227
+          ],
+          [
+            -55.8999589,
+            -27.3847116
+          ],
+          [
+            -55.9000247,
+            -27.3851464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799980",
+      "properties": {
+        "@id": "way/293799980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002577,
+            -27.3868138
+          ],
+          [
+            -55.900349,
+            -27.3874672
+          ],
+          [
+            -55.9003745,
+            -27.3876499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799984",
+      "properties": {
+        "@id": "way/293799984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005,
+            -27.388548
+          ],
+          [
+            -55.900628,
+            -27.3894636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799990",
+      "properties": {
+        "@id": "way/293799990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9003745,
+            -27.3876499
+          ],
+          [
+            -55.9004015,
+            -27.3878428
+          ],
+          [
+            -55.9005,
+            -27.388548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799991",
+      "properties": {
+        "@id": "way/293799991",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001411,
+            -27.3859797
+          ],
+          [
+            -55.9002421,
+            -27.3867017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799999",
+      "properties": {
+        "@id": "way/293799999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000247,
+            -27.3851464
+          ],
+          [
+            -55.9000408,
+            -27.3852614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799974",
+      "properties": {
+        "@id": "way/293799974",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8997815,
+            -27.3834058
+          ],
+          [
+            -55.8998669,
+            -27.3840173
+          ],
+          [
+            -55.8999096,
+            -27.3843227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799993",
+      "properties": {
+        "@id": "way/293799993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989741,
+            -27.3776343
+          ],
+          [
+            -55.8991141,
+            -27.3786336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127030",
+      "properties": {
+        "@id": "way/256127030",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899436,
+            -27.3809288
+          ],
+          [
+            -55.8994635,
+            -27.3811304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127031",
+      "properties": {
+        "@id": "way/256127031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994635,
+            -27.3811304
+          ],
+          [
+            -55.8996661,
+            -27.3825806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799972",
+      "properties": {
+        "@id": "way/293799972",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996661,
+            -27.3825806
+          ],
+          [
+            -55.8996781,
+            -27.3826664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799979",
+      "properties": {
+        "@id": "way/293799979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996781,
+            -27.3826664
+          ],
+          [
+            -55.8997815,
+            -27.3834058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799985",
+      "properties": {
+        "@id": "way/293799985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8993414,
+            -27.3802547
+          ],
+          [
+            -55.899392,
+            -27.3806157
+          ],
+          [
+            -55.899436,
+            -27.3809288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799995",
+      "properties": {
+        "@id": "way/293799995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8991141,
+            -27.3786336
+          ],
+          [
+            -55.899242,
+            -27.3795452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800003",
+      "properties": {
+        "@id": "way/293800003",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899242,
+            -27.3795452
+          ],
+          [
+            -55.8992688,
+            -27.3797363
+          ],
+          [
+            -55.8993414,
+            -27.3802547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783171",
+      "properties": {
+        "@id": "way/340783171",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9349767,
+            -27.363528
+          ],
+          [
+            -55.9350521,
+            -27.3640673
+          ],
+          [
+            -55.9351287,
+            -27.3646148
+          ],
+          [
+            -55.9352075,
+            -27.3651785
+          ],
+          [
+            -55.935277,
+            -27.3656754
+          ],
+          [
+            -55.9353059,
+            -27.3658816
+          ],
+          [
+            -55.9353518,
+            -27.3662099
+          ],
+          [
+            -55.9354433,
+            -27.3668638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783162",
+      "properties": {
+        "@id": "way/340783162",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9386907,
+            -27.363114
+          ],
+          [
+            -55.9377816,
+            -27.3632213
+          ],
+          [
+            -55.9368401,
+            -27.3633325
+          ],
+          [
+            -55.9349767,
+            -27.363528
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397567",
+      "properties": {
+        "@id": "way/398397567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.938596,
+            -27.3614793
+          ],
+          [
+            -55.9388116,
+            -27.3630384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397569",
+      "properties": {
+        "@id": "way/398397569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.938824,
+            -27.3631276
+          ],
+          [
+            -55.9386907,
+            -27.363114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398979496",
+      "properties": {
+        "@id": "way/398979496",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9388116,
+            -27.3630384
+          ],
+          [
+            -55.938824,
+            -27.3631276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396473265",
+      "properties": {
+        "@id": "way/396473265",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9303205,
+            -27.3572311
+          ],
+          [
+            -55.9340386,
+            -27.3568219
+          ],
+          [
+            -55.9351224,
+            -27.3567042
+          ],
+          [
+            -55.9353856,
+            -27.3566756
+          ],
+          [
+            -55.9358887,
+            -27.3566209
+          ],
+          [
+            -55.937097,
+            -27.3564897
+          ],
+          [
+            -55.9376752,
+            -27.3564269
+          ],
+          [
+            -55.9377651,
+            -27.3564536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397566",
+      "properties": {
+        "@id": "way/398397566",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9378999,
+            -27.3564384
+          ],
+          [
+            -55.9383576,
+            -27.359753
+          ],
+          [
+            -55.938596,
+            -27.3614793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394385365",
+      "properties": {
+        "@id": "way/394385365",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9378358,
+            -27.3564452
+          ],
+          [
+            -55.9377651,
+            -27.3564536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397572",
+      "properties": {
+        "@id": "way/398397572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9378999,
+            -27.3564384
+          ],
+          [
+            -55.9378358,
+            -27.3564452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726917",
+      "properties": {
+        "@id": "way/308726917",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.896761,
+            -27.3745334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746778",
+      "properties": {
+        "@id": "way/281746778",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8947616,
+            -27.3747601
+          ],
+          [
+            -55.8946548,
+            -27.3747722
+          ],
+          [
+            -55.8937994,
+            -27.3748691
+          ],
+          [
+            -55.8936142,
+            -27.3748901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746790",
+      "properties": {
+        "@id": "way/281746790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8936142,
+            -27.3748901
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834476",
+      "properties": {
+        "@id": "way/268834476",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896761,
+            -27.3745334
+          ],
+          [
+            -55.8957326,
+            -27.37465
+          ],
+          [
+            -55.8955524,
+            -27.3746703
+          ],
+          [
+            -55.8947616,
+            -27.3747601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193902734",
+      "properties": {
+        "@id": "way/193902734",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9101285,
+            -27.359422
+          ],
+          [
+            -55.9106219,
+            -27.3593652
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255958737",
+      "properties": {
+        "@id": "way/255958737",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9096857,
+            -27.359381
+          ],
+          [
+            -55.9097372,
+            -27.359415
+          ],
+          [
+            -55.9097822,
+            -27.3594235
+          ],
+          [
+            -55.909883,
+            -27.3594403
+          ],
+          [
+            -55.9100674,
+            -27.3594266
+          ],
+          [
+            -55.9101285,
+            -27.359422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397577",
+      "properties": {
+        "@id": "way/398397577",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9094131,
+            -27.3594269
+          ],
+          [
+            -55.9094244,
+            -27.3593926
+          ],
+          [
+            -55.9094457,
+            -27.3593623
+          ],
+          [
+            -55.9094815,
+            -27.3593348
+          ],
+          [
+            -55.9095254,
+            -27.3593188
+          ],
+          [
+            -55.9095728,
+            -27.3593161
+          ],
+          [
+            -55.9096186,
+            -27.359327
+          ],
+          [
+            -55.9096581,
+            -27.3593502
+          ],
+          [
+            -55.9096857,
+            -27.359381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782376",
+      "properties": {
+        "@id": "way/222782376",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004786,
+            -27.3604936
+          ],
+          [
+            -55.9013036,
+            -27.3603985
+          ],
+          [
+            -55.9016269,
+            -27.3603612
+          ],
+          [
+            -55.9023617,
+            -27.3602804
+          ],
+          [
+            -55.9028519,
+            -27.3602264
+          ],
+          [
+            -55.9037841,
+            -27.3601241
+          ],
+          [
+            -55.9041316,
+            -27.360086
+          ],
+          [
+            -55.9049324,
+            -27.3599844
+          ],
+          [
+            -55.9050948,
+            -27.3599638
+          ],
+          [
+            -55.9053577,
+            -27.3599375
+          ],
+          [
+            -55.9060108,
+            -27.359859
+          ],
+          [
+            -55.9066181,
+            -27.3597862
+          ],
+          [
+            -55.9069302,
+            -27.3597391
+          ],
+          [
+            -55.9076326,
+            -27.3596718
+          ],
+          [
+            -55.9078625,
+            -27.3596498
+          ],
+          [
+            -55.9089136,
+            -27.3595742
+          ],
+          [
+            -55.9091587,
+            -27.3595368
+          ],
+          [
+            -55.9092872,
+            -27.3594843
+          ],
+          [
+            -55.9093385,
+            -27.3594554
+          ],
+          [
+            -55.9094131,
+            -27.3594269
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782375",
+      "properties": {
+        "@id": "way/222782375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004121,
+            -27.3603231
+          ],
+          [
+            -55.9004677,
+            -27.3603834
+          ],
+          [
+            -55.9004786,
+            -27.3604936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834480",
+      "properties": {
+        "@id": "way/268834480",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8977428,
+            -27.360591
+          ],
+          [
+            -55.8980126,
+            -27.3605619
+          ],
+          [
+            -55.8987282,
+            -27.3604848
+          ],
+          [
+            -55.8990524,
+            -27.3604498
+          ],
+          [
+            -55.9000914,
+            -27.3603437
+          ],
+          [
+            -55.9001456,
+            -27.3603761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888631",
+      "properties": {
+        "@id": "way/392888631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001456,
+            -27.3603761
+          ],
+          [
+            -55.9002015,
+            -27.3603203
+          ],
+          [
+            -55.900316,
+            -27.3602918
+          ],
+          [
+            -55.9004121,
+            -27.3603231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350565",
+      "properties": {
+        "@id": "way/312350565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8946695,
+            -27.3609224
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760880",
+      "properties": {
+        "@id": "way/388760880",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261692710",
+      "properties": {
+        "@id": "way/261692710",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867556,
+            -27.4338519
+          ],
+          [
+            -55.8866235,
+            -27.4337443
+          ],
+          [
+            -55.8865444,
+            -27.4336837
+          ],
+          [
+            -55.885617,
+            -27.4329726
+          ],
+          [
+            -55.885217,
+            -27.432666
+          ],
+          [
+            -55.8850424,
+            -27.4325321
+          ],
+          [
+            -55.8848277,
+            -27.4323675
+          ],
+          [
+            -55.8847193,
+            -27.4322844
+          ],
+          [
+            -55.8838344,
+            -27.4316038
+          ],
+          [
+            -55.883052,
+            -27.4310059
+          ],
+          [
+            -55.8829365,
+            -27.4309176
+          ],
+          [
+            -55.8826702,
+            -27.4307134
+          ],
+          [
+            -55.8819887,
+            -27.4301888
+          ],
+          [
+            -55.8812164,
+            -27.4295988
+          ],
+          [
+            -55.8811007,
+            -27.4295037
+          ],
+          [
+            -55.8801916,
+            -27.428814
+          ],
+          [
+            -55.8796632,
+            -27.428408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816821",
+      "properties": {
+        "@id": "way/254816821",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8882904,
+            -27.4329439
+          ],
+          [
+            -55.888183,
+            -27.4328552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254816822",
+      "properties": {
+        "@id": "way/254816822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888092,
+            -27.4327801
+          ],
+          [
+            -55.8879621,
+            -27.432673
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308725184",
+      "properties": {
+        "@id": "way/308725184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8879621,
+            -27.432673
+          ],
+          [
+            -55.8878962,
+            -27.432741
+          ],
+          [
+            -55.8872794,
+            -27.433321
+          ],
+          [
+            -55.886968,
+            -27.4336358
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361477740",
+      "properties": {
+        "@id": "way/361477740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.888183,
+            -27.4328552
+          ],
+          [
+            -55.888092,
+            -27.4327801
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/361477742",
+      "properties": {
+        "@id": "way/361477742",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888514,
+            -27.4325497
+          ],
+          [
+            -55.8887229,
+            -27.4326393
+          ],
+          [
+            -55.8885526,
+            -27.4327588
+          ],
+          [
+            -55.8883947,
+            -27.4328696
+          ],
+          [
+            -55.8882904,
+            -27.4329439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888630",
+      "properties": {
+        "@id": "way/392888630",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.886968,
+            -27.4336358
+          ],
+          [
+            -55.8867556,
+            -27.4338519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379033844",
+      "properties": {
+        "@id": "way/379033844",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8866186,
+            -27.4262296
+          ],
+          [
+            -55.886544,
+            -27.426318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888620",
+      "properties": {
+        "@id": "way/392888620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870416,
+            -27.4266995
+          ],
+          [
+            -55.886544,
+            -27.426318
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888621",
+      "properties": {
+        "@id": "way/392888621",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888243,
+            -27.4280664
+          ],
+          [
+            -55.8879394,
+            -27.4273857
+          ],
+          [
+            -55.8870416,
+            -27.4266995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972277",
+      "properties": {
+        "@id": "way/43972277",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8796632,
+            -27.428408
+          ],
+          [
+            -55.8793619,
+            -27.4287147
+          ],
+          [
+            -55.8788803,
+            -27.4283419
+          ],
+          [
+            -55.8787578,
+            -27.428247
+          ],
+          [
+            -55.8785807,
+            -27.4281099
+          ],
+          [
+            -55.8783888,
+            -27.4279615
+          ],
+          [
+            -55.8787174,
+            -27.4276271
+          ],
+          [
+            -55.8787998,
+            -27.4275432
+          ],
+          [
+            -55.8788806,
+            -27.4274609
+          ],
+          [
+            -55.8791948,
+            -27.4271412
+          ],
+          [
+            -55.8795395,
+            -27.427408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972035",
+      "properties": {
+        "@id": "way/43972035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8861884,
+            -27.4208085
+          ],
+          [
+            -55.886268,
+            -27.421318
+          ],
+          [
+            -55.8862729,
+            -27.4214118
+          ],
+          [
+            -55.886277,
+            -27.4214875
+          ],
+          [
+            -55.886288,
+            -27.4218492
+          ],
+          [
+            -55.8863046,
+            -27.4222592
+          ],
+          [
+            -55.8863447,
+            -27.4223974
+          ],
+          [
+            -55.8863565,
+            -27.4229532
+          ],
+          [
+            -55.8863977,
+            -27.4234679
+          ],
+          [
+            -55.8864263,
+            -27.4238257
+          ],
+          [
+            -55.8864409,
+            -27.4240078
+          ],
+          [
+            -55.8864843,
+            -27.4245501
+          ],
+          [
+            -55.8865265,
+            -27.4250783
+          ],
+          [
+            -55.8865698,
+            -27.4256193
+          ],
+          [
+            -55.8866186,
+            -27.4262296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972278",
+      "properties": {
+        "@id": "way/43972278",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8795395,
+            -27.427408
+          ],
+          [
+            -55.8800446,
+            -27.4268891
+          ],
+          [
+            -55.8808118,
+            -27.4260926
+          ],
+          [
+            -55.8815979,
+            -27.4252913
+          ],
+          [
+            -55.8823679,
+            -27.4245019
+          ],
+          [
+            -55.8831402,
+            -27.4237082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/172029618",
+      "properties": {
+        "@id": "way/172029618",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8826998,
+            -27.4226386
+          ],
+          [
+            -55.8825841,
+            -27.4226459
+          ],
+          [
+            -55.8822843,
+            -27.4226648
+          ],
+          [
+            -55.8820805,
+            -27.4226777
+          ],
+          [
+            -55.8818278,
+            -27.4226936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888622",
+      "properties": {
+        "@id": "way/392888622",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8831402,
+            -27.4237082
+          ],
+          [
+            -55.8822716,
+            -27.4230421
+          ],
+          [
+            -55.8818278,
+            -27.4226936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43972043",
+      "properties": {
+        "@id": "way/43972043",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8826998,
+            -27.4226386
+          ],
+          [
+            -55.8826551,
+            -27.4220801
+          ],
+          [
+            -55.8826141,
+            -27.4215676
+          ],
+          [
+            -55.8825724,
+            -27.4210451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261582336",
+      "properties": {
+        "@id": "way/261582336",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5986692,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Urquiza, sentido Estación Campus UNaM - barrio Judicial, de la ciudad Posadas",
+              "from": "Estación de Transferencia Campus UNaM",
+              "name": "Línea 3: Estación Campus UNaM → x Urquiza → barrio Judicial",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xU",
+              "route": "bus",
+              "to": "Barrio Judicial",
+              "type": "route",
+              "via": "Avenida Justo José de Urquiza"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8861884,
+            -27.4208085
+          ],
+          [
+            -55.8860385,
+            -27.4208267
+          ],
+          [
+            -55.8855684,
+            -27.4208563
+          ],
+          [
+            -55.8849681,
+            -27.4208941
+          ],
+          [
+            -55.8843925,
+            -27.4209305
+          ],
+          [
+            -55.8842665,
+            -27.4209384
+          ],
+          [
+            -55.8837421,
+            -27.4209714
+          ],
+          [
+            -55.8831693,
+            -27.4210075
+          ],
+          [
+            -55.8825724,
+            -27.4210451
+          ]
+        ]
+      }
+    }
+  ]
+}

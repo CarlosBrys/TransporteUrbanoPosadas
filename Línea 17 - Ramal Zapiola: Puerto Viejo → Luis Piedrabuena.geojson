@@ -1,0 +1,2590 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:26:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/47863555",
+      "properties": {
+        "@id": "way/47863555",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9270636,
+            -27.4016565
+          ],
+          [
+            -55.9275786,
+            -27.4026311
+          ],
+          [
+            -55.9284857,
+            -27.4042773
+          ],
+          [
+            -55.9289609,
+            -27.4051397
+          ],
+          [
+            -55.929433,
+            -27.4059995
+          ],
+          [
+            -55.9298769,
+            -27.4068078
+          ],
+          [
+            -55.9303271,
+            -27.4076276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264859709",
+      "properties": {
+        "@id": "way/264859709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9304691,
+            -27.4014135
+          ],
+          [
+            -55.9298541,
+            -27.4014691
+          ],
+          [
+            -55.9293813,
+            -27.4015146
+          ],
+          [
+            -55.928869,
+            -27.4015744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370332",
+      "properties": {
+        "@id": "way/340370332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326167,
+            -27.4011965
+          ],
+          [
+            -55.9324105,
+            -27.4012201
+          ],
+          [
+            -55.9316605,
+            -27.4012798
+          ],
+          [
+            -55.9307573,
+            -27.4013812
+          ],
+          [
+            -55.9307057,
+            -27.4013898
+          ],
+          [
+            -55.9304691,
+            -27.4014135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044185",
+      "properties": {
+        "@id": "way/379044185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9325763,
+            -27.4009034
+          ],
+          [
+            -55.9325965,
+            -27.4010503
+          ],
+          [
+            -55.9326167,
+            -27.4011965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044187",
+      "properties": {
+        "@id": "way/379044187",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9321905,
+            -27.3976618
+          ],
+          [
+            -55.9321971,
+            -27.3977108
+          ],
+          [
+            -55.9322032,
+            -27.397755
+          ],
+          [
+            -55.9323132,
+            -27.3985621
+          ],
+          [
+            -55.932422,
+            -27.3993608
+          ],
+          [
+            -55.9325342,
+            -27.4001843
+          ],
+          [
+            -55.9326223,
+            -27.4008311
+          ],
+          [
+            -55.9325763,
+            -27.4009034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044179",
+      "properties": {
+        "@id": "way/379044179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9308337,
+            -27.387704
+          ],
+          [
+            -55.9309429,
+            -27.3885057
+          ],
+          [
+            -55.9310547,
+            -27.3893257
+          ],
+          [
+            -55.9311604,
+            -27.390102
+          ],
+          [
+            -55.9312809,
+            -27.3909866
+          ],
+          [
+            -55.9317431,
+            -27.3943782
+          ],
+          [
+            -55.9318614,
+            -27.3952464
+          ],
+          [
+            -55.9319598,
+            -27.3959691
+          ],
+          [
+            -55.9319682,
+            -27.3960302
+          ],
+          [
+            -55.9320791,
+            -27.3968443
+          ],
+          [
+            -55.9321905,
+            -27.3976618
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396592708",
+      "properties": {
+        "@id": "way/396592708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.928869,
+            -27.4015744
+          ],
+          [
+            -55.9282859,
+            -27.4016018
+          ],
+          [
+            -55.9278521,
+            -27.4016221
+          ],
+          [
+            -55.9272998,
+            -27.4016482
+          ],
+          [
+            -55.9270636,
+            -27.4016565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259348798",
+      "properties": {
+        "@id": "way/259348798",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9302888,
+            -27.3842895
+          ],
+          [
+            -55.9303558,
+            -27.3843906
+          ],
+          [
+            -55.9305875,
+            -27.3859842
+          ],
+          [
+            -55.9306835,
+            -27.3866532
+          ],
+          [
+            -55.9308232,
+            -27.3876269
+          ],
+          [
+            -55.9308337,
+            -27.387704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259349331",
+      "properties": {
+        "@id": "way/259349331",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9298594,
+            -27.3810477
+          ],
+          [
+            -55.9298744,
+            -27.3811612
+          ],
+          [
+            -55.9299651,
+            -27.3818474
+          ],
+          [
+            -55.9300058,
+            -27.3821298
+          ],
+          [
+            -55.9300699,
+            -27.3826378
+          ],
+          [
+            -55.9301273,
+            -27.3830712
+          ],
+          [
+            -55.9301846,
+            -27.3834993
+          ],
+          [
+            -55.9302888,
+            -27.3842895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156046",
+      "properties": {
+        "@id": "way/312156046",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9289895,
+            -27.3743323
+          ],
+          [
+            -55.9291477,
+            -27.3754783
+          ],
+          [
+            -55.9292194,
+            -27.3759631
+          ],
+          [
+            -55.9292974,
+            -27.3765153
+          ],
+          [
+            -55.9294404,
+            -27.3775277
+          ],
+          [
+            -55.9294527,
+            -27.3776175
+          ],
+          [
+            -55.9294653,
+            -27.3777074
+          ],
+          [
+            -55.9296132,
+            -27.3787561
+          ],
+          [
+            -55.9297746,
+            -27.3799012
+          ],
+          [
+            -55.9298472,
+            -27.3804166
+          ],
+          [
+            -55.9299221,
+            -27.380966
+          ],
+          [
+            -55.9298594,
+            -27.3810477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156044",
+      "properties": {
+        "@id": "way/312156044",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9280504,
+            -27.3676709
+          ],
+          [
+            -55.9281855,
+            -27.3686295
+          ],
+          [
+            -55.9283187,
+            -27.3695731
+          ],
+          [
+            -55.9284496,
+            -27.3705021
+          ],
+          [
+            -55.9285177,
+            -27.3709858
+          ],
+          [
+            -55.9286393,
+            -27.3718482
+          ],
+          [
+            -55.9287498,
+            -27.3726318
+          ],
+          [
+            -55.9287836,
+            -27.3728721
+          ],
+          [
+            -55.9288703,
+            -27.3734866
+          ],
+          [
+            -55.9289895,
+            -27.3743323
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259349325",
+      "properties": {
+        "@id": "way/259349325",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9275071,
+            -27.3643367
+          ],
+          [
+            -55.9275948,
+            -27.3644388
+          ],
+          [
+            -55.9276959,
+            -27.365157
+          ],
+          [
+            -55.927817,
+            -27.3659879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766808",
+      "properties": {
+        "@id": "way/340766808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9163177,
+            -27.3655659
+          ],
+          [
+            -55.9162452,
+            -27.3655722
+          ],
+          [
+            -55.9159699,
+            -27.3656022
+          ],
+          [
+            -55.9153088,
+            -27.3656744
+          ],
+          [
+            -55.9145603,
+            -27.3657561
+          ],
+          [
+            -55.9135918,
+            -27.3658617
+          ],
+          [
+            -55.9129211,
+            -27.3659349
+          ],
+          [
+            -55.9128579,
+            -27.3659418
+          ],
+          [
+            -55.9126466,
+            -27.3659649
+          ],
+          [
+            -55.912584,
+            -27.365971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783164",
+      "properties": {
+        "@id": "way/340783164",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9275071,
+            -27.3643367
+          ],
+          [
+            -55.9265463,
+            -27.3644448
+          ],
+          [
+            -55.9256379,
+            -27.364547
+          ],
+          [
+            -55.9247096,
+            -27.3646514
+          ],
+          [
+            -55.9241032,
+            -27.3647182
+          ],
+          [
+            -55.9238064,
+            -27.3647509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783165",
+      "properties": {
+        "@id": "way/340783165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9238064,
+            -27.3647509
+          ],
+          [
+            -55.9234241,
+            -27.364792
+          ],
+          [
+            -55.9226821,
+            -27.3648719
+          ],
+          [
+            -55.9225074,
+            -27.3648907
+          ],
+          [
+            -55.9216331,
+            -27.3649848
+          ],
+          [
+            -55.9205946,
+            -27.3650966
+          ],
+          [
+            -55.9200499,
+            -27.3651553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156047",
+      "properties": {
+        "@id": "way/312156047",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.927817,
+            -27.3659879
+          ],
+          [
+            -55.9279256,
+            -27.3667852
+          ],
+          [
+            -55.9280504,
+            -27.3676709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766807",
+      "properties": {
+        "@id": "way/340766807",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9200499,
+            -27.3651553
+          ],
+          [
+            -55.9181622,
+            -27.365363
+          ],
+          [
+            -55.9172561,
+            -27.3654619
+          ],
+          [
+            -55.9167091,
+            -27.3655234
+          ],
+          [
+            -55.9163782,
+            -27.3655606
+          ],
+          [
+            -55.9163177,
+            -27.3655659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791943",
+      "properties": {
+        "@id": "way/308791943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088179,
+            -27.3663823
+          ],
+          [
+            -55.9077358,
+            -27.3664994
+          ],
+          [
+            -55.9069661,
+            -27.3665827
+          ],
+          [
+            -55.9068102,
+            -27.3665996
+          ],
+          [
+            -55.9060423,
+            -27.3666827
+          ],
+          [
+            -55.9050709,
+            -27.3667878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773130",
+      "properties": {
+        "@id": "way/374773130",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024135,
+            -27.3670757
+          ],
+          [
+            -55.9023617,
+            -27.3670813
+          ],
+          [
+            -55.9022343,
+            -27.3670952
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262400515",
+      "properties": {
+        "@id": "way/262400515",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.912584,
+            -27.365971
+          ],
+          [
+            -55.912516,
+            -27.3659784
+          ],
+          [
+            -55.9114568,
+            -27.3660937
+          ],
+          [
+            -55.9106724,
+            -27.3661791
+          ],
+          [
+            -55.9100406,
+            -27.3662478
+          ],
+          [
+            -55.9092431,
+            -27.3663346
+          ],
+          [
+            -55.9090863,
+            -27.3663527
+          ],
+          [
+            -55.9088179,
+            -27.3663823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572035",
+      "properties": {
+        "@id": "way/340572035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9050709,
+            -27.3667878
+          ],
+          [
+            -55.9040253,
+            -27.366901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773132",
+      "properties": {
+        "@id": "way/374773132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9040253,
+            -27.366901
+          ],
+          [
+            -55.9032964,
+            -27.3669845
+          ],
+          [
+            -55.9024135,
+            -27.3670757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541666",
+      "properties": {
+        "@id": "way/388541666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.8998718,
+            -27.3739674
+          ],
+          [
+            -55.9009116,
+            -27.3738555
+          ],
+          [
+            -55.9013027,
+            -27.3738135
+          ],
+          [
+            -55.901901,
+            -27.3737491
+          ],
+          [
+            -55.902005,
+            -27.3737379
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541688",
+      "properties": {
+        "@id": "way/388541688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902005,
+            -27.3737379
+          ],
+          [
+            -55.9020362,
+            -27.3737198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113063",
+      "properties": {
+        "@id": "way/33113063",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020362,
+            -27.3737198
+          ],
+          [
+            -55.9019864,
+            -27.3736718
+          ],
+          [
+            -55.9018621,
+            -27.3729076
+          ],
+          [
+            -55.9018416,
+            -27.3727691
+          ],
+          [
+            -55.9017146,
+            -27.3718372
+          ],
+          [
+            -55.901581,
+            -27.370883
+          ],
+          [
+            -55.9015373,
+            -27.3705685
+          ],
+          [
+            -55.9015208,
+            -27.3704499
+          ],
+          [
+            -55.90147,
+            -27.370084
+          ],
+          [
+            -55.9014649,
+            -27.3700471
+          ],
+          [
+            -55.901451,
+            -27.3699474
+          ],
+          [
+            -55.9014376,
+            -27.3698511
+          ],
+          [
+            -55.9013321,
+            -27.3690915
+          ],
+          [
+            -55.9013218,
+            -27.3690175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107248",
+      "properties": {
+        "@id": "way/303107248",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010558,
+            -27.3671017
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/307890360",
+      "properties": {
+        "@id": "way/307890360",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.90119,
+            -27.3680682
+          ],
+          [
+            -55.901082,
+            -27.3672903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106541",
+      "properties": {
+        "@id": "way/383106541",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013218,
+            -27.3690175
+          ],
+          [
+            -55.9013135,
+            -27.3689577
+          ],
+          [
+            -55.9012037,
+            -27.368167
+          ],
+          [
+            -55.90119,
+            -27.3680682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489605",
+      "properties": {
+        "@id": "way/389489605",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901082,
+            -27.3672903
+          ],
+          [
+            -55.9010631,
+            -27.3671542
+          ],
+          [
+            -55.9010558,
+            -27.3671017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967887",
+      "properties": {
+        "@id": "way/43967887",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257010147",
+      "properties": {
+        "@id": "way/257010147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907412,
+            -27.3613891
+          ],
+          [
+            -55.8907898,
+            -27.3613407
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350565",
+      "properties": {
+        "@id": "way/312350565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8946695,
+            -27.3609224
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489613",
+      "properties": {
+        "@id": "way/389489613",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890598,
+            -27.3615145
+          ],
+          [
+            -55.8906001,
+            -27.3614625
+          ],
+          [
+            -55.8906145,
+            -27.3614345
+          ],
+          [
+            -55.8906375,
+            -27.3614112
+          ],
+          [
+            -55.8906671,
+            -27.3613949
+          ],
+          [
+            -55.8907007,
+            -27.361387
+          ],
+          [
+            -55.8907412,
+            -27.3613891
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340590825",
+      "properties": {
+        "@id": "way/340590825",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890598,
+            -27.3615145
+          ],
+          [
+            -55.8896133,
+            -27.3616096
+          ],
+          [
+            -55.8889223,
+            -27.3616763
+          ],
+          [
+            -55.8880829,
+            -27.3617574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573438",
+      "properties": {
+        "@id": "way/43573438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.887098,
+            -27.3616524
+          ],
+          [
+            -55.8872076,
+            -27.3616188
+          ],
+          [
+            -55.8873847,
+            -27.3616948
+          ],
+          [
+            -55.8875231,
+            -27.3617079
+          ],
+          [
+            -55.8875855,
+            -27.3617034
+          ],
+          [
+            -55.8878286,
+            -27.361692
+          ],
+          [
+            -55.8880829,
+            -27.3617574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43573620",
+      "properties": {
+        "@id": "way/43573620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8869793,
+            -27.3619101
+          ],
+          [
+            -55.886862,
+            -27.3619422
+          ],
+          [
+            -55.886785,
+            -27.3619361
+          ],
+          [
+            -55.8867134,
+            -27.3619102
+          ],
+          [
+            -55.8866535,
+            -27.3618668
+          ],
+          [
+            -55.8866107,
+            -27.3618097
+          ],
+          [
+            -55.8865885,
+            -27.3617439
+          ],
+          [
+            -55.8865891,
+            -27.3616753
+          ],
+          [
+            -55.8866124,
+            -27.3616098
+          ],
+          [
+            -55.8866563,
+            -27.3615533
+          ],
+          [
+            -55.8867169,
+            -27.3615107
+          ],
+          [
+            -55.8867889,
+            -27.3614858
+          ],
+          [
+            -55.8868776,
+            -27.3614818
+          ],
+          [
+            -55.8869626,
+            -27.3615045
+          ],
+          [
+            -55.8870341,
+            -27.3615512
+          ],
+          [
+            -55.8870837,
+            -27.3616165
+          ],
+          [
+            -55.887098,
+            -27.3616524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263141953",
+      "properties": {
+        "@id": "way/263141953",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8880829,
+            -27.3617574
+          ],
+          [
+            -55.8878755,
+            -27.3618201
+          ],
+          [
+            -55.8873686,
+            -27.3618647
+          ],
+          [
+            -55.8872519,
+            -27.3618723
+          ],
+          [
+            -55.8870229,
+            -27.3618812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760881",
+      "properties": {
+        "@id": "way/388760881",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004713,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, barrio Piedrabuena, sentido Puerto Viejo - Barrio Piedrabuena, de la ciudad Posadas",
+              "from": "Puerto Viejo",
+              "name": "Línea 17 - Ramal Zapiola: Puerto Viejo → Luis Piedrabuena",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Luis Piedrabuena",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870229,
+            -27.3618812
+          ],
+          [
+            -55.8869793,
+            -27.3619101
+          ]
+        ]
+      }
+    }
+  ]
+}

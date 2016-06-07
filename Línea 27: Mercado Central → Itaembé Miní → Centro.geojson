@@ -1,0 +1,4866 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:38:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/340205409",
+      "properties": {
+        "@id": "way/340205409",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9427099,
+            -27.4338272
+          ],
+          [
+            -55.9424622,
+            -27.4335696
+          ],
+          [
+            -55.9419697,
+            -27.4330965
+          ],
+          [
+            -55.9419003,
+            -27.433028
+          ],
+          [
+            -55.94177,
+            -27.4328985
+          ],
+          [
+            -55.9413117,
+            -27.4324463
+          ],
+          [
+            -55.9403775,
+            -27.4315239
+          ],
+          [
+            -55.9399369,
+            -27.4310888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355372631",
+      "properties": {
+        "@id": "way/355372631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9493995,
+            -27.4283438
+          ],
+          [
+            -55.9488993,
+            -27.4287895
+          ],
+          [
+            -55.948702,
+            -27.42895
+          ],
+          [
+            -55.9480803,
+            -27.4294561
+          ],
+          [
+            -55.9479957,
+            -27.429525
+          ],
+          [
+            -55.9474228,
+            -27.4299913
+          ],
+          [
+            -55.9467115,
+            -27.4305703
+          ],
+          [
+            -55.9460006,
+            -27.4311489
+          ],
+          [
+            -55.9457021,
+            -27.4313918
+          ],
+          [
+            -55.9454852,
+            -27.4315683
+          ],
+          [
+            -55.9449459,
+            -27.4320073
+          ],
+          [
+            -55.9443893,
+            -27.4324603
+          ],
+          [
+            -55.9439019,
+            -27.432857
+          ],
+          [
+            -55.9434689,
+            -27.4332094
+          ],
+          [
+            -55.9433768,
+            -27.4332844
+          ],
+          [
+            -55.9427099,
+            -27.4338272
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92226762",
+      "properties": {
+        "@id": "way/92226762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9594807,
+            -27.4258882
+          ],
+          [
+            -55.9589807,
+            -27.42601
+          ],
+          [
+            -55.9582843,
+            -27.4261796
+          ],
+          [
+            -55.9576269,
+            -27.4263398
+          ],
+          [
+            -55.9570646,
+            -27.4264767
+          ],
+          [
+            -55.9567067,
+            -27.4265639
+          ],
+          [
+            -55.9565782,
+            -27.4265952
+          ],
+          [
+            -55.9560731,
+            -27.4267183
+          ],
+          [
+            -55.9555236,
+            -27.4268521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340040417",
+      "properties": {
+        "@id": "way/340040417",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9594807,
+            -27.4258882
+          ],
+          [
+            -55.9594197,
+            -27.4256849
+          ],
+          [
+            -55.9591562,
+            -27.4248081
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031098",
+      "properties": {
+        "@id": "way/340031098",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9591562,
+            -27.4248081
+          ],
+          [
+            -55.9588517,
+            -27.4237949
+          ],
+          [
+            -55.9586346,
+            -27.4230726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340040421",
+      "properties": {
+        "@id": "way/340040421",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9555236,
+            -27.4268521
+          ],
+          [
+            -55.9548325,
+            -27.4270204
+          ],
+          [
+            -55.9541354,
+            -27.4271902
+          ],
+          [
+            -55.9538115,
+            -27.4272691
+          ],
+          [
+            -55.9533305,
+            -27.4273863
+          ],
+          [
+            -55.9526607,
+            -27.4275495
+          ],
+          [
+            -55.9516437,
+            -27.4277972
+          ],
+          [
+            -55.9514973,
+            -27.4278328
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/358539238",
+      "properties": {
+        "@id": "way/358539238",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9568141,
+            -27.4170147
+          ],
+          [
+            -55.9562506,
+            -27.4151394
+          ],
+          [
+            -55.9561342,
+            -27.4147521
+          ],
+          [
+            -55.9561119,
+            -27.414678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262550761",
+      "properties": {
+        "@id": "way/262550761",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9578061,
+            -27.4203155
+          ],
+          [
+            -55.9577219,
+            -27.4200355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262550762",
+      "properties": {
+        "@id": "way/262550762",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9577219,
+            -27.4200355
+          ],
+          [
+            -55.9576489,
+            -27.4197924
+          ],
+          [
+            -55.9574975,
+            -27.4192887
+          ],
+          [
+            -55.957421,
+            -27.4190429
+          ],
+          [
+            -55.9573411,
+            -27.4187683
+          ],
+          [
+            -55.9572532,
+            -27.4184759
+          ],
+          [
+            -55.957114,
+            -27.4180125
+          ],
+          [
+            -55.9569358,
+            -27.4174196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031094",
+      "properties": {
+        "@id": "way/340031094",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9579499,
+            -27.4207941
+          ],
+          [
+            -55.9578982,
+            -27.420622
+          ],
+          [
+            -55.9578061,
+            -27.4203155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031097",
+      "properties": {
+        "@id": "way/340031097",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9569358,
+            -27.4174196
+          ],
+          [
+            -55.9568737,
+            -27.4172129
+          ],
+          [
+            -55.9568141,
+            -27.4170147
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370282104",
+      "properties": {
+        "@id": "way/370282104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9586346,
+            -27.4230726
+          ],
+          [
+            -55.9584948,
+            -27.4226074
+          ],
+          [
+            -55.9582792,
+            -27.4218899
+          ],
+          [
+            -55.9579499,
+            -27.4207941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355372632",
+      "properties": {
+        "@id": "way/355372632",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9514973,
+            -27.4278328
+          ],
+          [
+            -55.9501231,
+            -27.4281675
+          ],
+          [
+            -55.9496027,
+            -27.4282943
+          ],
+          [
+            -55.9493995,
+            -27.4283438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031095",
+      "properties": {
+        "@id": "way/340031095",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9561119,
+            -27.414678
+          ],
+          [
+            -55.9560857,
+            -27.4145908
+          ],
+          [
+            -55.955974,
+            -27.414219
+          ],
+          [
+            -55.9555134,
+            -27.4126861
+          ],
+          [
+            -55.9554737,
+            -27.412554
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031096",
+      "properties": {
+        "@id": "way/340031096",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9554737,
+            -27.412554
+          ],
+          [
+            -55.9554178,
+            -27.412368
+          ],
+          [
+            -55.9552152,
+            -27.4116939
+          ],
+          [
+            -55.9545384,
+            -27.4094415
+          ],
+          [
+            -55.9544951,
+            -27.4092973
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227665",
+      "properties": {
+        "@id": "way/370227665",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9529314,
+            -27.4040933
+          ],
+          [
+            -55.9528257,
+            -27.4037416
+          ],
+          [
+            -55.9526757,
+            -27.4032426
+          ],
+          [
+            -55.9522528,
+            -27.4018351
+          ],
+          [
+            -55.9521957,
+            -27.4016451
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877225",
+      "properties": {
+        "@id": "way/339877225",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541142,
+            -27.4080297
+          ],
+          [
+            -55.954098,
+            -27.4079758
+          ],
+          [
+            -55.9540432,
+            -27.4077935
+          ],
+          [
+            -55.9539924,
+            -27.4076245
+          ],
+          [
+            -55.9538317,
+            -27.4070896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877226",
+      "properties": {
+        "@id": "way/339877226",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531094,
+            -27.4046859
+          ],
+          [
+            -55.9529314,
+            -27.4040933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340031093",
+      "properties": {
+        "@id": "way/340031093",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9544951,
+            -27.4092973
+          ],
+          [
+            -55.954204,
+            -27.4083288
+          ],
+          [
+            -55.9541567,
+            -27.4081712
+          ],
+          [
+            -55.9541142,
+            -27.4080297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/370227666",
+      "properties": {
+        "@id": "way/370227666",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9538317,
+            -27.4070896
+          ],
+          [
+            -55.9536752,
+            -27.406569
+          ],
+          [
+            -55.9536489,
+            -27.4064814
+          ],
+          [
+            -55.9536243,
+            -27.4063993
+          ],
+          [
+            -55.9531646,
+            -27.4048694
+          ],
+          [
+            -55.9531094,
+            -27.4046859
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261478330",
+      "properties": {
+        "@id": "way/261478330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9142777,
+            -27.4277252
+          ],
+          [
+            -55.9151543,
+            -27.4276266
+          ],
+          [
+            -55.9161211,
+            -27.4275179
+          ],
+          [
+            -55.9172842,
+            -27.427387
+          ],
+          [
+            -55.918334,
+            -27.4272689
+          ],
+          [
+            -55.9192466,
+            -27.4271663
+          ],
+          [
+            -55.9202421,
+            -27.4270543
+          ],
+          [
+            -55.9212368,
+            -27.4269424
+          ],
+          [
+            -55.9213093,
+            -27.4269343
+          ],
+          [
+            -55.9221707,
+            -27.4268374
+          ],
+          [
+            -55.9231322,
+            -27.4267292
+          ],
+          [
+            -55.9240649,
+            -27.4266243
+          ],
+          [
+            -55.9247736,
+            -27.4265446
+          ],
+          [
+            -55.9312153,
+            -27.42582
+          ],
+          [
+            -55.9326836,
+            -27.4256549
+          ],
+          [
+            -55.9327688,
+            -27.4256453
+          ],
+          [
+            -55.9340929,
+            -27.4254923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340205410",
+      "properties": {
+        "@id": "way/340205410",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9399369,
+            -27.4310888
+          ],
+          [
+            -55.9386115,
+            -27.4297797
+          ],
+          [
+            -55.9383895,
+            -27.4295604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259319194",
+      "properties": {
+        "@id": "way/259319194",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9340929,
+            -27.4254923
+          ],
+          [
+            -55.9340789,
+            -27.4254427
+          ],
+          [
+            -55.9340881,
+            -27.4253771
+          ],
+          [
+            -55.9341092,
+            -27.4253396
+          ],
+          [
+            -55.9341405,
+            -27.4253083
+          ],
+          [
+            -55.93418,
+            -27.4252853
+          ],
+          [
+            -55.9342248,
+            -27.4252721
+          ],
+          [
+            -55.9342719,
+            -27.4252698
+          ],
+          [
+            -55.9343609,
+            -27.4252978
+          ],
+          [
+            -55.9344217,
+            -27.4253619
+          ],
+          [
+            -55.9344347,
+            -27.4253968
+          ],
+          [
+            -55.9344384,
+            -27.4254334
+          ],
+          [
+            -55.93443,
+            -27.4254776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259319196",
+      "properties": {
+        "@id": "way/259319196",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.93443,
+            -27.4254776
+          ],
+          [
+            -55.9346175,
+            -27.4258349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340205411",
+      "properties": {
+        "@id": "way/340205411",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9383895,
+            -27.4295604
+          ],
+          [
+            -55.9374631,
+            -27.4286454
+          ],
+          [
+            -55.9374127,
+            -27.4285956
+          ],
+          [
+            -55.9371383,
+            -27.4283246
+          ],
+          [
+            -55.9365458,
+            -27.4277395
+          ],
+          [
+            -55.9364637,
+            -27.4276584
+          ],
+          [
+            -55.9361316,
+            -27.4273709
+          ],
+          [
+            -55.9354554,
+            -27.4267071
+          ],
+          [
+            -55.9347107,
+            -27.4259269
+          ],
+          [
+            -55.9346175,
+            -27.4258349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639780",
+      "properties": {
+        "@id": "way/398639780",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.908767,
+            -27.428344
+          ],
+          [
+            -55.9090432,
+            -27.4283129
+          ],
+          [
+            -55.9095207,
+            -27.4282616
+          ],
+          [
+            -55.9096063,
+            -27.4282518
+          ],
+          [
+            -55.9105568,
+            -27.4281428
+          ],
+          [
+            -55.9107963,
+            -27.4281171
+          ],
+          [
+            -55.9109915,
+            -27.4280961
+          ],
+          [
+            -55.9113487,
+            -27.4280567
+          ],
+          [
+            -55.9119762,
+            -27.4279831
+          ],
+          [
+            -55.912716,
+            -27.4278999
+          ],
+          [
+            -55.9131582,
+            -27.4278536
+          ],
+          [
+            -55.9142777,
+            -27.4277252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312015",
+      "properties": {
+        "@id": "way/259312015",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9071479,
+            -27.4286101
+          ],
+          [
+            -55.9066797,
+            -27.4286709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312016",
+      "properties": {
+        "@id": "way/259312016",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9084434,
+            -27.428445
+          ],
+          [
+            -55.9071479,
+            -27.4286101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312019",
+      "properties": {
+        "@id": "way/259312019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9066797,
+            -27.4286709
+          ],
+          [
+            -55.9052007,
+            -27.4288617
+          ],
+          [
+            -55.9047349,
+            -27.4288895
+          ],
+          [
+            -55.9042661,
+            -27.4288621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187923311",
+      "properties": {
+        "@id": "way/187923311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015589,
+            -27.4280872
+          ],
+          [
+            -55.9042661,
+            -27.4288621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312018",
+      "properties": {
+        "@id": "way/259312018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9084434,
+            -27.428445
+          ],
+          [
+            -55.9085107,
+            -27.4284057
+          ],
+          [
+            -55.9085779,
+            -27.4283665
+          ],
+          [
+            -55.908681,
+            -27.4283542
+          ],
+          [
+            -55.908767,
+            -27.428344
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630311",
+      "properties": {
+        "@id": "way/261630311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004676,
+            -27.4277658
+          ],
+          [
+            -55.9005355,
+            -27.4277858
+          ],
+          [
+            -55.9010046,
+            -27.4279239
+          ],
+          [
+            -55.9015589,
+            -27.4280872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136228230",
+      "properties": {
+        "@id": "way/136228230",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8941037,
+            -27.4268877
+          ],
+          [
+            -55.8942189,
+            -27.4267962
+          ],
+          [
+            -55.8944324,
+            -27.4266558
+          ],
+          [
+            -55.8949939,
+            -27.4262925
+          ],
+          [
+            -55.8950321,
+            -27.4262744
+          ],
+          [
+            -55.8951086,
+            -27.4262381
+          ],
+          [
+            -55.8952015,
+            -27.4262224
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262846150",
+      "properties": {
+        "@id": "way/262846150",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8955863,
+            -27.4263323
+          ],
+          [
+            -55.8954135,
+            -27.4262678
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312014",
+      "properties": {
+        "@id": "way/259312014",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8955863,
+            -27.4263323
+          ],
+          [
+            -55.8957165,
+            -27.4263706
+          ],
+          [
+            -55.8958109,
+            -27.4263983
+          ],
+          [
+            -55.8960526,
+            -27.4264693
+          ],
+          [
+            -55.8964341,
+            -27.4265813
+          ],
+          [
+            -55.8965663,
+            -27.4266201
+          ],
+          [
+            -55.8972816,
+            -27.4268301
+          ],
+          [
+            -55.8973986,
+            -27.4268645
+          ],
+          [
+            -55.8979718,
+            -27.4270328
+          ],
+          [
+            -55.8984052,
+            -27.4271601
+          ],
+          [
+            -55.8994652,
+            -27.4274714
+          ],
+          [
+            -55.9000885,
+            -27.4276545
+          ],
+          [
+            -55.9004676,
+            -27.4277658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113122",
+      "properties": {
+        "@id": "way/33113122",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9549136,
+            -27.3986706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33411932",
+      "properties": {
+        "@id": "way/33411932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9562468,
+            -27.3985181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255323412",
+      "properties": {
+        "@id": "way/255323412",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9564847,
+            -27.3984918
+          ],
+          [
+            -55.9569701,
+            -27.3983479
+          ],
+          [
+            -55.9573885,
+            -27.3982152
+          ],
+          [
+            -55.9577688,
+            -27.3980922
+          ],
+          [
+            -55.9581817,
+            -27.3979861
+          ],
+          [
+            -55.9586544,
+            -27.3979258
+          ],
+          [
+            -55.9588709,
+            -27.3979273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255323413",
+      "properties": {
+        "@id": "way/255323413",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9562468,
+            -27.3985181
+          ],
+          [
+            -55.9564847,
+            -27.3984918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706893",
+      "properties": {
+        "@id": "way/397706893",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9588709,
+            -27.3979273
+          ],
+          [
+            -55.9591949,
+            -27.3979352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711444",
+      "properties": {
+        "@id": "way/101711444",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9591949,
+            -27.3979352
+          ],
+          [
+            -55.9594912,
+            -27.3978616
+          ],
+          [
+            -55.959567,
+            -27.3978549
+          ],
+          [
+            -55.9597084,
+            -27.3977787
+          ],
+          [
+            -55.9597927,
+            -27.3977226
+          ],
+          [
+            -55.9598952,
+            -27.3976149
+          ],
+          [
+            -55.9599582,
+            -27.397532
+          ],
+          [
+            -55.9601164,
+            -27.3972708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/108561181",
+      "properties": {
+        "@id": "way/108561181",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.963041,
+            -27.392607
+          ],
+          [
+            -55.9630336,
+            -27.3924705
+          ],
+          [
+            -55.9630002,
+            -27.3923422
+          ],
+          [
+            -55.9628275,
+            -27.3919589
+          ],
+          [
+            -55.9623249,
+            -27.3908519
+          ],
+          [
+            -55.9619543,
+            -27.3900355
+          ],
+          [
+            -55.9617958,
+            -27.3885878
+          ],
+          [
+            -55.9617239,
+            -27.3879116
+          ],
+          [
+            -55.9616699,
+            -27.3874138
+          ],
+          [
+            -55.9616369,
+            -27.387057
+          ],
+          [
+            -55.9616489,
+            -27.3868627
+          ],
+          [
+            -55.9616789,
+            -27.3867296
+          ],
+          [
+            -55.9617358,
+            -27.3865752
+          ],
+          [
+            -55.9618678,
+            -27.386261
+          ],
+          [
+            -55.9625873,
+            -27.3845838
+          ],
+          [
+            -55.963112,
+            -27.3833113
+          ],
+          [
+            -55.9631463,
+            -27.3831897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255317561",
+      "properties": {
+        "@id": "way/255317561",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9601164,
+            -27.3972708
+          ],
+          [
+            -55.9613538,
+            -27.3951656
+          ],
+          [
+            -55.9614016,
+            -27.3950863
+          ],
+          [
+            -55.9616151,
+            -27.3947223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877228",
+      "properties": {
+        "@id": "way/339877228",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9549136,
+            -27.3986706
+          ],
+          [
+            -55.9531432,
+            -27.3988693
+          ],
+          [
+            -55.9523069,
+            -27.3989631
+          ],
+          [
+            -55.9517143,
+            -27.3990311
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/319662321",
+      "properties": {
+        "@id": "way/319662321",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9616151,
+            -27.3947223
+          ],
+          [
+            -55.9617951,
+            -27.3944155
+          ],
+          [
+            -55.9620831,
+            -27.3939247
+          ],
+          [
+            -55.9621718,
+            -27.3938273
+          ],
+          [
+            -55.9622606,
+            -27.3937361
+          ],
+          [
+            -55.9627416,
+            -27.3932509
+          ],
+          [
+            -55.9628116,
+            -27.3931784
+          ],
+          [
+            -55.9628793,
+            -27.3931037
+          ],
+          [
+            -55.9629219,
+            -27.3930252
+          ],
+          [
+            -55.9629517,
+            -27.3929566
+          ],
+          [
+            -55.9630026,
+            -27.3927753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392889698",
+      "properties": {
+        "@id": "way/392889698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9630026,
+            -27.3927753
+          ],
+          [
+            -55.9629977,
+            -27.3927168
+          ],
+          [
+            -55.9630108,
+            -27.3926592
+          ],
+          [
+            -55.963041,
+            -27.392607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877224",
+      "properties": {
+        "@id": "way/339877224",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9521957,
+            -27.4016451
+          ],
+          [
+            -55.9518794,
+            -27.4005924
+          ],
+          [
+            -55.9516805,
+            -27.3999302
+          ],
+          [
+            -55.9515554,
+            -27.3995139
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263201372",
+      "properties": {
+        "@id": "way/263201372",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.963018,
+            -27.38238
+          ],
+          [
+            -55.962956,
+            -27.3823513
+          ],
+          [
+            -55.9629471,
+            -27.3822916
+          ],
+          [
+            -55.9629545,
+            -27.3821394
+          ],
+          [
+            -55.9629586,
+            -27.3819421
+          ],
+          [
+            -55.9629442,
+            -27.3817404
+          ],
+          [
+            -55.9628282,
+            -27.3813972
+          ],
+          [
+            -55.9625866,
+            -27.3806249
+          ],
+          [
+            -55.9621759,
+            -27.3793849
+          ],
+          [
+            -55.9616927,
+            -27.3779475
+          ],
+          [
+            -55.9615091,
+            -27.3772953
+          ],
+          [
+            -55.9614511,
+            -27.3770121
+          ],
+          [
+            -55.9612191,
+            -27.3754803
+          ],
+          [
+            -55.9610839,
+            -27.374605
+          ],
+          [
+            -55.9610029,
+            -27.3741797
+          ],
+          [
+            -55.9608566,
+            -27.3740075
+          ],
+          [
+            -55.9608382,
+            -27.3739402
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/100643196",
+      "properties": {
+        "@id": "way/100643196",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9630821,
+            -27.38267
+          ],
+          [
+            -55.9630426,
+            -27.3826472
+          ],
+          [
+            -55.963002,
+            -27.3825918
+          ],
+          [
+            -55.9629788,
+            -27.3825153
+          ],
+          [
+            -55.9629798,
+            -27.382439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706892",
+      "properties": {
+        "@id": "way/397706892",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9631463,
+            -27.3831897
+          ],
+          [
+            -55.963166,
+            -27.3831196
+          ],
+          [
+            -55.963151,
+            -27.3829785
+          ],
+          [
+            -55.9630659,
+            -27.3827032
+          ],
+          [
+            -55.9630821,
+            -27.38267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706895",
+      "properties": {
+        "@id": "way/397706895",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9629798,
+            -27.382439
+          ],
+          [
+            -55.963018,
+            -27.38238
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255089330",
+      "properties": {
+        "@id": "way/255089330",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9579209,
+            -27.3728035
+          ],
+          [
+            -55.9599575,
+            -27.373376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263201374",
+      "properties": {
+        "@id": "way/263201374",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9606218,
+            -27.373696
+          ],
+          [
+            -55.9605455,
+            -27.3736909
+          ],
+          [
+            -55.9599575,
+            -27.373376
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392889701",
+      "properties": {
+        "@id": "way/392889701",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9608382,
+            -27.3739402
+          ],
+          [
+            -55.9607637,
+            -27.3739016
+          ],
+          [
+            -55.9607063,
+            -27.3738547
+          ],
+          [
+            -55.9606325,
+            -27.3737609
+          ],
+          [
+            -55.9606218,
+            -27.373696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/144841996",
+      "properties": {
+        "@id": "way/144841996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9542748,
+            -27.3717843
+          ],
+          [
+            -55.9572382,
+            -27.3726174
+          ],
+          [
+            -55.9579209,
+            -27.3728035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33112194",
+      "properties": {
+        "@id": "way/33112194",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9540128,
+            -27.3718836
+          ],
+          [
+            -55.9539925,
+            -27.3719178
+          ],
+          [
+            -55.9538663,
+            -27.3720959
+          ],
+          [
+            -55.9537524,
+            -27.3722005
+          ],
+          [
+            -55.9536143,
+            -27.372291
+          ],
+          [
+            -55.9535472,
+            -27.372316
+          ],
+          [
+            -55.9534761,
+            -27.3723291
+          ],
+          [
+            -55.9533581,
+            -27.3723196
+          ],
+          [
+            -55.9532535,
+            -27.3722707
+          ],
+          [
+            -55.9531868,
+            -27.3722118
+          ],
+          [
+            -55.9531425,
+            -27.3721372
+          ],
+          [
+            -55.9531186,
+            -27.3720617
+          ],
+          [
+            -55.9531112,
+            -27.3719817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/210667149",
+      "properties": {
+        "@id": "way/210667149",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531492,
+            -27.3718812
+          ],
+          [
+            -55.9531275,
+            -27.3718387
+          ],
+          [
+            -55.9530819,
+            -27.3717767
+          ],
+          [
+            -55.9530361,
+            -27.3717629
+          ],
+          [
+            -55.9529983,
+            -27.3717582
+          ],
+          [
+            -55.9529559,
+            -27.3717529
+          ],
+          [
+            -55.9528778,
+            -27.371751
+          ],
+          [
+            -55.9527282,
+            -27.3717678
+          ],
+          [
+            -55.9525184,
+            -27.3717903
+          ],
+          [
+            -55.9513629,
+            -27.3719138
+          ],
+          [
+            -55.9512702,
+            -27.3719237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263201404",
+      "properties": {
+        "@id": "way/263201404",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9542748,
+            -27.3717843
+          ],
+          [
+            -55.95422,
+            -27.3717828
+          ],
+          [
+            -55.9541608,
+            -27.3718006
+          ],
+          [
+            -55.9541153,
+            -27.3718213
+          ],
+          [
+            -55.9540674,
+            -27.3718503
+          ],
+          [
+            -55.9540128,
+            -27.3718836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421718",
+      "properties": {
+        "@id": "way/394421718",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9531112,
+            -27.3719817
+          ],
+          [
+            -55.9531492,
+            -27.3718812
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611174",
+      "properties": {
+        "@id": "way/396611174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.947522,
+            -27.3722729
+          ],
+          [
+            -55.9465947,
+            -27.3723758
+          ],
+          [
+            -55.9457045,
+            -27.3724748
+          ],
+          [
+            -55.9448293,
+            -27.3725722
+          ],
+          [
+            -55.9440408,
+            -27.3726597
+          ],
+          [
+            -55.9438395,
+            -27.372682
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259357981",
+      "properties": {
+        "@id": "way/259357981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438395,
+            -27.372682
+          ],
+          [
+            -55.9429006,
+            -27.3727865
+          ],
+          [
+            -55.941987,
+            -27.3728879
+          ],
+          [
+            -55.9410829,
+            -27.3729884
+          ],
+          [
+            -55.9401992,
+            -27.3730866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421716",
+      "properties": {
+        "@id": "way/394421716",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9512702,
+            -27.3719237
+          ],
+          [
+            -55.9510394,
+            -27.3719484
+          ],
+          [
+            -55.9502892,
+            -27.3720308
+          ],
+          [
+            -55.9490629,
+            -27.3721581
+          ],
+          [
+            -55.9489755,
+            -27.3721672
+          ],
+          [
+            -55.9478201,
+            -27.3722924
+          ],
+          [
+            -55.9476464,
+            -27.3723112
+          ],
+          [
+            -55.947522,
+            -27.3722729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341073018",
+      "properties": {
+        "@id": "way/341073018",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9400809,
+            -27.3730997
+          ],
+          [
+            -55.939701,
+            -27.373142
+          ],
+          [
+            -55.9382491,
+            -27.3733036
+          ],
+          [
+            -55.9380578,
+            -27.3733246
+          ],
+          [
+            -55.9366076,
+            -27.3734858
+          ],
+          [
+            -55.9363731,
+            -27.3735119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684633",
+      "properties": {
+        "@id": "way/397684633",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401992,
+            -27.3730866
+          ],
+          [
+            -55.9401386,
+            -27.3730933
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397684634",
+      "properties": {
+        "@id": "way/397684634",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401386,
+            -27.3730933
+          ],
+          [
+            -55.9400809,
+            -27.3730997
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341073017",
+      "properties": {
+        "@id": "way/341073017",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326505,
+            -27.3739256
+          ],
+          [
+            -55.9325801,
+            -27.3739334
+          ],
+          [
+            -55.9321027,
+            -27.3739864
+          ],
+          [
+            -55.9320431,
+            -27.373993
+          ],
+          [
+            -55.9317273,
+            -27.3740281
+          ],
+          [
+            -55.9313212,
+            -27.3740733
+          ],
+          [
+            -55.930742,
+            -27.3741376
+          ],
+          [
+            -55.9302238,
+            -27.3741952
+          ],
+          [
+            -55.929841,
+            -27.3742377
+          ],
+          [
+            -55.9295122,
+            -27.3742743
+          ],
+          [
+            -55.9290632,
+            -27.3743241
+          ],
+          [
+            -55.9289895,
+            -27.3743323
+          ],
+          [
+            -55.9289359,
+            -27.3743383
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766806",
+      "properties": {
+        "@id": "way/340766806",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9289359,
+            -27.3743383
+          ],
+          [
+            -55.9288669,
+            -27.374346
+          ],
+          [
+            -55.9273264,
+            -27.3745177
+          ],
+          [
+            -55.927281,
+            -27.3745223
+          ],
+          [
+            -55.9269911,
+            -27.3745545
+          ],
+          [
+            -55.9262287,
+            -27.3746392
+          ],
+          [
+            -55.9254561,
+            -27.3747251
+          ],
+          [
+            -55.9252401,
+            -27.3747491
+          ],
+          [
+            -55.9251941,
+            -27.3747542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396611928",
+      "properties": {
+        "@id": "way/396611928",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9363731,
+            -27.3735119
+          ],
+          [
+            -55.9361682,
+            -27.3735347
+          ],
+          [
+            -55.9349742,
+            -27.3736673
+          ],
+          [
+            -55.9343486,
+            -27.3737368
+          ],
+          [
+            -55.9336387,
+            -27.3738157
+          ],
+          [
+            -55.9327165,
+            -27.3739182
+          ],
+          [
+            -55.9326505,
+            -27.3739256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766805",
+      "properties": {
+        "@id": "way/340766805",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9214506,
+            -27.3751697
+          ],
+          [
+            -55.9214007,
+            -27.3751753
+          ],
+          [
+            -55.9208651,
+            -27.3752348
+          ],
+          [
+            -55.9204596,
+            -27.3752798
+          ],
+          [
+            -55.9199333,
+            -27.3753382
+          ],
+          [
+            -55.9195756,
+            -27.3753779
+          ],
+          [
+            -55.9187865,
+            -27.3754655
+          ],
+          [
+            -55.9186505,
+            -27.3754806
+          ],
+          [
+            -55.9177161,
+            -27.3755843
+          ],
+          [
+            -55.9176767,
+            -27.3755887
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566391",
+      "properties": {
+        "@id": "way/340566391",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9176767,
+            -27.3755887
+          ],
+          [
+            -55.917631,
+            -27.3755938
+          ],
+          [
+            -55.9172221,
+            -27.3756393
+          ],
+          [
+            -55.9166356,
+            -27.3757047
+          ],
+          [
+            -55.9161777,
+            -27.3757557
+          ],
+          [
+            -55.9158254,
+            -27.3757949
+          ],
+          [
+            -55.9150574,
+            -27.3758805
+          ],
+          [
+            -55.9149102,
+            -27.3758969
+          ],
+          [
+            -55.9140445,
+            -27.3759933
+          ],
+          [
+            -55.9139733,
+            -27.3760047
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396613233",
+      "properties": {
+        "@id": "way/396613233",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9251941,
+            -27.3747542
+          ],
+          [
+            -55.9251417,
+            -27.37476
+          ],
+          [
+            -55.9249829,
+            -27.3747777
+          ],
+          [
+            -55.924566,
+            -27.3748241
+          ],
+          [
+            -55.9238486,
+            -27.3749036
+          ],
+          [
+            -55.9233233,
+            -27.3749619
+          ],
+          [
+            -55.9227609,
+            -27.3750243
+          ],
+          [
+            -55.9220485,
+            -27.3751034
+          ],
+          [
+            -55.921683,
+            -27.3751439
+          ],
+          [
+            -55.9215004,
+            -27.3751642
+          ],
+          [
+            -55.9214506,
+            -27.3751697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340566392",
+      "properties": {
+        "@id": "way/340566392",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9139733,
+            -27.3760047
+          ],
+          [
+            -55.9138917,
+            -27.3760136
+          ],
+          [
+            -55.9131702,
+            -27.376093
+          ],
+          [
+            -55.9122841,
+            -27.3761904
+          ],
+          [
+            -55.9120873,
+            -27.376212
+          ],
+          [
+            -55.9111276,
+            -27.3763176
+          ],
+          [
+            -55.9102302,
+            -27.3764129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572034",
+      "properties": {
+        "@id": "way/340572034",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9064801,
+            -27.3768286
+          ],
+          [
+            -55.9058856,
+            -27.3769001
+          ],
+          [
+            -55.904877,
+            -27.3770081
+          ],
+          [
+            -55.9047905,
+            -27.377019
+          ],
+          [
+            -55.9046198,
+            -27.3770405
+          ],
+          [
+            -55.9044659,
+            -27.3770567
+          ],
+          [
+            -55.9038212,
+            -27.3771248
+          ],
+          [
+            -55.9029435,
+            -27.3772262
+          ],
+          [
+            -55.9027488,
+            -27.3772487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113109",
+      "properties": {
+        "@id": "way/33113109",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9027488,
+            -27.3772487
+          ],
+          [
+            -55.902488,
+            -27.3772769
+          ],
+          [
+            -55.9018915,
+            -27.3773413
+          ],
+          [
+            -55.9010753,
+            -27.377427
+          ],
+          [
+            -55.9010449,
+            -27.3774302
+          ],
+          [
+            -55.9000292,
+            -27.3775368
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396609426",
+      "properties": {
+        "@id": "way/396609426",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9102302,
+            -27.3764129
+          ],
+          [
+            -55.9092398,
+            -27.3765252
+          ],
+          [
+            -55.90914,
+            -27.3765361
+          ],
+          [
+            -55.9084915,
+            -27.3766073
+          ],
+          [
+            -55.9083962,
+            -27.3766178
+          ],
+          [
+            -55.9074078,
+            -27.3767266
+          ],
+          [
+            -55.9064801,
+            -27.3768286
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967886",
+      "properties": {
+        "@id": "way/43967886",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.8977641,
+            -27.3741942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785956",
+      "properties": {
+        "@id": "way/193785956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.897634,
+            -27.3732059
+          ],
+          [
+            -55.8975336,
+            -27.3724437
+          ],
+          [
+            -55.8975149,
+            -27.3723015
+          ],
+          [
+            -55.8973893,
+            -27.3713471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163484",
+      "properties": {
+        "@id": "way/318163484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977641,
+            -27.3741942
+          ],
+          [
+            -55.8976525,
+            -27.3733465
+          ],
+          [
+            -55.897634,
+            -27.3732059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785955",
+      "properties": {
+        "@id": "way/193785955",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8973893,
+            -27.3713471
+          ],
+          [
+            -55.897263,
+            -27.370409
+          ],
+          [
+            -55.8971285,
+            -27.3694804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432302",
+      "properties": {
+        "@id": "way/256432302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8966131,
+            -27.3657504
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8963557,
+            -27.3638877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432306",
+      "properties": {
+        "@id": "way/256432306",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8968702,
+            -27.3676112
+          ],
+          [
+            -55.8967405,
+            -27.3666727
+          ],
+          [
+            -55.8966356,
+            -27.3659133
+          ],
+          [
+            -55.8966131,
+            -27.3657504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432308",
+      "properties": {
+        "@id": "way/256432308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8971285,
+            -27.3694804
+          ],
+          [
+            -55.897063,
+            -27.3690064
+          ],
+          [
+            -55.8970377,
+            -27.3688235
+          ],
+          [
+            -55.8970128,
+            -27.3686428
+          ],
+          [
+            -55.8969982,
+            -27.3685372
+          ],
+          [
+            -55.8969648,
+            -27.3682953
+          ],
+          [
+            -55.8968702,
+            -27.3676112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432299",
+      "properties": {
+        "@id": "way/256432299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8960965,
+            -27.3620283
+          ],
+          [
+            -55.8959659,
+            -27.3610746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432304",
+      "properties": {
+        "@id": "way/256432304",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5892259,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 27 ramal Itaembé Miní, sentido Mercado Central - Centro de la ciudad Posadas",
+              "from": "Mercado Central",
+              "name": "Línea 27: Mercado Central → Itaembé Miní → Centro",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "27xIT.M",
+              "route": "bus",
+              "to": "Centro",
+              "type": "route",
+              "via": "Centro del Conocimiento"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8963557,
+            -27.3638877
+          ],
+          [
+            -55.8962243,
+            -27.3629691
+          ],
+          [
+            -55.8961101,
+            -27.3621285
+          ],
+          [
+            -55.8960965,
+            -27.3620283
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4779 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T10:34:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/261740741",
+      "properties": {
+        "@id": "way/261740741",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9142675,
+            -27.4278314
+          ],
+          [
+            -55.9143167,
+            -27.4281913
+          ],
+          [
+            -55.9144625,
+            -27.4292597
+          ],
+          [
+            -55.9145215,
+            -27.4297033
+          ],
+          [
+            -55.9145215,
+            -27.4297033
+          ],
+          [
+            -55.9145988,
+            -27.4302584
+          ],
+          [
+            -55.9147425,
+            -27.4313111
+          ],
+          [
+            -55.9148163,
+            -27.4318524
+          ],
+          [
+            -55.9148831,
+            -27.4323613
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261478331",
+      "properties": {
+        "@id": "way/261478331",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9151997,
+            -27.4358868
+          ],
+          [
+            -55.9151899,
+            -27.4358093
+          ],
+          [
+            -55.9151287,
+            -27.435328
+          ],
+          [
+            -55.9150678,
+            -27.434849
+          ],
+          [
+            -55.914905,
+            -27.4335681
+          ],
+          [
+            -55.9147506,
+            -27.4323537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312015",
+      "properties": {
+        "@id": "way/259312015",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9071479,
+            -27.4286101
+          ],
+          [
+            -55.9066797,
+            -27.4286709
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312016",
+      "properties": {
+        "@id": "way/259312016",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9084434,
+            -27.428445
+          ],
+          [
+            -55.9071479,
+            -27.4286101
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312019",
+      "properties": {
+        "@id": "way/259312019",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9066797,
+            -27.4286709
+          ],
+          [
+            -55.9052007,
+            -27.4288617
+          ],
+          [
+            -55.9047349,
+            -27.4288895
+          ],
+          [
+            -55.9042661,
+            -27.4288621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187923311",
+      "properties": {
+        "@id": "way/187923311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015589,
+            -27.4280872
+          ],
+          [
+            -55.9042661,
+            -27.4288621
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312017",
+      "properties": {
+        "@id": "way/259312017",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9142675,
+            -27.4278314
+          ],
+          [
+            -55.9141771,
+            -27.4278416
+          ],
+          [
+            -55.9131674,
+            -27.427954
+          ],
+          [
+            -55.9127315,
+            -27.4280029
+          ],
+          [
+            -55.9125319,
+            -27.4280248
+          ],
+          [
+            -55.912004,
+            -27.4280826
+          ],
+          [
+            -55.9114107,
+            -27.4281463
+          ],
+          [
+            -55.9110138,
+            -27.4281889
+          ],
+          [
+            -55.9108255,
+            -27.4282117
+          ],
+          [
+            -55.9102383,
+            -27.4282802
+          ],
+          [
+            -55.9096366,
+            -27.4283491
+          ],
+          [
+            -55.9090575,
+            -27.4284154
+          ],
+          [
+            -55.9087044,
+            -27.4284524
+          ],
+          [
+            -55.9086518,
+            -27.4284579
+          ],
+          [
+            -55.9085745,
+            -27.428466
+          ],
+          [
+            -55.9085265,
+            -27.4284583
+          ],
+          [
+            -55.9084434,
+            -27.428445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630311",
+      "properties": {
+        "@id": "way/261630311",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004676,
+            -27.4277658
+          ],
+          [
+            -55.9005355,
+            -27.4277858
+          ],
+          [
+            -55.9010046,
+            -27.4279239
+          ],
+          [
+            -55.9015589,
+            -27.4280872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630312",
+      "properties": {
+        "@id": "way/261630312",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980454,
+            -27.423817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262846150",
+      "properties": {
+        "@id": "way/262846150",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8955863,
+            -27.4263323
+          ],
+          [
+            -55.8954135,
+            -27.4262678
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259312014",
+      "properties": {
+        "@id": "way/259312014",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8955863,
+            -27.4263323
+          ],
+          [
+            -55.8957165,
+            -27.4263706
+          ],
+          [
+            -55.8958109,
+            -27.4263983
+          ],
+          [
+            -55.8960526,
+            -27.4264693
+          ],
+          [
+            -55.8964341,
+            -27.4265813
+          ],
+          [
+            -55.8965663,
+            -27.4266201
+          ],
+          [
+            -55.8972816,
+            -27.4268301
+          ],
+          [
+            -55.8973986,
+            -27.4268645
+          ],
+          [
+            -55.8979718,
+            -27.4270328
+          ],
+          [
+            -55.8984052,
+            -27.4271601
+          ],
+          [
+            -55.8994652,
+            -27.4274714
+          ],
+          [
+            -55.9000885,
+            -27.4276545
+          ],
+          [
+            -55.9004676,
+            -27.4277658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422803926",
+      "properties": {
+        "@id": "way/422803926",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980454,
+            -27.423817
+          ],
+          [
+            -55.8979627,
+            -27.4239233
+          ],
+          [
+            -55.8977526,
+            -27.4241719
+          ],
+          [
+            -55.897267,
+            -27.4247002
+          ],
+          [
+            -55.8970813,
+            -27.4248836
+          ],
+          [
+            -55.8969069,
+            -27.4250558
+          ],
+          [
+            -55.8964834,
+            -27.4253801
+          ],
+          [
+            -55.8963298,
+            -27.4254799
+          ],
+          [
+            -55.8956019,
+            -27.4260224
+          ],
+          [
+            -55.895368,
+            -27.4261967
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927944",
+      "properties": {
+        "@id": "way/127927944",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994643,
+            -27.4207506
+          ],
+          [
+            -55.9001133,
+            -27.4181852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927956",
+      "properties": {
+        "@id": "way/127927956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001133,
+            -27.4181852
+          ],
+          [
+            -55.9002634,
+            -27.4175322
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927959",
+      "properties": {
+        "@id": "way/127927959",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8994264,
+            -27.4209519
+          ],
+          [
+            -55.8994643,
+            -27.4207506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619470",
+      "properties": {
+        "@id": "way/40619470",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902405,
+            -27.4042425
+          ],
+          [
+            -55.9024831,
+            -27.403937
+          ],
+          [
+            -55.9025364,
+            -27.4037107
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/44003866",
+      "properties": {
+        "@id": "way/44003866",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010261,
+            -27.4137976
+          ],
+          [
+            -55.9011079,
+            -27.4134209
+          ],
+          [
+            -55.9011236,
+            -27.4133731
+          ],
+          [
+            -55.9013515,
+            -27.4124261
+          ],
+          [
+            -55.9015358,
+            -27.4116601
+          ],
+          [
+            -55.9015753,
+            -27.411496
+          ],
+          [
+            -55.901754,
+            -27.4108113
+          ],
+          [
+            -55.9017709,
+            -27.4107467
+          ],
+          [
+            -55.9018084,
+            -27.4106028
+          ],
+          [
+            -55.9018284,
+            -27.4105207
+          ],
+          [
+            -55.9020362,
+            -27.4096685
+          ],
+          [
+            -55.9021268,
+            -27.4092703
+          ],
+          [
+            -55.9022476,
+            -27.4087391
+          ],
+          [
+            -55.9024493,
+            -27.4078523
+          ],
+          [
+            -55.9025817,
+            -27.4073223
+          ],
+          [
+            -55.902644,
+            -27.4070729
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619465",
+      "properties": {
+        "@id": "way/40619465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9028715,
+            -27.4055064
+          ],
+          [
+            -55.9026854,
+            -27.4051021
+          ],
+          [
+            -55.9025042,
+            -27.404816
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726914",
+      "properties": {
+        "@id": "way/308726914",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902644,
+            -27.4070729
+          ],
+          [
+            -55.9026643,
+            -27.4069917
+          ],
+          [
+            -55.9026788,
+            -27.4069336
+          ],
+          [
+            -55.9027755,
+            -27.4064526
+          ],
+          [
+            -55.902798,
+            -27.4062106
+          ],
+          [
+            -55.9027901,
+            -27.4059898
+          ],
+          [
+            -55.9027825,
+            -27.405781
+          ],
+          [
+            -55.9027562,
+            -27.4055656
+          ],
+          [
+            -55.9028715,
+            -27.4055064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308726918",
+      "properties": {
+        "@id": "way/308726918",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9025042,
+            -27.404816
+          ],
+          [
+            -55.9024304,
+            -27.4047507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350569",
+      "properties": {
+        "@id": "way/312350569",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023708,
+            -27.4043107
+          ],
+          [
+            -55.902405,
+            -27.4042425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350570",
+      "properties": {
+        "@id": "way/312350570",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024304,
+            -27.4047507
+          ],
+          [
+            -55.902372,
+            -27.4046487
+          ],
+          [
+            -55.9023496,
+            -27.4045395
+          ],
+          [
+            -55.9023474,
+            -27.4044
+          ],
+          [
+            -55.9023708,
+            -27.4043107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263321879",
+      "properties": {
+        "@id": "way/263321879",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009387,
+            -27.4141861
+          ],
+          [
+            -55.9010053,
+            -27.4138902
+          ],
+          [
+            -55.9010261,
+            -27.4137976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509186",
+      "properties": {
+        "@id": "way/384509186",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.900398,
+            -27.4164687
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509191",
+      "properties": {
+        "@id": "way/384509191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900398,
+            -27.4164687
+          ],
+          [
+            -55.9004486,
+            -27.4161686
+          ],
+          [
+            -55.9005248,
+            -27.4158593
+          ],
+          [
+            -55.9009085,
+            -27.414317
+          ],
+          [
+            -55.9009387,
+            -27.4141861
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799997",
+      "properties": {
+        "@id": "way/293799997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022528,
+            -27.40109
+          ],
+          [
+            -55.9022599,
+            -27.401141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800000",
+      "properties": {
+        "@id": "way/293800000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022674,
+            -27.4011946
+          ],
+          [
+            -55.9023961,
+            -27.4021154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800001",
+      "properties": {
+        "@id": "way/293800001",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024763,
+            -27.402689
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314214151",
+      "properties": {
+        "@id": "way/314214151",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023961,
+            -27.4021154
+          ],
+          [
+            -55.9024119,
+            -27.4022287
+          ],
+          [
+            -55.9024763,
+            -27.402689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381023",
+      "properties": {
+        "@id": "way/340381023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022599,
+            -27.401141
+          ],
+          [
+            -55.9022674,
+            -27.4011946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800002",
+      "properties": {
+        "@id": "way/293800002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9021347,
+            -27.4002453
+          ],
+          [
+            -55.902225,
+            -27.4008908
+          ],
+          [
+            -55.9022528,
+            -27.40109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799970",
+      "properties": {
+        "@id": "way/293799970",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020373,
+            -27.3995484
+          ],
+          [
+            -55.9021347,
+            -27.4002453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799977",
+      "properties": {
+        "@id": "way/293799977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017878,
+            -27.3977627
+          ],
+          [
+            -55.9017923,
+            -27.397795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799983",
+      "properties": {
+        "@id": "way/293799983",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019095,
+            -27.3986335
+          ],
+          [
+            -55.902014,
+            -27.3993811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799986",
+      "properties": {
+        "@id": "way/293799986",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902014,
+            -27.3993811
+          ],
+          [
+            -55.9020373,
+            -27.3995484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799996",
+      "properties": {
+        "@id": "way/293799996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017982,
+            -27.397837
+          ],
+          [
+            -55.9018204,
+            -27.3979706
+          ],
+          [
+            -55.9019095,
+            -27.3986335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298202494",
+      "properties": {
+        "@id": "way/298202494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017676,
+            -27.3976183
+          ],
+          [
+            -55.9017731,
+            -27.3976576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299921856",
+      "properties": {
+        "@id": "way/299921856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017784,
+            -27.3976959
+          ],
+          [
+            -55.9017878,
+            -27.3977627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381022",
+      "properties": {
+        "@id": "way/340381022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017731,
+            -27.3976576
+          ],
+          [
+            -55.9017784,
+            -27.3976959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381024",
+      "properties": {
+        "@id": "way/340381024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017923,
+            -27.397795
+          ],
+          [
+            -55.9017982,
+            -27.397837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799989",
+      "properties": {
+        "@id": "way/293799989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900712,
+            -27.390065
+          ],
+          [
+            -55.9008454,
+            -27.3910192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799994",
+      "properties": {
+        "@id": "way/293799994",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015695,
+            -27.396201
+          ],
+          [
+            -55.9017459,
+            -27.3974633
+          ],
+          [
+            -55.9017676,
+            -27.3976183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799969",
+      "properties": {
+        "@id": "way/293799969",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014321,
+            -27.395218
+          ],
+          [
+            -55.9014445,
+            -27.3953064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799971",
+      "properties": {
+        "@id": "way/293799971",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014445,
+            -27.3953064
+          ],
+          [
+            -55.9015531,
+            -27.3960836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799978",
+      "properties": {
+        "@id": "way/293799978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009116,
+            -27.3914928
+          ],
+          [
+            -55.9009285,
+            -27.391614
+          ],
+          [
+            -55.9010422,
+            -27.3924278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799981",
+      "properties": {
+        "@id": "way/293799981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9011702,
+            -27.3933438
+          ],
+          [
+            -55.9012825,
+            -27.394147
+          ],
+          [
+            -55.9013068,
+            -27.3943209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799982",
+      "properties": {
+        "@id": "way/293799982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9008454,
+            -27.3910192
+          ],
+          [
+            -55.9008777,
+            -27.3912509
+          ],
+          [
+            -55.9009116,
+            -27.3914928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799987",
+      "properties": {
+        "@id": "way/293799987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013068,
+            -27.3943209
+          ],
+          [
+            -55.9013321,
+            -27.3945024
+          ],
+          [
+            -55.9014321,
+            -27.395218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799992",
+      "properties": {
+        "@id": "way/293799992",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010422,
+            -27.3924278
+          ],
+          [
+            -55.9011702,
+            -27.3933438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800004",
+      "properties": {
+        "@id": "way/293800004",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015531,
+            -27.3960836
+          ],
+          [
+            -55.9015695,
+            -27.396201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799968",
+      "properties": {
+        "@id": "way/293799968",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000408,
+            -27.3852614
+          ],
+          [
+            -55.9001411,
+            -27.3859797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799973",
+      "properties": {
+        "@id": "way/293799973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900628,
+            -27.3894636
+          ],
+          [
+            -55.900712,
+            -27.390065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799975",
+      "properties": {
+        "@id": "way/293799975",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002421,
+            -27.3867017
+          ],
+          [
+            -55.9002577,
+            -27.3868138
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799976",
+      "properties": {
+        "@id": "way/293799976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999096,
+            -27.3843227
+          ],
+          [
+            -55.8999589,
+            -27.3847116
+          ],
+          [
+            -55.9000247,
+            -27.3851464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799980",
+      "properties": {
+        "@id": "way/293799980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002577,
+            -27.3868138
+          ],
+          [
+            -55.900349,
+            -27.3874672
+          ],
+          [
+            -55.9003745,
+            -27.3876499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799984",
+      "properties": {
+        "@id": "way/293799984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005,
+            -27.388548
+          ],
+          [
+            -55.900628,
+            -27.3894636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799990",
+      "properties": {
+        "@id": "way/293799990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9003745,
+            -27.3876499
+          ],
+          [
+            -55.9004015,
+            -27.3878428
+          ],
+          [
+            -55.9005,
+            -27.388548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799991",
+      "properties": {
+        "@id": "way/293799991",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001411,
+            -27.3859797
+          ],
+          [
+            -55.9002421,
+            -27.3867017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799999",
+      "properties": {
+        "@id": "way/293799999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000247,
+            -27.3851464
+          ],
+          [
+            -55.9000408,
+            -27.3852614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799974",
+      "properties": {
+        "@id": "way/293799974",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8997815,
+            -27.3834058
+          ],
+          [
+            -55.8998669,
+            -27.3840173
+          ],
+          [
+            -55.8999096,
+            -27.3843227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799993",
+      "properties": {
+        "@id": "way/293799993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989741,
+            -27.3776343
+          ],
+          [
+            -55.8991141,
+            -27.3786336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127030",
+      "properties": {
+        "@id": "way/256127030",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899436,
+            -27.3809288
+          ],
+          [
+            -55.8994635,
+            -27.3811304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127031",
+      "properties": {
+        "@id": "way/256127031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994635,
+            -27.3811304
+          ],
+          [
+            -55.8996661,
+            -27.3825806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799972",
+      "properties": {
+        "@id": "way/293799972",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996661,
+            -27.3825806
+          ],
+          [
+            -55.8996781,
+            -27.3826664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799979",
+      "properties": {
+        "@id": "way/293799979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996781,
+            -27.3826664
+          ],
+          [
+            -55.8997815,
+            -27.3834058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799985",
+      "properties": {
+        "@id": "way/293799985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8993414,
+            -27.3802547
+          ],
+          [
+            -55.899392,
+            -27.3806157
+          ],
+          [
+            -55.899436,
+            -27.3809288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799995",
+      "properties": {
+        "@id": "way/293799995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8991141,
+            -27.3786336
+          ],
+          [
+            -55.899242,
+            -27.3795452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800003",
+      "properties": {
+        "@id": "way/293800003",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899242,
+            -27.3795452
+          ],
+          [
+            -55.8992688,
+            -27.3797363
+          ],
+          [
+            -55.8993414,
+            -27.3802547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259491702",
+      "properties": {
+        "@id": "way/259491702",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9270335,
+            -27.3610157
+          ],
+          [
+            -55.9271334,
+            -27.3610041
+          ],
+          [
+            -55.9279926,
+            -27.360904
+          ],
+          [
+            -55.9289121,
+            -27.3608014
+          ],
+          [
+            -55.9307424,
+            -27.3605775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489608",
+      "properties": {
+        "@id": "way/389489608",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9307424,
+            -27.3605775
+          ],
+          [
+            -55.930527,
+            -27.358939
+          ],
+          [
+            -55.9304066,
+            -27.3581311
+          ],
+          [
+            -55.9302941,
+            -27.3573288
+          ],
+          [
+            -55.9303205,
+            -27.3572311
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396473265",
+      "properties": {
+        "@id": "way/396473265",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9303205,
+            -27.3572311
+          ],
+          [
+            -55.9340386,
+            -27.3568219
+          ],
+          [
+            -55.9351224,
+            -27.3567042
+          ],
+          [
+            -55.9353856,
+            -27.3566756
+          ],
+          [
+            -55.9358887,
+            -27.3566209
+          ],
+          [
+            -55.937097,
+            -27.3564897
+          ],
+          [
+            -55.9376752,
+            -27.3564269
+          ],
+          [
+            -55.9377651,
+            -27.3564536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396462352",
+      "properties": {
+        "@id": "way/396462352",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9377651,
+            -27.3564536
+          ],
+          [
+            -55.9377425,
+            -27.3562754
+          ],
+          [
+            -55.937624,
+            -27.3555363
+          ],
+          [
+            -55.9374921,
+            -27.3547029
+          ],
+          [
+            -55.9373941,
+            -27.3540139
+          ],
+          [
+            -55.9374613,
+            -27.3539526
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340789426",
+      "properties": {
+        "@id": "way/340789426",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9233576,
+            -27.3614292
+          ],
+          [
+            -55.9242377,
+            -27.3613302
+          ],
+          [
+            -55.9251647,
+            -27.3612492
+          ],
+          [
+            -55.9260792,
+            -27.3611231
+          ],
+          [
+            -55.9270335,
+            -27.3610157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209551812",
+      "properties": {
+        "@id": "way/209551812",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9159175,
+            -27.3622256
+          ],
+          [
+            -55.9168411,
+            -27.362123
+          ],
+          [
+            -55.9178732,
+            -27.3620116
+          ],
+          [
+            -55.9196027,
+            -27.3618419
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260550461",
+      "properties": {
+        "@id": "way/260550461",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9109372,
+            -27.362748
+          ],
+          [
+            -55.9120948,
+            -27.3626198
+          ],
+          [
+            -55.9121913,
+            -27.3626091
+          ],
+          [
+            -55.9149145,
+            -27.3623014
+          ],
+          [
+            -55.9157806,
+            -27.3622116
+          ],
+          [
+            -55.9159175,
+            -27.3622256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355793191",
+      "properties": {
+        "@id": "way/355793191",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9196027,
+            -27.3618419
+          ],
+          [
+            -55.9197268,
+            -27.3618283
+          ],
+          [
+            -55.9206769,
+            -27.3617239
+          ],
+          [
+            -55.9233576,
+            -27.3614292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43967886",
+      "properties": {
+        "@id": "way/43967886",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977932,
+            -27.3744281
+          ],
+          [
+            -55.8977641,
+            -27.3741942
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785956",
+      "properties": {
+        "@id": "way/193785956",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.897634,
+            -27.3732059
+          ],
+          [
+            -55.8975336,
+            -27.3724437
+          ],
+          [
+            -55.8975149,
+            -27.3723015
+          ],
+          [
+            -55.8973893,
+            -27.3713471
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834478",
+      "properties": {
+        "@id": "way/268834478",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8982273,
+            -27.3743807
+          ],
+          [
+            -55.8977932,
+            -27.3744281
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163484",
+      "properties": {
+        "@id": "way/318163484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977641,
+            -27.3741942
+          ],
+          [
+            -55.8976525,
+            -27.3733465
+          ],
+          [
+            -55.897634,
+            -27.3732059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/193785955",
+      "properties": {
+        "@id": "way/193785955",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8973893,
+            -27.3713471
+          ],
+          [
+            -55.897263,
+            -27.370409
+          ],
+          [
+            -55.8971285,
+            -27.3694804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432302",
+      "properties": {
+        "@id": "way/256432302",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8966131,
+            -27.3657504
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8963557,
+            -27.3638877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432306",
+      "properties": {
+        "@id": "way/256432306",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8968702,
+            -27.3676112
+          ],
+          [
+            -55.8967405,
+            -27.3666727
+          ],
+          [
+            -55.8966356,
+            -27.3659133
+          ],
+          [
+            -55.8966131,
+            -27.3657504
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432308",
+      "properties": {
+        "@id": "way/256432308",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8971285,
+            -27.3694804
+          ],
+          [
+            -55.897063,
+            -27.3690064
+          ],
+          [
+            -55.8970377,
+            -27.3688235
+          ],
+          [
+            -55.8970128,
+            -27.3686428
+          ],
+          [
+            -55.8969982,
+            -27.3685372
+          ],
+          [
+            -55.8969648,
+            -27.3682953
+          ],
+          [
+            -55.8968702,
+            -27.3676112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260550463",
+      "properties": {
+        "@id": "way/260550463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9108613,
+            -27.3627316
+          ],
+          [
+            -55.9109372,
+            -27.362748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209551810",
+      "properties": {
+        "@id": "way/209551810",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900941,
+            -27.3638799
+          ],
+          [
+            -55.9019689,
+            -27.3637609
+          ],
+          [
+            -55.902841,
+            -27.3636599
+          ],
+          [
+            -55.9046052,
+            -27.3634557
+          ],
+          [
+            -55.9058903,
+            -27.363307
+          ],
+          [
+            -55.9071169,
+            -27.363165
+          ],
+          [
+            -55.9083474,
+            -27.3630226
+          ],
+          [
+            -55.9108613,
+            -27.3627316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782375",
+      "properties": {
+        "@id": "way/222782375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004121,
+            -27.3603231
+          ],
+          [
+            -55.9004677,
+            -27.3603834
+          ],
+          [
+            -55.9004786,
+            -27.3604936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432299",
+      "properties": {
+        "@id": "way/256432299",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8960965,
+            -27.3620283
+          ],
+          [
+            -55.8959659,
+            -27.3610746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432304",
+      "properties": {
+        "@id": "way/256432304",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8963557,
+            -27.3638877
+          ],
+          [
+            -55.8962243,
+            -27.3629691
+          ],
+          [
+            -55.8961101,
+            -27.3621285
+          ],
+          [
+            -55.8960965,
+            -27.3620283
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266510233",
+      "properties": {
+        "@id": "way/266510233",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900409,
+            -27.3605822
+          ],
+          [
+            -55.9004989,
+            -27.3606395
+          ],
+          [
+            -55.9006196,
+            -27.3615246
+          ],
+          [
+            -55.9006311,
+            -27.3616089
+          ],
+          [
+            -55.9007099,
+            -27.3621868
+          ],
+          [
+            -55.9008058,
+            -27.3628904
+          ],
+          [
+            -55.9008352,
+            -27.3631056
+          ],
+          [
+            -55.9008618,
+            -27.3633012
+          ],
+          [
+            -55.9008746,
+            -27.3633949
+          ],
+          [
+            -55.900941,
+            -27.3638799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834480",
+      "properties": {
+        "@id": "way/268834480",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8977428,
+            -27.360591
+          ],
+          [
+            -55.8980126,
+            -27.3605619
+          ],
+          [
+            -55.8987282,
+            -27.3604848
+          ],
+          [
+            -55.8990524,
+            -27.3604498
+          ],
+          [
+            -55.9000914,
+            -27.3603437
+          ],
+          [
+            -55.9001456,
+            -27.3603761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163485",
+      "properties": {
+        "@id": "way/318163485",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959659,
+            -27.3610746
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670147",
+      "properties": {
+        "@id": "way/318670147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004786,
+            -27.3604936
+          ],
+          [
+            -55.9004421,
+            -27.3605553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677077",
+      "properties": {
+        "@id": "way/318677077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004421,
+            -27.3605553
+          ],
+          [
+            -55.900409,
+            -27.3605822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888631",
+      "properties": {
+        "@id": "way/392888631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5989655,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 3 ramal Alem, sentido Barrio A4 - Campus Kemerer, de la ciudad Posadas",
+              "from": "Barrio A4",
+              "name": "Línea 3: Barrio A4 → x Alem → Campus Kemerer",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "3xA",
+              "route": "bus",
+              "to": "Campus \"Monseñor Jorge Kemerer\"",
+              "type": "route",
+              "via": "Avenida Leandro N. Alem"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001456,
+            -27.3603761
+          ],
+          [
+            -55.9002015,
+            -27.3603203
+          ],
+          [
+            -55.900316,
+            -27.3602918
+          ],
+          [
+            -55.9004121,
+            -27.3603231
+          ]
+        ]
+      }
+    }
+  ]
+}

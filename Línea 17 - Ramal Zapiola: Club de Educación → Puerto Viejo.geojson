@@ -1,0 +1,2302 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:23:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/355801507",
+      "properties": {
+        "@id": "way/355801507",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9395664,
+            -27.4085253
+          ],
+          [
+            -55.9397355,
+            -27.4085081
+          ],
+          [
+            -55.9398136,
+            -27.4085002
+          ],
+          [
+            -55.9407111,
+            -27.4084089
+          ],
+          [
+            -55.9411764,
+            -27.4083615
+          ],
+          [
+            -55.9417008,
+            -27.4083082
+          ],
+          [
+            -55.942527,
+            -27.4082241
+          ],
+          [
+            -55.9433951,
+            -27.4081358
+          ],
+          [
+            -55.944442,
+            -27.4080293
+          ],
+          [
+            -55.9454729,
+            -27.4079249
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43995957",
+      "properties": {
+        "@id": "way/43995957",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326167,
+            -27.4011965
+          ],
+          [
+            -55.9327386,
+            -27.4013815
+          ],
+          [
+            -55.9337299,
+            -27.4030972
+          ],
+          [
+            -55.9340277,
+            -27.4036171
+          ],
+          [
+            -55.9345009,
+            -27.4044902
+          ],
+          [
+            -55.9350326,
+            -27.4054485
+          ],
+          [
+            -55.9350851,
+            -27.4055646
+          ],
+          [
+            -55.935705,
+            -27.4066536
+          ],
+          [
+            -55.9362441,
+            -27.4078248
+          ],
+          [
+            -55.9367766,
+            -27.4087544
+          ],
+          [
+            -55.9369561,
+            -27.4088106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92248588",
+      "properties": {
+        "@id": "way/92248588",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9369561,
+            -27.4088106
+          ],
+          [
+            -55.938081,
+            -27.4086916
+          ],
+          [
+            -55.9395664,
+            -27.4085253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044185",
+      "properties": {
+        "@id": "way/379044185",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9325763,
+            -27.4009034
+          ],
+          [
+            -55.9325965,
+            -27.4010503
+          ],
+          [
+            -55.9326167,
+            -27.4011965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044190",
+      "properties": {
+        "@id": "way/379044190",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9325763,
+            -27.4009034
+          ],
+          [
+            -55.9325086,
+            -27.4008463
+          ],
+          [
+            -55.9324209,
+            -27.400197
+          ],
+          [
+            -55.9323256,
+            -27.3994913
+          ],
+          [
+            -55.9323097,
+            -27.3993732
+          ],
+          [
+            -55.9322018,
+            -27.3985745
+          ],
+          [
+            -55.9320928,
+            -27.397767
+          ],
+          [
+            -55.9320868,
+            -27.3977227
+          ],
+          [
+            -55.9320802,
+            -27.3976738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379044182",
+      "properties": {
+        "@id": "way/379044182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9320802,
+            -27.3976738
+          ],
+          [
+            -55.9319698,
+            -27.3968565
+          ],
+          [
+            -55.9318599,
+            -27.3960422
+          ],
+          [
+            -55.931754,
+            -27.3952583
+          ],
+          [
+            -55.9316367,
+            -27.3943891
+          ],
+          [
+            -55.931495,
+            -27.3933403
+          ],
+          [
+            -55.9314088,
+            -27.3927018
+          ],
+          [
+            -55.9313993,
+            -27.3926314
+          ],
+          [
+            -55.9313012,
+            -27.3919052
+          ],
+          [
+            -55.9311787,
+            -27.390998
+          ],
+          [
+            -55.9310593,
+            -27.3901132
+          ],
+          [
+            -55.9309347,
+            -27.3891905
+          ],
+          [
+            -55.9308437,
+            -27.3885167
+          ],
+          [
+            -55.9307355,
+            -27.3877155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259348799",
+      "properties": {
+        "@id": "way/259348799",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9307355,
+            -27.3877155
+          ],
+          [
+            -55.9307251,
+            -27.3876382
+          ],
+          [
+            -55.9306033,
+            -27.3868261
+          ],
+          [
+            -55.9304803,
+            -27.3859965
+          ],
+          [
+            -55.9303725,
+            -27.3851748
+          ],
+          [
+            -55.9302532,
+            -27.384402
+          ],
+          [
+            -55.9302888,
+            -27.3842895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259349328",
+      "properties": {
+        "@id": "way/259349328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9298594,
+            -27.3810477
+          ],
+          [
+            -55.9297938,
+            -27.3809813
+          ],
+          [
+            -55.9297192,
+            -27.3804314
+          ],
+          [
+            -55.929647,
+            -27.3799154
+          ],
+          [
+            -55.9295792,
+            -27.3794318
+          ],
+          [
+            -55.9295641,
+            -27.3793238
+          ],
+          [
+            -55.9294869,
+            -27.378772
+          ],
+          [
+            -55.9294104,
+            -27.3782261
+          ],
+          [
+            -55.929336,
+            -27.3776949
+          ],
+          [
+            -55.9292514,
+            -27.3770908
+          ],
+          [
+            -55.9291729,
+            -27.3765297
+          ],
+          [
+            -55.9291235,
+            -27.3761772
+          ],
+          [
+            -55.9290954,
+            -27.3759771
+          ],
+          [
+            -55.9290242,
+            -27.3754929
+          ],
+          [
+            -55.9288987,
+            -27.3745728
+          ],
+          [
+            -55.9288669,
+            -27.374346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259349331",
+      "properties": {
+        "@id": "way/259349331",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9298594,
+            -27.3810477
+          ],
+          [
+            -55.9298744,
+            -27.3811612
+          ],
+          [
+            -55.9299651,
+            -27.3818474
+          ],
+          [
+            -55.9300058,
+            -27.3821298
+          ],
+          [
+            -55.9300699,
+            -27.3826378
+          ],
+          [
+            -55.9301273,
+            -27.3830712
+          ],
+          [
+            -55.9301846,
+            -27.3834993
+          ],
+          [
+            -55.9302888,
+            -27.3842895
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156045",
+      "properties": {
+        "@id": "way/312156045",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9288669,
+            -27.374346
+          ],
+          [
+            -55.9287484,
+            -27.3734997
+          ],
+          [
+            -55.9286624,
+            -27.3728857
+          ],
+          [
+            -55.9286283,
+            -27.372642
+          ],
+          [
+            -55.928538,
+            -27.3719853
+          ],
+          [
+            -55.9285189,
+            -27.3718609
+          ],
+          [
+            -55.9283982,
+            -27.370999
+          ],
+          [
+            -55.9283305,
+            -27.3705157
+          ],
+          [
+            -55.9282005,
+            -27.3695865
+          ],
+          [
+            -55.9280681,
+            -27.3686427
+          ],
+          [
+            -55.9279338,
+            -27.3676837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156048",
+      "properties": {
+        "@id": "way/312156048",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9277018,
+            -27.3659994
+          ],
+          [
+            -55.9275815,
+            -27.365168
+          ],
+          [
+            -55.9274807,
+            -27.3644482
+          ],
+          [
+            -55.9275071,
+            -27.3643367
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766808",
+      "properties": {
+        "@id": "way/340766808",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9163177,
+            -27.3655659
+          ],
+          [
+            -55.9162452,
+            -27.3655722
+          ],
+          [
+            -55.9159699,
+            -27.3656022
+          ],
+          [
+            -55.9153088,
+            -27.3656744
+          ],
+          [
+            -55.9145603,
+            -27.3657561
+          ],
+          [
+            -55.9135918,
+            -27.3658617
+          ],
+          [
+            -55.9129211,
+            -27.3659349
+          ],
+          [
+            -55.9128579,
+            -27.3659418
+          ],
+          [
+            -55.9126466,
+            -27.3659649
+          ],
+          [
+            -55.912584,
+            -27.365971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783164",
+      "properties": {
+        "@id": "way/340783164",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9275071,
+            -27.3643367
+          ],
+          [
+            -55.9265463,
+            -27.3644448
+          ],
+          [
+            -55.9256379,
+            -27.364547
+          ],
+          [
+            -55.9247096,
+            -27.3646514
+          ],
+          [
+            -55.9241032,
+            -27.3647182
+          ],
+          [
+            -55.9238064,
+            -27.3647509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783165",
+      "properties": {
+        "@id": "way/340783165",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9238064,
+            -27.3647509
+          ],
+          [
+            -55.9234241,
+            -27.364792
+          ],
+          [
+            -55.9226821,
+            -27.3648719
+          ],
+          [
+            -55.9225074,
+            -27.3648907
+          ],
+          [
+            -55.9216331,
+            -27.3649848
+          ],
+          [
+            -55.9205946,
+            -27.3650966
+          ],
+          [
+            -55.9200499,
+            -27.3651553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312156049",
+      "properties": {
+        "@id": "way/312156049",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9279338,
+            -27.3676837
+          ],
+          [
+            -55.9278097,
+            -27.3667973
+          ],
+          [
+            -55.9277071,
+            -27.3660647
+          ],
+          [
+            -55.9277018,
+            -27.3659994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766807",
+      "properties": {
+        "@id": "way/340766807",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9200499,
+            -27.3651553
+          ],
+          [
+            -55.9181622,
+            -27.365363
+          ],
+          [
+            -55.9172561,
+            -27.3654619
+          ],
+          [
+            -55.9167091,
+            -27.3655234
+          ],
+          [
+            -55.9163782,
+            -27.3655606
+          ],
+          [
+            -55.9163177,
+            -27.3655659
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791943",
+      "properties": {
+        "@id": "way/308791943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088179,
+            -27.3663823
+          ],
+          [
+            -55.9077358,
+            -27.3664994
+          ],
+          [
+            -55.9069661,
+            -27.3665827
+          ],
+          [
+            -55.9068102,
+            -27.3665996
+          ],
+          [
+            -55.9060423,
+            -27.3666827
+          ],
+          [
+            -55.9050709,
+            -27.3667878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773130",
+      "properties": {
+        "@id": "way/374773130",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024135,
+            -27.3670757
+          ],
+          [
+            -55.9023617,
+            -27.3670813
+          ],
+          [
+            -55.9022343,
+            -27.3670952
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262400515",
+      "properties": {
+        "@id": "way/262400515",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.912584,
+            -27.365971
+          ],
+          [
+            -55.912516,
+            -27.3659784
+          ],
+          [
+            -55.9114568,
+            -27.3660937
+          ],
+          [
+            -55.9106724,
+            -27.3661791
+          ],
+          [
+            -55.9100406,
+            -27.3662478
+          ],
+          [
+            -55.9092431,
+            -27.3663346
+          ],
+          [
+            -55.9090863,
+            -27.3663527
+          ],
+          [
+            -55.9088179,
+            -27.3663823
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572035",
+      "properties": {
+        "@id": "way/340572035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9050709,
+            -27.3667878
+          ],
+          [
+            -55.9040253,
+            -27.366901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773132",
+      "properties": {
+        "@id": "way/374773132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9040253,
+            -27.366901
+          ],
+          [
+            -55.9032964,
+            -27.3669845
+          ],
+          [
+            -55.9024135,
+            -27.3670757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257525244",
+      "properties": {
+        "@id": "way/257525244",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870713,
+            -27.3658518
+          ],
+          [
+            -55.8875712,
+            -27.3657973
+          ],
+          [
+            -55.8880852,
+            -27.3657413
+          ],
+          [
+            -55.8883451,
+            -27.365713
+          ],
+          [
+            -55.8891657,
+            -27.3656235
+          ],
+          [
+            -55.8901457,
+            -27.3655167
+          ],
+          [
+            -55.8912236,
+            -27.3653993
+          ],
+          [
+            -55.8921112,
+            -27.3653025
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263550327",
+      "properties": {
+        "@id": "way/263550327",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8960724,
+            -27.369599
+          ],
+          [
+            -55.8950455,
+            -27.3697108
+          ],
+          [
+            -55.8944846,
+            -27.3697735
+          ],
+          [
+            -55.8939753,
+            -27.3698244
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.892395,
+            -27.3699962
+          ],
+          [
+            -55.8918683,
+            -27.3700564
+          ],
+          [
+            -55.8907916,
+            -27.370175
+          ],
+          [
+            -55.8900034,
+            -27.3702623
+          ],
+          [
+            -55.8898107,
+            -27.370283
+          ],
+          [
+            -55.8887306,
+            -27.3704021
+          ],
+          [
+            -55.887692,
+            -27.3705128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43968345",
+      "properties": {
+        "@id": "way/43968345",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013218,
+            -27.3690175
+          ],
+          [
+            -55.9002569,
+            -27.369135
+          ],
+          [
+            -55.8994387,
+            -27.3692253
+          ],
+          [
+            -55.8992175,
+            -27.3692497
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8971285,
+            -27.3694804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256432314",
+      "properties": {
+        "@id": "way/256432314",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8971285,
+            -27.3694804
+          ],
+          [
+            -55.8968969,
+            -27.3695076
+          ],
+          [
+            -55.8960724,
+            -27.369599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106558",
+      "properties": {
+        "@id": "way/383106558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9016365,
+            -27.3689828
+          ],
+          [
+            -55.9015074,
+            -27.368997
+          ],
+          [
+            -55.9013218,
+            -27.3690175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489606",
+      "properties": {
+        "@id": "way/389489606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.9015074,
+            -27.3680356
+          ],
+          [
+            -55.9015144,
+            -27.3680873
+          ],
+          [
+            -55.9015209,
+            -27.3681347
+          ],
+          [
+            -55.9016277,
+            -27.3689184
+          ],
+          [
+            -55.9016365,
+            -27.3689828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350573",
+      "properties": {
+        "@id": "way/312350573",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907715,
+            -27.361584
+          ],
+          [
+            -55.8907475,
+            -27.3615929
+          ],
+          [
+            -55.8907218,
+            -27.3615969
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760883",
+      "properties": {
+        "@id": "way/388760883",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907218,
+            -27.3615969
+          ],
+          [
+            -55.8906829,
+            -27.3615934
+          ],
+          [
+            -55.8906474,
+            -27.3615789
+          ],
+          [
+            -55.8906199,
+            -27.3615558
+          ],
+          [
+            -55.890598,
+            -27.3615145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489609",
+      "properties": {
+        "@id": "way/389489609",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.8908223,
+            -27.3616287
+          ],
+          [
+            -55.8907715,
+            -27.361584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340590825",
+      "properties": {
+        "@id": "way/340590825",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.890598,
+            -27.3615145
+          ],
+          [
+            -55.8896133,
+            -27.3616096
+          ],
+          [
+            -55.8889223,
+            -27.3616763
+          ],
+          [
+            -55.8880829,
+            -27.3617574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489615",
+      "properties": {
+        "@id": "way/389489615",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8879285,
+            -27.3723748
+          ],
+          [
+            -55.8876639,
+            -27.3724105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/325437109",
+      "properties": {
+        "@id": "way/325437109",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.887692,
+            -27.3705128
+          ],
+          [
+            -55.8877674,
+            -27.3711062
+          ],
+          [
+            -55.8878105,
+            -27.3714456
+          ],
+          [
+            -55.8879285,
+            -27.3723748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356652561",
+      "properties": {
+        "@id": "way/356652561",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8876639,
+            -27.3724105
+          ],
+          [
+            -55.8876341,
+            -27.3721655
+          ],
+          [
+            -55.8875506,
+            -27.3714772
+          ],
+          [
+            -55.8874625,
+            -27.3707516
+          ],
+          [
+            -55.887435,
+            -27.3705252
+          ],
+          [
+            -55.8872552,
+            -27.3690441
+          ],
+          [
+            -55.8871618,
+            -27.3688737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134706405",
+      "properties": {
+        "@id": "way/134706405",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8867318,
+            -27.3658916
+          ],
+          [
+            -55.8870713,
+            -27.3658518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260093758",
+      "properties": {
+        "@id": "way/260093758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8871618,
+            -27.3688737
+          ],
+          [
+            -55.8871103,
+            -27.3686783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/265412437",
+      "properties": {
+        "@id": "way/265412437",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.88708,
+            -27.3685612
+          ],
+          [
+            -55.8869718,
+            -27.3677306
+          ],
+          [
+            -55.8868513,
+            -27.3668065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340693570",
+      "properties": {
+        "@id": "way/340693570",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8871103,
+            -27.3686783
+          ],
+          [
+            -55.88708,
+            -27.3685612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/356688361",
+      "properties": {
+        "@id": "way/356688361",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8868513,
+            -27.3668065
+          ],
+          [
+            -55.8868191,
+            -27.3667521
+          ],
+          [
+            -55.8867135,
+            -27.3659421
+          ],
+          [
+            -55.8867318,
+            -27.3658916
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263141953",
+      "properties": {
+        "@id": "way/263141953",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6004710,
+            "reltags": {
+              "description": "Recorrido y paradas de la Línea 17 ramal Zapiola, sentido Club de Educación - Puerto Viejo, de la ciudad Posadas",
+              "from": "Club de Educación",
+              "name": "Línea 17 - Ramal Zapiola: Club de Educación → Puerto Viejo",
+              "network": "Posadas",
+              "operator": "Casimiro Zbikoski S.A.",
+              "public_transport:version": "2",
+              "ref": "17xZ",
+              "route": "bus",
+              "to": "Puerto Viejo",
+              "type": "route",
+              "via": "Avenida Zapiola"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8880829,
+            -27.3617574
+          ],
+          [
+            -55.8878755,
+            -27.3618201
+          ],
+          [
+            -55.8873686,
+            -27.3618647
+          ],
+          [
+            -55.8872519,
+            -27.3618723
+          ],
+          [
+            -55.8870229,
+            -27.3618812
+          ]
+        ]
+      }
+    }
+  ]
+}

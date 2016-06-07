@@ -1,0 +1,3521 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T11:44:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/33113122",
+      "properties": {
+        "@id": "way/33113122",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9549136,
+            -27.3986706
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33411932",
+      "properties": {
+        "@id": "way/33411932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9560252,
+            -27.3985435
+          ],
+          [
+            -55.9562468,
+            -27.3985181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255323412",
+      "properties": {
+        "@id": "way/255323412",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9564847,
+            -27.3984918
+          ],
+          [
+            -55.9569701,
+            -27.3983479
+          ],
+          [
+            -55.9573885,
+            -27.3982152
+          ],
+          [
+            -55.9577688,
+            -27.3980922
+          ],
+          [
+            -55.9581817,
+            -27.3979861
+          ],
+          [
+            -55.9586544,
+            -27.3979258
+          ],
+          [
+            -55.9588709,
+            -27.3979273
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255323413",
+      "properties": {
+        "@id": "way/255323413",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9562468,
+            -27.3985181
+          ],
+          [
+            -55.9564847,
+            -27.3984918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/397706893",
+      "properties": {
+        "@id": "way/397706893",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9588709,
+            -27.3979273
+          ],
+          [
+            -55.9591949,
+            -27.3979352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711444",
+      "properties": {
+        "@id": "way/101711444",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9591949,
+            -27.3979352
+          ],
+          [
+            -55.9594912,
+            -27.3978616
+          ],
+          [
+            -55.959567,
+            -27.3978549
+          ],
+          [
+            -55.9597084,
+            -27.3977787
+          ],
+          [
+            -55.9597927,
+            -27.3977226
+          ],
+          [
+            -55.9598952,
+            -27.3976149
+          ],
+          [
+            -55.9599582,
+            -27.397532
+          ],
+          [
+            -55.9601164,
+            -27.3972708
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255317561",
+      "properties": {
+        "@id": "way/255317561",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9601164,
+            -27.3972708
+          ],
+          [
+            -55.9613538,
+            -27.3951656
+          ],
+          [
+            -55.9614016,
+            -27.3950863
+          ],
+          [
+            -55.9616151,
+            -27.3947223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877228",
+      "properties": {
+        "@id": "way/339877228",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9549136,
+            -27.3986706
+          ],
+          [
+            -55.9531432,
+            -27.3988693
+          ],
+          [
+            -55.9523069,
+            -27.3989631
+          ],
+          [
+            -55.9517143,
+            -27.3990311
+          ],
+          [
+            -55.9514201,
+            -27.3990635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43991624",
+      "properties": {
+        "@id": "way/43991624",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9650793,
+            -27.3916327
+          ],
+          [
+            -55.9652477,
+            -27.3914749
+          ],
+          [
+            -55.9656441,
+            -27.3912525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43991626",
+      "properties": {
+        "@id": "way/43991626",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9645475,
+            -27.392238
+          ],
+          [
+            -55.9646438,
+            -27.3921477
+          ],
+          [
+            -55.9648333,
+            -27.3919701
+          ],
+          [
+            -55.9649218,
+            -27.3917962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711443",
+      "properties": {
+        "@id": "way/101711443",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9633688,
+            -27.3925502
+          ],
+          [
+            -55.9634606,
+            -27.392581
+          ],
+          [
+            -55.9635502,
+            -27.3925944
+          ],
+          [
+            -55.9636765,
+            -27.3925794
+          ],
+          [
+            -55.963856,
+            -27.3925474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/101711445",
+      "properties": {
+        "@id": "way/101711445",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9632754,
+            -27.3925186
+          ],
+          [
+            -55.963324,
+            -27.3925301
+          ],
+          [
+            -55.9633688,
+            -27.3925502
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255355142",
+      "properties": {
+        "@id": "way/255355142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9656441,
+            -27.3912525
+          ],
+          [
+            -55.9662174,
+            -27.3912563
+          ],
+          [
+            -55.9662984,
+            -27.3913362
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/259333035",
+      "properties": {
+        "@id": "way/259333035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9645475,
+            -27.392238
+          ],
+          [
+            -55.963856,
+            -27.3925474
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/319662321",
+      "properties": {
+        "@id": "way/319662321",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9616151,
+            -27.3947223
+          ],
+          [
+            -55.9617951,
+            -27.3944155
+          ],
+          [
+            -55.9620831,
+            -27.3939247
+          ],
+          [
+            -55.9621718,
+            -27.3938273
+          ],
+          [
+            -55.9622606,
+            -27.3937361
+          ],
+          [
+            -55.9627416,
+            -27.3932509
+          ],
+          [
+            -55.9628116,
+            -27.3931784
+          ],
+          [
+            -55.9628793,
+            -27.3931037
+          ],
+          [
+            -55.9629219,
+            -27.3930252
+          ],
+          [
+            -55.9629517,
+            -27.3929566
+          ],
+          [
+            -55.9630026,
+            -27.3927753
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918061",
+      "properties": {
+        "@id": "way/343918061",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.963041,
+            -27.392607
+          ],
+          [
+            -55.9630867,
+            -27.3925636
+          ],
+          [
+            -55.963144,
+            -27.3925331
+          ],
+          [
+            -55.9632085,
+            -27.3925177
+          ],
+          [
+            -55.9632754,
+            -27.3925186
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360972822",
+      "properties": {
+        "@id": "way/360972822",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9662984,
+            -27.3913362
+          ],
+          [
+            -55.9662986,
+            -27.3913457
+          ],
+          [
+            -55.9663007,
+            -27.3914422
+          ],
+          [
+            -55.9663029,
+            -27.3915457
+          ],
+          [
+            -55.9663048,
+            -27.391635
+          ],
+          [
+            -55.9663062,
+            -27.3916991
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531399",
+      "properties": {
+        "@id": "way/388531399",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9649218,
+            -27.3917962
+          ],
+          [
+            -55.9650793,
+            -27.3916327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392889698",
+      "properties": {
+        "@id": "way/392889698",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9630026,
+            -27.3927753
+          ],
+          [
+            -55.9629977,
+            -27.3927168
+          ],
+          [
+            -55.9630108,
+            -27.3926592
+          ],
+          [
+            -55.963041,
+            -27.392607
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727757",
+      "properties": {
+        "@id": "way/257727757",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9460621,
+            -27.3996634
+          ],
+          [
+            -55.9457879,
+            -27.3996935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257727758",
+      "properties": {
+        "@id": "way/257727758",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9457879,
+            -27.3996935
+          ],
+          [
+            -55.9455387,
+            -27.3997226
+          ],
+          [
+            -55.9447151,
+            -27.399815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260707184",
+      "properties": {
+        "@id": "way/260707184",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9438578,
+            -27.3999084
+          ],
+          [
+            -55.9433124,
+            -27.3999707
+          ],
+          [
+            -55.9430805,
+            -27.3999994
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962173",
+      "properties": {
+        "@id": "way/262962173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9447151,
+            -27.399815
+          ],
+          [
+            -55.944244,
+            -27.3998679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262962174",
+      "properties": {
+        "@id": "way/262962174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.944244,
+            -27.3998679
+          ],
+          [
+            -55.9438578,
+            -27.3999084
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396736567",
+      "properties": {
+        "@id": "way/396736567",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9474594,
+            -27.399507
+          ],
+          [
+            -55.9466016,
+            -27.3996033
+          ],
+          [
+            -55.9460621,
+            -27.3996634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877227",
+      "properties": {
+        "@id": "way/339877227",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9430805,
+            -27.3999994
+          ],
+          [
+            -55.9428924,
+            -27.4000195
+          ],
+          [
+            -55.9419715,
+            -27.4001228
+          ],
+          [
+            -55.9418934,
+            -27.4001298
+          ],
+          [
+            -55.9411039,
+            -27.4002202
+          ],
+          [
+            -55.9401963,
+            -27.4003202
+          ],
+          [
+            -55.9401245,
+            -27.4003301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339877229",
+      "properties": {
+        "@id": "way/339877229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9514201,
+            -27.3990635
+          ],
+          [
+            -55.950517,
+            -27.399164
+          ],
+          [
+            -55.9501498,
+            -27.3992052
+          ],
+          [
+            -55.9493056,
+            -27.3992999
+          ],
+          [
+            -55.9491901,
+            -27.3993113
+          ],
+          [
+            -55.9489742,
+            -27.3993371
+          ],
+          [
+            -55.9487541,
+            -27.3993685
+          ],
+          [
+            -55.9477973,
+            -27.3994691
+          ],
+          [
+            -55.9474594,
+            -27.399507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370333",
+      "properties": {
+        "@id": "way/340370333",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9363892,
+            -27.4007492
+          ],
+          [
+            -55.9359982,
+            -27.4007952
+          ],
+          [
+            -55.9358151,
+            -27.4008149
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396594249",
+      "properties": {
+        "@id": "way/396594249",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9401245,
+            -27.4003301
+          ],
+          [
+            -55.9399529,
+            -27.4003493
+          ],
+          [
+            -55.9398026,
+            -27.4003683
+          ],
+          [
+            -55.9390129,
+            -27.4004548
+          ],
+          [
+            -55.9372285,
+            -27.400655
+          ],
+          [
+            -55.9363892,
+            -27.4007492
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264859709",
+      "properties": {
+        "@id": "way/264859709",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9304691,
+            -27.4014135
+          ],
+          [
+            -55.9298541,
+            -27.4014691
+          ],
+          [
+            -55.9293813,
+            -27.4015146
+          ],
+          [
+            -55.928869,
+            -27.4015744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340370332",
+      "properties": {
+        "@id": "way/340370332",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9326167,
+            -27.4011965
+          ],
+          [
+            -55.9324105,
+            -27.4012201
+          ],
+          [
+            -55.9316605,
+            -27.4012798
+          ],
+          [
+            -55.9307573,
+            -27.4013812
+          ],
+          [
+            -55.9307057,
+            -27.4013898
+          ],
+          [
+            -55.9304691,
+            -27.4014135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355801506",
+      "properties": {
+        "@id": "way/355801506",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9358151,
+            -27.4008149
+          ],
+          [
+            -55.9355267,
+            -27.400846
+          ],
+          [
+            -55.9344705,
+            -27.4009645
+          ],
+          [
+            -55.9328039,
+            -27.4011747
+          ],
+          [
+            -55.9326167,
+            -27.4011965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396592708",
+      "properties": {
+        "@id": "way/396592708",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.928869,
+            -27.4015744
+          ],
+          [
+            -55.9282859,
+            -27.4016018
+          ],
+          [
+            -55.9278521,
+            -27.4016221
+          ],
+          [
+            -55.9272998,
+            -27.4016482
+          ],
+          [
+            -55.9270636,
+            -27.4016565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399773231",
+      "properties": {
+        "@id": "way/399773231",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9270636,
+            -27.4016565
+          ],
+          [
+            -55.9261031,
+            -27.4017122
+          ],
+          [
+            -55.9259213,
+            -27.4017294
+          ],
+          [
+            -55.9254568,
+            -27.4017828
+          ],
+          [
+            -55.9250711,
+            -27.40185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314360646",
+      "properties": {
+        "@id": "way/314360646",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181009,
+            -27.4027768
+          ],
+          [
+            -55.9176485,
+            -27.402829
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/339858199",
+      "properties": {
+        "@id": "way/339858199",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9213945,
+            -27.4023956
+          ],
+          [
+            -55.9213605,
+            -27.402398
+          ],
+          [
+            -55.9209364,
+            -27.402453
+          ],
+          [
+            -55.9201002,
+            -27.4025449
+          ],
+          [
+            -55.9197263,
+            -27.4025942
+          ],
+          [
+            -55.9195831,
+            -27.4026145
+          ],
+          [
+            -55.9188865,
+            -27.4026857
+          ],
+          [
+            -55.9181009,
+            -27.4027768
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918054",
+      "properties": {
+        "@id": "way/343918054",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9209839,
+            -27.3988874
+          ],
+          [
+            -55.9209927,
+            -27.3989344
+          ],
+          [
+            -55.9209973,
+            -27.3989842
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918056",
+      "properties": {
+        "@id": "way/343918056",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9209973,
+            -27.3989842
+          ],
+          [
+            -55.9208674,
+            -27.3989972
+          ],
+          [
+            -55.9198447,
+            -27.3991102
+          ],
+          [
+            -55.9196428,
+            -27.399129
+          ],
+          [
+            -55.9184141,
+            -27.3992633
+          ],
+          [
+            -55.9175041,
+            -27.3993617
+          ],
+          [
+            -55.9172809,
+            -27.399387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500923",
+      "properties": {
+        "@id": "way/272500923",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9198452,
+            -27.390584
+          ],
+          [
+            -55.9199549,
+            -27.3914299
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500925",
+      "properties": {
+        "@id": "way/272500925",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9199549,
+            -27.3914299
+          ],
+          [
+            -55.920052,
+            -27.3921349
+          ],
+          [
+            -55.9200676,
+            -27.3922477
+          ],
+          [
+            -55.9203725,
+            -27.394457
+          ],
+          [
+            -55.9205275,
+            -27.3955722
+          ],
+          [
+            -55.920538,
+            -27.3956478
+          ],
+          [
+            -55.9205449,
+            -27.3957063
+          ],
+          [
+            -55.9206474,
+            -27.3964487
+          ],
+          [
+            -55.9207611,
+            -27.3972727
+          ],
+          [
+            -55.9208349,
+            -27.3978073
+          ],
+          [
+            -55.9208723,
+            -27.3980787
+          ],
+          [
+            -55.9209839,
+            -27.3988874
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381016",
+      "properties": {
+        "@id": "way/340381016",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9250711,
+            -27.40185
+          ],
+          [
+            -55.9249577,
+            -27.4018674
+          ],
+          [
+            -55.9249137,
+            -27.4018741
+          ],
+          [
+            -55.9247604,
+            -27.4018994
+          ],
+          [
+            -55.9246444,
+            -27.4019217
+          ],
+          [
+            -55.9241217,
+            -27.4020219
+          ],
+          [
+            -55.9237479,
+            -27.4020856
+          ],
+          [
+            -55.9232162,
+            -27.402169
+          ],
+          [
+            -55.9226677,
+            -27.4022314
+          ],
+          [
+            -55.9222811,
+            -27.40229
+          ],
+          [
+            -55.92223,
+            -27.4022978
+          ],
+          [
+            -55.9219872,
+            -27.4023279
+          ],
+          [
+            -55.9216661,
+            -27.4023676
+          ],
+          [
+            -55.9214305,
+            -27.4023921
+          ],
+          [
+            -55.9213945,
+            -27.4023956
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918051",
+      "properties": {
+        "@id": "way/343918051",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9176485,
+            -27.402829
+          ],
+          [
+            -55.9174542,
+            -27.4028518
+          ],
+          [
+            -55.916988,
+            -27.4029045
+          ],
+          [
+            -55.9169085,
+            -27.4029134
+          ],
+          [
+            -55.9161018,
+            -27.4030034
+          ],
+          [
+            -55.914747,
+            -27.4031553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388605142",
+      "properties": {
+        "@id": "way/388605142",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172809,
+            -27.399387
+          ],
+          [
+            -55.9171544,
+            -27.399402
+          ],
+          [
+            -55.9155809,
+            -27.3995668
+          ],
+          [
+            -55.9134882,
+            -27.399799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500921",
+      "properties": {
+        "@id": "way/272500921",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9193861,
+            -27.3872744
+          ],
+          [
+            -55.9194971,
+            -27.3880748
+          ],
+          [
+            -55.9195855,
+            -27.3887123
+          ],
+          [
+            -55.9196077,
+            -27.3888722
+          ],
+          [
+            -55.9196185,
+            -27.3889503
+          ],
+          [
+            -55.9197179,
+            -27.3897506
+          ],
+          [
+            -55.9198251,
+            -27.390439
+          ],
+          [
+            -55.9198452,
+            -27.390584
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132229",
+      "properties": {
+        "@id": "way/389132229",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9190889,
+            -27.3855336
+          ],
+          [
+            -55.9191033,
+            -27.3856386
+          ],
+          [
+            -55.9192139,
+            -27.3864396
+          ],
+          [
+            -55.9193861,
+            -27.3872744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499794",
+      "properties": {
+        "@id": "way/272499794",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9175155,
+            -27.374131
+          ],
+          [
+            -55.9176458,
+            -27.3750755
+          ],
+          [
+            -55.9177161,
+            -27.3755843
+          ],
+          [
+            -55.9178344,
+            -27.3764424
+          ],
+          [
+            -55.9178489,
+            -27.376547
+          ],
+          [
+            -55.9179441,
+            -27.3772368
+          ],
+          [
+            -55.9179781,
+            -27.3774839
+          ],
+          [
+            -55.9180249,
+            -27.3778225
+          ],
+          [
+            -55.9180587,
+            -27.3780676
+          ],
+          [
+            -55.9181064,
+            -27.3784133
+          ],
+          [
+            -55.9181752,
+            -27.3789124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422659820",
+      "properties": {
+        "@id": "way/422659820",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9186404,
+            -27.3822836
+          ],
+          [
+            -55.9187545,
+            -27.3831107
+          ],
+          [
+            -55.9188659,
+            -27.3839177
+          ],
+          [
+            -55.9189617,
+            -27.384635
+          ],
+          [
+            -55.91898,
+            -27.3847451
+          ],
+          [
+            -55.9190238,
+            -27.385062
+          ],
+          [
+            -55.9190889,
+            -27.3855336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499787",
+      "properties": {
+        "@id": "way/272499787",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9184077,
+            -27.3805977
+          ],
+          [
+            -55.9185185,
+            -27.3814001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499790",
+      "properties": {
+        "@id": "way/272499790",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9182927,
+            -27.3797634
+          ],
+          [
+            -55.9184077,
+            -27.3805977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272500916",
+      "properties": {
+        "@id": "way/272500916",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9185185,
+            -27.3814001
+          ],
+          [
+            -55.9186069,
+            -27.3820599
+          ],
+          [
+            -55.9186296,
+            -27.3822055
+          ],
+          [
+            -55.9186404,
+            -27.3822836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389132226",
+      "properties": {
+        "@id": "way/389132226",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9181752,
+            -27.3789124
+          ],
+          [
+            -55.9182927,
+            -27.3797634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263020",
+      "properties": {
+        "@id": "way/320263020",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.914747,
+            -27.4031553
+          ],
+          [
+            -55.9146132,
+            -27.4031703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918055",
+      "properties": {
+        "@id": "way/343918055",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9137567,
+            -27.4017748
+          ],
+          [
+            -55.9137852,
+            -27.401968
+          ],
+          [
+            -55.9138371,
+            -27.4023668
+          ],
+          [
+            -55.913875,
+            -27.40267
+          ],
+          [
+            -55.9138855,
+            -27.4027548
+          ],
+          [
+            -55.9139044,
+            -27.4028831
+          ],
+          [
+            -55.9139438,
+            -27.4031507
+          ],
+          [
+            -55.9139057,
+            -27.4032515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/355792328",
+      "properties": {
+        "@id": "way/355792328",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9146132,
+            -27.4031703
+          ],
+          [
+            -55.9139057,
+            -27.4032515
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106555",
+      "properties": {
+        "@id": "way/383106555",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134882,
+            -27.399799
+          ],
+          [
+            -55.9136123,
+            -27.4007125
+          ],
+          [
+            -55.9136718,
+            -27.4011498
+          ],
+          [
+            -55.9137129,
+            -27.4014343
+          ],
+          [
+            -55.9137208,
+            -27.4015104
+          ],
+          [
+            -55.913744,
+            -27.401681
+          ],
+          [
+            -55.9137567,
+            -27.4017748
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/272499779",
+      "properties": {
+        "@id": "way/272499779",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9173945,
+            -27.3732531
+          ],
+          [
+            -55.9175155,
+            -27.374131
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918052",
+      "properties": {
+        "@id": "way/343918052",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172525,
+            -27.3722244
+          ],
+          [
+            -55.9173945,
+            -27.3732531
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531387",
+      "properties": {
+        "@id": "way/388531387",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172525,
+            -27.3722244
+          ],
+          [
+            -55.9172108,
+            -27.372229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531388",
+      "properties": {
+        "@id": "way/388531388",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9172108,
+            -27.372229
+          ],
+          [
+            -55.9171663,
+            -27.3722339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/341077789",
+      "properties": {
+        "@id": "way/341077789",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9171663,
+            -27.3722339
+          ],
+          [
+            -55.9162166,
+            -27.3723384
+          ],
+          [
+            -55.9160134,
+            -27.3723611
+          ],
+          [
+            -55.9153958,
+            -27.3724287
+          ],
+          [
+            -55.9153489,
+            -27.3724338
+          ],
+          [
+            -55.9146911,
+            -27.3725059
+          ],
+          [
+            -55.9146321,
+            -27.3725124
+          ],
+          [
+            -55.9144315,
+            -27.3725346
+          ],
+          [
+            -55.913572,
+            -27.3726291
+          ],
+          [
+            -55.9134981,
+            -27.3726434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/255588438",
+      "properties": {
+        "@id": "way/255588438",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9134981,
+            -27.3726434
+          ],
+          [
+            -55.9134253,
+            -27.3726514
+          ],
+          [
+            -55.9125244,
+            -27.3727505
+          ],
+          [
+            -55.9118035,
+            -27.3728298
+          ],
+          [
+            -55.9116185,
+            -27.3728501
+          ],
+          [
+            -55.911421,
+            -27.3728718
+          ],
+          [
+            -55.9097374,
+            -27.3730558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38663258",
+      "properties": {
+        "@id": "way/38663258",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9059929,
+            -27.3734686
+          ],
+          [
+            -55.9054159,
+            -27.3735322
+          ],
+          [
+            -55.9046636,
+            -27.3736152
+          ],
+          [
+            -55.9044291,
+            -27.373641
+          ],
+          [
+            -55.9044079,
+            -27.3736434
+          ],
+          [
+            -55.9040678,
+            -27.3736809
+          ],
+          [
+            -55.9036127,
+            -27.3737311
+          ],
+          [
+            -55.9025233,
+            -27.3738512
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918062",
+      "properties": {
+        "@id": "way/343918062",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022835,
+            -27.3737294
+          ],
+          [
+            -55.9023081,
+            -27.3737811
+          ],
+          [
+            -55.9023189,
+            -27.3738373
+          ],
+          [
+            -55.9023022,
+            -27.3738755
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572036",
+      "properties": {
+        "@id": "way/340572036",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9018476,
+            -27.3705303
+          ],
+          [
+            -55.901891,
+            -27.3708487
+          ],
+          [
+            -55.9019155,
+            -27.3710288
+          ],
+          [
+            -55.9019343,
+            -27.3711667
+          ],
+          [
+            -55.9020212,
+            -27.3718045
+          ],
+          [
+            -55.9020706,
+            -27.372153
+          ],
+          [
+            -55.9021484,
+            -27.3727373
+          ],
+          [
+            -55.9022735,
+            -27.3736546
+          ],
+          [
+            -55.9022835,
+            -27.3737294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/383106548",
+      "properties": {
+        "@id": "way/383106548",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9097374,
+            -27.3730558
+          ],
+          [
+            -55.9086073,
+            -27.3731803
+          ],
+          [
+            -55.9081026,
+            -27.373236
+          ],
+          [
+            -55.9072023,
+            -27.3733353
+          ],
+          [
+            -55.9070023,
+            -27.3733573
+          ],
+          [
+            -55.9067973,
+            -27.37338
+          ],
+          [
+            -55.9059929,
+            -27.3734686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257525244",
+      "properties": {
+        "@id": "way/257525244",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8870713,
+            -27.3658518
+          ],
+          [
+            -55.8875712,
+            -27.3657973
+          ],
+          [
+            -55.8880852,
+            -27.3657413
+          ],
+          [
+            -55.8883451,
+            -27.365713
+          ],
+          [
+            -55.8891657,
+            -27.3656235
+          ],
+          [
+            -55.8901457,
+            -27.3655167
+          ],
+          [
+            -55.8912236,
+            -27.3653993
+          ],
+          [
+            -55.8921112,
+            -27.3653025
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961578",
+      "properties": {
+        "@id": "way/262961578",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985716,
+            -27.3645929
+          ],
+          [
+            -55.8994697,
+            -27.3644947
+          ],
+          [
+            -55.8996112,
+            -27.3644792
+          ],
+          [
+            -55.9006754,
+            -27.3643628
+          ],
+          [
+            -55.9010017,
+            -27.3643271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918050",
+      "properties": {
+        "@id": "way/343918050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010017,
+            -27.3643271
+          ],
+          [
+            -55.9011279,
+            -27.3652529
+          ],
+          [
+            -55.9011406,
+            -27.365346
+          ],
+          [
+            -55.9012345,
+            -27.3660341
+          ],
+          [
+            -55.9012549,
+            -27.3661839
+          ],
+          [
+            -55.9013321,
+            -27.3667503
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489616",
+      "properties": {
+        "@id": "way/389489616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8931472,
+            -27.3651896
+          ],
+          [
+            -55.8933357,
+            -27.3651691
+          ],
+          [
+            -55.894396,
+            -27.3650535
+          ],
+          [
+            -55.8952336,
+            -27.3649623
+          ],
+          [
+            -55.8954368,
+            -27.3649401
+          ],
+          [
+            -55.8964853,
+            -27.3648258
+          ],
+          [
+            -55.8973312,
+            -27.3647337
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429750",
+      "properties": {
+        "@id": "way/256429750",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8985716,
+            -27.3645929
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262574908",
+      "properties": {
+        "@id": "way/262574908",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9016365,
+            -27.3689828
+          ],
+          [
+            -55.9016465,
+            -27.369056
+          ],
+          [
+            -55.901751,
+            -27.369823
+          ],
+          [
+            -55.9017582,
+            -27.3698756
+          ],
+          [
+            -55.9017637,
+            -27.369916
+          ],
+          [
+            -55.9017772,
+            -27.3700148
+          ],
+          [
+            -55.9018323,
+            -27.370419
+          ],
+          [
+            -55.9018476,
+            -27.3705303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489606",
+      "properties": {
+        "@id": "way/389489606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.9015074,
+            -27.3680356
+          ],
+          [
+            -55.9015144,
+            -27.3680873
+          ],
+          [
+            -55.9015209,
+            -27.3681347
+          ],
+          [
+            -55.9016277,
+            -27.3689184
+          ],
+          [
+            -55.9016365,
+            -27.3689828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43974942",
+      "properties": {
+        "@id": "way/43974942",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 5118468,
+            "reltags": {
+              "from": "Rotonda Roque Sáenz Peña",
+              "name": "Línea 28: Rotonda Roque Sáenz Peña → Aeroparque",
+              "public_transport:version": "2",
+              "ref": "28",
+              "route": "bus",
+              "to": "Aeroparque",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8869017,
+            -27.3639677
+          ],
+          [
+            -55.8868736,
+            -27.3640741
+          ],
+          [
+            -55.8869672,
+            -27.3649104
+          ],
+          [
+            -55.886989,
+            -27.3651082
+          ],
+          [
+            -55.8870713,
+            -27.3658518
+          ]
+        ]
+      }
+    }
+  ]
+}

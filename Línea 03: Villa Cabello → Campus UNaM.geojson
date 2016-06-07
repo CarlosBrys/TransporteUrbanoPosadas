@@ -1,0 +1,5024 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-06-07T12:05:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/262938236",
+      "properties": {
+        "@id": "way/262938236",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8907094,
+            -27.429772
+          ],
+          [
+            -55.8906199,
+            -27.4298683
+          ],
+          [
+            -55.8892546,
+            -27.431315
+          ],
+          [
+            -55.8888781,
+            -27.4317128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630312",
+      "properties": {
+        "@id": "way/261630312",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980939,
+            -27.4237547
+          ],
+          [
+            -55.8980454,
+            -27.423817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263284241",
+      "properties": {
+        "@id": "way/263284241",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910271,
+            -27.4292598
+          ],
+          [
+            -55.8909746,
+            -27.4293969
+          ],
+          [
+            -55.8909091,
+            -27.4295009
+          ],
+          [
+            -55.8908332,
+            -27.4296126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834475",
+      "properties": {
+        "@id": "way/268834475",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8953119,
+            -27.4262329
+          ],
+          [
+            -55.8951106,
+            -27.4263698
+          ],
+          [
+            -55.8941814,
+            -27.4269635
+          ],
+          [
+            -55.8939735,
+            -27.4270968
+          ],
+          [
+            -55.8935826,
+            -27.427372
+          ],
+          [
+            -55.8931889,
+            -27.427636
+          ],
+          [
+            -55.8930018,
+            -27.4277674
+          ],
+          [
+            -55.8921969,
+            -27.4283327
+          ],
+          [
+            -55.8914701,
+            -27.4288199
+          ],
+          [
+            -55.8910271,
+            -27.4292598
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389341620",
+      "properties": {
+        "@id": "way/389341620",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8908332,
+            -27.4296126
+          ],
+          [
+            -55.8907094,
+            -27.429772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549264",
+      "properties": {
+        "@id": "way/264549264",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989094,
+            -27.422411
+          ],
+          [
+            -55.8984768,
+            -27.4231643
+          ],
+          [
+            -55.8981314,
+            -27.4236969
+          ],
+          [
+            -55.8980939,
+            -27.4237547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509182",
+      "properties": {
+        "@id": "way/384509182",
+        "@relations": [
+          {
+            "role": "forward",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005321,
+            -27.4166073
+          ],
+          [
+            -55.9004011,
+            -27.4172459
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422803926",
+      "properties": {
+        "@id": "way/422803926",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980454,
+            -27.423817
+          ],
+          [
+            -55.8979627,
+            -27.4239233
+          ],
+          [
+            -55.8977526,
+            -27.4241719
+          ],
+          [
+            -55.897267,
+            -27.4247002
+          ],
+          [
+            -55.8970813,
+            -27.4248836
+          ],
+          [
+            -55.8969069,
+            -27.4250558
+          ],
+          [
+            -55.8964834,
+            -27.4253801
+          ],
+          [
+            -55.8963298,
+            -27.4254799
+          ],
+          [
+            -55.8956019,
+            -27.4260224
+          ],
+          [
+            -55.895368,
+            -27.4261967
+          ],
+          [
+            -55.8953119,
+            -27.4262329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927934",
+      "properties": {
+        "@id": "way/127927934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002357,
+            -27.4182096
+          ],
+          [
+            -55.8995882,
+            -27.4207689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927958",
+      "properties": {
+        "@id": "way/127927958",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004011,
+            -27.4172459
+          ],
+          [
+            -55.9003807,
+            -27.4175731
+          ],
+          [
+            -55.9002357,
+            -27.4182096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/127927965",
+      "properties": {
+        "@id": "way/127927965",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8995882,
+            -27.4207689
+          ],
+          [
+            -55.8995319,
+            -27.4209868
+          ],
+          [
+            -55.8994347,
+            -27.421113
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/261630313",
+      "properties": {
+        "@id": "way/261630313",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994347,
+            -27.421113
+          ],
+          [
+            -55.8992447,
+            -27.4216479
+          ],
+          [
+            -55.899005,
+            -27.4222179
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/264549263",
+      "properties": {
+        "@id": "way/264549263",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899005,
+            -27.4222179
+          ],
+          [
+            -55.8989635,
+            -27.4223176
+          ],
+          [
+            -55.8989094,
+            -27.422411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40619471",
+      "properties": {
+        "@id": "way/40619471",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9025709,
+            -27.403366
+          ],
+          [
+            -55.9026042,
+            -27.4034392
+          ],
+          [
+            -55.902643,
+            -27.403599
+          ],
+          [
+            -55.9027991,
+            -27.4039252
+          ],
+          [
+            -55.902954,
+            -27.4041481
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834483",
+      "properties": {
+        "@id": "way/268834483",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9029177,
+            -27.4071148
+          ],
+          [
+            -55.9028663,
+            -27.4073157
+          ],
+          [
+            -55.9028481,
+            -27.4073643
+          ],
+          [
+            -55.9028097,
+            -27.4074665
+          ],
+          [
+            -55.9025591,
+            -27.4084013
+          ],
+          [
+            -55.9024904,
+            -27.408702
+          ],
+          [
+            -55.9024833,
+            -27.4087332
+          ],
+          [
+            -55.902195,
+            -27.409898
+          ],
+          [
+            -55.9020349,
+            -27.4105386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/43970616",
+      "properties": {
+        "@id": "way/43970616",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030787,
+            -27.4047406
+          ],
+          [
+            -55.9030684,
+            -27.4050166
+          ],
+          [
+            -55.9030199,
+            -27.4054135
+          ],
+          [
+            -55.9030761,
+            -27.4060084
+          ],
+          [
+            -55.90307,
+            -27.4063518
+          ],
+          [
+            -55.9030465,
+            -27.4065071
+          ],
+          [
+            -55.9029347,
+            -27.4070347
+          ],
+          [
+            -55.9029177,
+            -27.4071148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834484",
+      "properties": {
+        "@id": "way/268834484",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902954,
+            -27.4041481
+          ],
+          [
+            -55.9030511,
+            -27.4042387
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263024",
+      "properties": {
+        "@id": "way/320263024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9031041,
+            -27.4047104
+          ],
+          [
+            -55.9030787,
+            -27.4047406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320263026",
+      "properties": {
+        "@id": "way/320263026",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9030511,
+            -27.4042387
+          ],
+          [
+            -55.9031009,
+            -27.4043345
+          ],
+          [
+            -55.9031263,
+            -27.4044688
+          ],
+          [
+            -55.9031336,
+            -27.4046082
+          ],
+          [
+            -55.9031041,
+            -27.4047104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268696596",
+      "properties": {
+        "@id": "way/268696596",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020349,
+            -27.4105386
+          ],
+          [
+            -55.9019789,
+            -27.4107808
+          ],
+          [
+            -55.9017813,
+            -27.4116354
+          ],
+          [
+            -55.9016028,
+            -27.4124076
+          ],
+          [
+            -55.901571,
+            -27.4125453
+          ],
+          [
+            -55.9015596,
+            -27.4125948
+          ],
+          [
+            -55.9015407,
+            -27.4126763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268696598",
+      "properties": {
+        "@id": "way/268696598",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015407,
+            -27.4126763
+          ],
+          [
+            -55.9014518,
+            -27.4132008
+          ],
+          [
+            -55.9013326,
+            -27.4137043
+          ],
+          [
+            -55.901302,
+            -27.4138356
+          ],
+          [
+            -55.90121,
+            -27.41423
+          ],
+          [
+            -55.9008093,
+            -27.4159488
+          ],
+          [
+            -55.900705,
+            -27.4163963
+          ],
+          [
+            -55.9006847,
+            -27.4164918
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/384509179",
+      "properties": {
+        "@id": "way/384509179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9006847,
+            -27.4164918
+          ],
+          [
+            -55.9005321,
+            -27.4166073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256262899",
+      "properties": {
+        "@id": "way/256262899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9556759,
+            -27.3647201
+          ],
+          [
+            -55.955659,
+            -27.3646885
+          ],
+          [
+            -55.9556541,
+            -27.3646573
+          ],
+          [
+            -55.9556616,
+            -27.3646151
+          ],
+          [
+            -55.9556837,
+            -27.364581
+          ],
+          [
+            -55.9557175,
+            -27.3645554
+          ],
+          [
+            -55.9557589,
+            -27.3645413
+          ],
+          [
+            -55.9558032,
+            -27.3645403
+          ],
+          [
+            -55.9558454,
+            -27.3645525
+          ],
+          [
+            -55.9558805,
+            -27.3645765
+          ],
+          [
+            -55.9559046,
+            -27.3646096
+          ],
+          [
+            -55.9559148,
+            -27.3646479
+          ],
+          [
+            -55.9559101,
+            -27.3646871
+          ],
+          [
+            -55.9558908,
+            -27.3647226
+          ],
+          [
+            -55.9558594,
+            -27.3647503
+          ],
+          [
+            -55.9558193,
+            -27.3647671
+          ],
+          [
+            -55.9557751,
+            -27.3647711
+          ],
+          [
+            -55.9557367,
+            -27.3647634
+          ],
+          [
+            -55.9557026,
+            -27.3647459
+          ],
+          [
+            -55.9556759,
+            -27.3647201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783174",
+      "properties": {
+        "@id": "way/340783174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9429139,
+            -27.3660421
+          ],
+          [
+            -55.9423099,
+            -27.3661142
+          ],
+          [
+            -55.9420143,
+            -27.3661467
+          ],
+          [
+            -55.9404448,
+            -27.366319
+          ],
+          [
+            -55.9403023,
+            -27.3663338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783181",
+      "properties": {
+        "@id": "way/340783181",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9504132,
+            -27.3652295
+          ],
+          [
+            -55.9501918,
+            -27.3652537
+          ],
+          [
+            -55.9494043,
+            -27.3653396
+          ],
+          [
+            -55.9476732,
+            -27.3655286
+          ],
+          [
+            -55.9472597,
+            -27.3655742
+          ],
+          [
+            -55.9469235,
+            -27.3656114
+          ],
+          [
+            -55.9466648,
+            -27.3656399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783182",
+      "properties": {
+        "@id": "way/340783182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541234,
+            -27.3648244
+          ],
+          [
+            -55.9532044,
+            -27.3649247
+          ],
+          [
+            -55.9522723,
+            -27.3650265
+          ],
+          [
+            -55.9517007,
+            -27.3650889
+          ],
+          [
+            -55.9513631,
+            -27.3651258
+          ],
+          [
+            -55.9504132,
+            -27.3652295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783173",
+      "properties": {
+        "@id": "way/340783173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9466648,
+            -27.3656399
+          ],
+          [
+            -55.945715,
+            -27.365744
+          ],
+          [
+            -55.9456526,
+            -27.3657507
+          ],
+          [
+            -55.9456212,
+            -27.365754
+          ],
+          [
+            -55.944831,
+            -27.3658381
+          ],
+          [
+            -55.9443798,
+            -27.3658861
+          ],
+          [
+            -55.9441499,
+            -27.3659106
+          ],
+          [
+            -55.9441168,
+            -27.3659141
+          ],
+          [
+            -55.9438846,
+            -27.3659388
+          ],
+          [
+            -55.9429139,
+            -27.3660421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799997",
+      "properties": {
+        "@id": "way/293799997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022528,
+            -27.40109
+          ],
+          [
+            -55.9022599,
+            -27.401141
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800000",
+      "properties": {
+        "@id": "way/293800000",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022674,
+            -27.4011946
+          ],
+          [
+            -55.9023961,
+            -27.4021154
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800001",
+      "properties": {
+        "@id": "way/293800001",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024763,
+            -27.402689
+          ],
+          [
+            -55.9025709,
+            -27.403366
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/314214151",
+      "properties": {
+        "@id": "way/314214151",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9023961,
+            -27.4021154
+          ],
+          [
+            -55.9024119,
+            -27.4022287
+          ],
+          [
+            -55.9024763,
+            -27.402689
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381023",
+      "properties": {
+        "@id": "way/340381023",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9022599,
+            -27.401141
+          ],
+          [
+            -55.9022674,
+            -27.4011946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800002",
+      "properties": {
+        "@id": "way/293800002",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9021347,
+            -27.4002453
+          ],
+          [
+            -55.902225,
+            -27.4008908
+          ],
+          [
+            -55.9022528,
+            -27.40109
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799970",
+      "properties": {
+        "@id": "way/293799970",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9020373,
+            -27.3995484
+          ],
+          [
+            -55.9021347,
+            -27.4002453
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799977",
+      "properties": {
+        "@id": "way/293799977",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017878,
+            -27.3977627
+          ],
+          [
+            -55.9017923,
+            -27.397795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799983",
+      "properties": {
+        "@id": "way/293799983",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9019095,
+            -27.3986335
+          ],
+          [
+            -55.902014,
+            -27.3993811
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799986",
+      "properties": {
+        "@id": "way/293799986",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.902014,
+            -27.3993811
+          ],
+          [
+            -55.9020373,
+            -27.3995484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799996",
+      "properties": {
+        "@id": "way/293799996",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017982,
+            -27.397837
+          ],
+          [
+            -55.9018204,
+            -27.3979706
+          ],
+          [
+            -55.9019095,
+            -27.3986335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298202494",
+      "properties": {
+        "@id": "way/298202494",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017676,
+            -27.3976183
+          ],
+          [
+            -55.9017731,
+            -27.3976576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/299921856",
+      "properties": {
+        "@id": "way/299921856",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017784,
+            -27.3976959
+          ],
+          [
+            -55.9017878,
+            -27.3977627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381022",
+      "properties": {
+        "@id": "way/340381022",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017731,
+            -27.3976576
+          ],
+          [
+            -55.9017784,
+            -27.3976959
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340381024",
+      "properties": {
+        "@id": "way/340381024",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9017923,
+            -27.397795
+          ],
+          [
+            -55.9017982,
+            -27.397837
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799989",
+      "properties": {
+        "@id": "way/293799989",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900712,
+            -27.390065
+          ],
+          [
+            -55.9008454,
+            -27.3910192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799994",
+      "properties": {
+        "@id": "way/293799994",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9015695,
+            -27.396201
+          ],
+          [
+            -55.9017459,
+            -27.3974633
+          ],
+          [
+            -55.9017676,
+            -27.3976183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799969",
+      "properties": {
+        "@id": "way/293799969",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014321,
+            -27.395218
+          ],
+          [
+            -55.9014445,
+            -27.3953064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799971",
+      "properties": {
+        "@id": "way/293799971",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9014445,
+            -27.3953064
+          ],
+          [
+            -55.9015531,
+            -27.3960836
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799978",
+      "properties": {
+        "@id": "way/293799978",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009116,
+            -27.3914928
+          ],
+          [
+            -55.9009285,
+            -27.391614
+          ],
+          [
+            -55.9010422,
+            -27.3924278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799981",
+      "properties": {
+        "@id": "way/293799981",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9011702,
+            -27.3933438
+          ],
+          [
+            -55.9012825,
+            -27.394147
+          ],
+          [
+            -55.9013068,
+            -27.3943209
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799982",
+      "properties": {
+        "@id": "way/293799982",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9008454,
+            -27.3910192
+          ],
+          [
+            -55.9008777,
+            -27.3912509
+          ],
+          [
+            -55.9009116,
+            -27.3914928
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799987",
+      "properties": {
+        "@id": "way/293799987",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013068,
+            -27.3943209
+          ],
+          [
+            -55.9013321,
+            -27.3945024
+          ],
+          [
+            -55.9014321,
+            -27.395218
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799992",
+      "properties": {
+        "@id": "way/293799992",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010422,
+            -27.3924278
+          ],
+          [
+            -55.9011702,
+            -27.3933438
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799968",
+      "properties": {
+        "@id": "way/293799968",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000408,
+            -27.3852614
+          ],
+          [
+            -55.9001411,
+            -27.3859797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799973",
+      "properties": {
+        "@id": "way/293799973",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900628,
+            -27.3894636
+          ],
+          [
+            -55.900712,
+            -27.390065
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799976",
+      "properties": {
+        "@id": "way/293799976",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8999096,
+            -27.3843227
+          ],
+          [
+            -55.8999589,
+            -27.3847116
+          ],
+          [
+            -55.9000247,
+            -27.3851464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799980",
+      "properties": {
+        "@id": "way/293799980",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002577,
+            -27.3868138
+          ],
+          [
+            -55.900349,
+            -27.3874672
+          ],
+          [
+            -55.9003745,
+            -27.3876499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799984",
+      "properties": {
+        "@id": "way/293799984",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005,
+            -27.388548
+          ],
+          [
+            -55.900628,
+            -27.3894636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799990",
+      "properties": {
+        "@id": "way/293799990",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9003745,
+            -27.3876499
+          ],
+          [
+            -55.9004015,
+            -27.3878428
+          ],
+          [
+            -55.9005,
+            -27.388548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799991",
+      "properties": {
+        "@id": "way/293799991",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001411,
+            -27.3859797
+          ],
+          [
+            -55.9002421,
+            -27.3867017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799999",
+      "properties": {
+        "@id": "way/293799999",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9000247,
+            -27.3851464
+          ],
+          [
+            -55.9000408,
+            -27.3852614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799974",
+      "properties": {
+        "@id": "way/293799974",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8997815,
+            -27.3834058
+          ],
+          [
+            -55.8998669,
+            -27.3840173
+          ],
+          [
+            -55.8999096,
+            -27.3843227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799993",
+      "properties": {
+        "@id": "way/293799993",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989741,
+            -27.3776343
+          ],
+          [
+            -55.8991141,
+            -27.3786336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127030",
+      "properties": {
+        "@id": "way/256127030",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899436,
+            -27.3809288
+          ],
+          [
+            -55.8994635,
+            -27.3811304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256127031",
+      "properties": {
+        "@id": "way/256127031",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8994635,
+            -27.3811304
+          ],
+          [
+            -55.8996661,
+            -27.3825806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799972",
+      "properties": {
+        "@id": "way/293799972",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996661,
+            -27.3825806
+          ],
+          [
+            -55.8996781,
+            -27.3826664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799979",
+      "properties": {
+        "@id": "way/293799979",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8996781,
+            -27.3826664
+          ],
+          [
+            -55.8997815,
+            -27.3834058
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799985",
+      "properties": {
+        "@id": "way/293799985",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8993414,
+            -27.3802547
+          ],
+          [
+            -55.899392,
+            -27.3806157
+          ],
+          [
+            -55.899436,
+            -27.3809288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799995",
+      "properties": {
+        "@id": "way/293799995",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8991141,
+            -27.3786336
+          ],
+          [
+            -55.899242,
+            -27.3795452
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800003",
+      "properties": {
+        "@id": "way/293800003",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.899242,
+            -27.3795452
+          ],
+          [
+            -55.8992688,
+            -27.3797363
+          ],
+          [
+            -55.8993414,
+            -27.3802547
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783172",
+      "properties": {
+        "@id": "way/340783172",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9317227,
+            -27.36727
+          ],
+          [
+            -55.9316522,
+            -27.3672777
+          ],
+          [
+            -55.9314942,
+            -27.367295
+          ],
+          [
+            -55.9311561,
+            -27.3673319
+          ],
+          [
+            -55.9307422,
+            -27.3673771
+          ],
+          [
+            -55.9300969,
+            -27.3674475
+          ],
+          [
+            -55.9298676,
+            -27.3674773
+          ],
+          [
+            -55.9290417,
+            -27.3675627
+          ],
+          [
+            -55.9289266,
+            -27.3675753
+          ],
+          [
+            -55.9282757,
+            -27.3676463
+          ],
+          [
+            -55.9280504,
+            -27.3676709
+          ],
+          [
+            -55.9279944,
+            -27.367677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783179",
+      "properties": {
+        "@id": "way/340783179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9354433,
+            -27.3668638
+          ],
+          [
+            -55.9343656,
+            -27.3669815
+          ],
+          [
+            -55.9328608,
+            -27.3671402
+          ],
+          [
+            -55.9321328,
+            -27.3672235
+          ],
+          [
+            -55.931792,
+            -27.3672625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260694027",
+      "properties": {
+        "@id": "way/260694027",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9398122,
+            -27.3663888
+          ],
+          [
+            -55.9392828,
+            -27.3664447
+          ],
+          [
+            -55.9392149,
+            -27.3664521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260694028",
+      "properties": {
+        "@id": "way/260694028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9403023,
+            -27.3663338
+          ],
+          [
+            -55.9398122,
+            -27.3663888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783176",
+      "properties": {
+        "@id": "way/340783176",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9392149,
+            -27.3664521
+          ],
+          [
+            -55.9391581,
+            -27.3664583
+          ],
+          [
+            -55.9382232,
+            -27.3665642
+          ],
+          [
+            -55.9372489,
+            -27.3666666
+          ],
+          [
+            -55.9357198,
+            -27.3668336
+          ],
+          [
+            -55.9354433,
+            -27.3668638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421724",
+      "properties": {
+        "@id": "way/394421724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.931792,
+            -27.3672625
+          ],
+          [
+            -55.9317227,
+            -27.36727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766819",
+      "properties": {
+        "@id": "way/340766819",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9167225,
+            -27.368907
+          ],
+          [
+            -55.9158698,
+            -27.3690007
+          ],
+          [
+            -55.9155906,
+            -27.369031
+          ],
+          [
+            -55.9150139,
+            -27.3690942
+          ],
+          [
+            -55.9145379,
+            -27.3691458
+          ],
+          [
+            -55.9142683,
+            -27.369175
+          ],
+          [
+            -55.9131253,
+            -27.3693004
+          ],
+          [
+            -55.913054,
+            -27.3693106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766824",
+      "properties": {
+        "@id": "way/340766824",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9242572,
+            -27.3680851
+          ],
+          [
+            -55.924209,
+            -27.3680903
+          ],
+          [
+            -55.9232465,
+            -27.3681947
+          ],
+          [
+            -55.9223999,
+            -27.3682878
+          ],
+          [
+            -55.9217776,
+            -27.3683568
+          ],
+          [
+            -55.9215293,
+            -27.3683829
+          ],
+          [
+            -55.920752,
+            -27.3684678
+          ],
+          [
+            -55.9205693,
+            -27.3684877
+          ],
+          [
+            -55.9205261,
+            -27.3684924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766813",
+      "properties": {
+        "@id": "way/340766813",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9279944,
+            -27.367677
+          ],
+          [
+            -55.9279338,
+            -27.3676837
+          ],
+          [
+            -55.9274277,
+            -27.3677389
+          ],
+          [
+            -55.9268718,
+            -27.3677996
+          ],
+          [
+            -55.9267191,
+            -27.3678163
+          ],
+          [
+            -55.926634,
+            -27.3678256
+          ],
+          [
+            -55.9263696,
+            -27.3678544
+          ],
+          [
+            -55.925819,
+            -27.3679145
+          ],
+          [
+            -55.9256443,
+            -27.36793
+          ],
+          [
+            -55.9247856,
+            -27.3680274
+          ],
+          [
+            -55.9244181,
+            -27.3680675
+          ],
+          [
+            -55.9243074,
+            -27.3680796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422659817",
+      "properties": {
+        "@id": "way/422659817",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9243074,
+            -27.3680796
+          ],
+          [
+            -55.9242572,
+            -27.3680851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766828",
+      "properties": {
+        "@id": "way/340766828",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9205261,
+            -27.3684924
+          ],
+          [
+            -55.9204769,
+            -27.3684978
+          ],
+          [
+            -55.9194393,
+            -27.3686111
+          ],
+          [
+            -55.9186189,
+            -27.3687006
+          ],
+          [
+            -55.9183939,
+            -27.3687252
+          ],
+          [
+            -55.9177453,
+            -27.368796
+          ],
+          [
+            -55.9173596,
+            -27.3688379
+          ],
+          [
+            -55.916811,
+            -27.3688998
+          ],
+          [
+            -55.9167661,
+            -27.3689035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421725",
+      "properties": {
+        "@id": "way/394421725",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9167661,
+            -27.3689035
+          ],
+          [
+            -55.9167225,
+            -27.368907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791943",
+      "properties": {
+        "@id": "way/308791943",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088179,
+            -27.3663823
+          ],
+          [
+            -55.9077358,
+            -27.3664994
+          ],
+          [
+            -55.9069661,
+            -27.3665827
+          ],
+          [
+            -55.9068102,
+            -27.3665996
+          ],
+          [
+            -55.9060423,
+            -27.3666827
+          ],
+          [
+            -55.9050709,
+            -27.3667878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773130",
+      "properties": {
+        "@id": "way/374773130",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9024135,
+            -27.3670757
+          ],
+          [
+            -55.9023617,
+            -27.3670813
+          ],
+          [
+            -55.9022343,
+            -27.3670952
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791935",
+      "properties": {
+        "@id": "way/308791935",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9088179,
+            -27.3663823
+          ],
+          [
+            -55.9088883,
+            -27.3668954
+          ],
+          [
+            -55.9090215,
+            -27.3678659
+          ],
+          [
+            -55.9090468,
+            -27.3680507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572042",
+      "properties": {
+        "@id": "way/340572042",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.913054,
+            -27.3693106
+          ],
+          [
+            -55.9130163,
+            -27.3693147
+          ],
+          [
+            -55.9118952,
+            -27.3694367
+          ],
+          [
+            -55.9116543,
+            -27.369463
+          ],
+          [
+            -55.9111538,
+            -27.3695174
+          ],
+          [
+            -55.9107823,
+            -27.3695579
+          ],
+          [
+            -55.9105212,
+            -27.3695863
+          ],
+          [
+            -55.9092763,
+            -27.369723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374691305",
+      "properties": {
+        "@id": "way/374691305",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9090468,
+            -27.3680507
+          ],
+          [
+            -55.9091692,
+            -27.3689426
+          ],
+          [
+            -55.9092512,
+            -27.36954
+          ],
+          [
+            -55.9092763,
+            -27.369723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572035",
+      "properties": {
+        "@id": "way/340572035",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9050709,
+            -27.3667878
+          ],
+          [
+            -55.9040253,
+            -27.366901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374773132",
+      "properties": {
+        "@id": "way/374773132",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9040253,
+            -27.366901
+          ],
+          [
+            -55.9032964,
+            -27.3669845
+          ],
+          [
+            -55.9024135,
+            -27.3670757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113067",
+      "properties": {
+        "@id": "way/33113067",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985181,
+            -27.374349
+          ],
+          [
+            -55.8986485,
+            -27.3752976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429739",
+      "properties": {
+        "@id": "way/256429739",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8985429,
+            -27.3721775
+          ],
+          [
+            -55.8986611,
+            -27.3729639
+          ],
+          [
+            -55.8986888,
+            -27.3730964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834477",
+      "properties": {
+        "@id": "way/268834477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.898857,
+            -27.374312
+          ],
+          [
+            -55.8985181,
+            -27.374349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799988",
+      "properties": {
+        "@id": "way/293799988",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8989089,
+            -27.3771612
+          ],
+          [
+            -55.8989297,
+            -27.3773101
+          ],
+          [
+            -55.8989513,
+            -27.377465
+          ],
+          [
+            -55.8989741,
+            -27.3776343
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293799998",
+      "properties": {
+        "@id": "way/293799998",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986769,
+            -27.3755009
+          ],
+          [
+            -55.8987792,
+            -27.3762334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/293800005",
+      "properties": {
+        "@id": "way/293800005",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8987792,
+            -27.3762334
+          ],
+          [
+            -55.8988073,
+            -27.376324
+          ],
+          [
+            -55.8989089,
+            -27.3771612
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318162526",
+      "properties": {
+        "@id": "way/318162526",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8988249,
+            -27.37408
+          ],
+          [
+            -55.898857,
+            -27.374312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318163486",
+      "properties": {
+        "@id": "way/318163486",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986888,
+            -27.3730964
+          ],
+          [
+            -55.8988249,
+            -27.37408
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398397575",
+      "properties": {
+        "@id": "way/398397575",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8986485,
+            -27.3752976
+          ],
+          [
+            -55.8986769,
+            -27.3755009
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429733",
+      "properties": {
+        "@id": "way/256429733",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8972733,
+            -27.3628551
+          ],
+          [
+            -55.8973941,
+            -27.3637767
+          ],
+          [
+            -55.8974928,
+            -27.3645304
+          ],
+          [
+            -55.8975177,
+            -27.3647082
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256429740",
+      "properties": {
+        "@id": "way/256429740",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8982977,
+            -27.3702971
+          ],
+          [
+            -55.8984189,
+            -27.3712331
+          ],
+          [
+            -55.8985429,
+            -27.3721775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791933",
+      "properties": {
+        "@id": "way/308791933",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010558,
+            -27.3671017
+          ],
+          [
+            -55.9009551,
+            -27.3663765
+          ],
+          [
+            -55.9009307,
+            -27.366201
+          ],
+          [
+            -55.9009196,
+            -27.3661212
+          ],
+          [
+            -55.9008159,
+            -27.3653748
+          ],
+          [
+            -55.9008044,
+            -27.365292
+          ],
+          [
+            -55.9007668,
+            -27.3650212
+          ],
+          [
+            -55.9006754,
+            -27.3643628
+          ],
+          [
+            -55.9006202,
+            -27.3639666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961463",
+      "properties": {
+        "@id": "way/262961463",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8980312,
+            -27.3684246
+          ],
+          [
+            -55.8981006,
+            -27.3688942
+          ],
+          [
+            -55.8981687,
+            -27.3693655
+          ],
+          [
+            -55.8982977,
+            -27.3702971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961477",
+      "properties": {
+        "@id": "way/262961477",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8977736,
+            -27.3665601
+          ],
+          [
+            -55.8979032,
+            -27.3674986
+          ],
+          [
+            -55.8980036,
+            -27.3682251
+          ],
+          [
+            -55.8980312,
+            -27.3684246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961490",
+      "properties": {
+        "@id": "way/262961490",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8975177,
+            -27.3647082
+          ],
+          [
+            -55.8976461,
+            -27.3656374
+          ],
+          [
+            -55.8977736,
+            -27.3665601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107247",
+      "properties": {
+        "@id": "way/303107247",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.901082,
+            -27.3672903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489605",
+      "properties": {
+        "@id": "way/389489605",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901082,
+            -27.3672903
+          ],
+          [
+            -55.9010631,
+            -27.3671542
+          ],
+          [
+            -55.9010558,
+            -27.3671017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113064",
+      "properties": {
+        "@id": "way/33113064",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001884,
+            -27.360574
+          ],
+          [
+            -55.9001466,
+            -27.3606278
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262961591",
+      "properties": {
+        "@id": "way/262961591",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8970101,
+            -27.3609632
+          ],
+          [
+            -55.8971212,
+            -27.3617617
+          ],
+          [
+            -55.8971417,
+            -27.3619094
+          ],
+          [
+            -55.8972733,
+            -27.3628551
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791932",
+      "properties": {
+        "@id": "way/308791932",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9002218,
+            -27.3605939
+          ],
+          [
+            -55.9001884,
+            -27.360574
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/354245465",
+      "properties": {
+        "@id": "way/354245465",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001466,
+            -27.3606278
+          ],
+          [
+            -55.8996283,
+            -27.3606839
+          ],
+          [
+            -55.8994756,
+            -27.3607002
+          ],
+          [
+            -55.8993796,
+            -27.3607105
+          ],
+          [
+            -55.8990928,
+            -27.3607411
+          ],
+          [
+            -55.8980528,
+            -27.3608519
+          ],
+          [
+            -55.8970101,
+            -27.3609632
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388531386",
+      "properties": {
+        "@id": "way/388531386",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9005459,
+            -27.3634306
+          ],
+          [
+            -55.9005329,
+            -27.3633368
+          ],
+          [
+            -55.9004428,
+            -27.3626877
+          ],
+          [
+            -55.9004165,
+            -27.3624988
+          ],
+          [
+            -55.9004007,
+            -27.3623849
+          ],
+          [
+            -55.9002974,
+            -27.3616411
+          ],
+          [
+            -55.9002863,
+            -27.3615608
+          ],
+          [
+            -55.9001631,
+            -27.3606738
+          ],
+          [
+            -55.9002218,
+            -27.3605939
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639786",
+      "properties": {
+        "@id": "way/398639786",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9006202,
+            -27.3639666
+          ],
+          [
+            -55.9006134,
+            -27.3639178
+          ],
+          [
+            -55.9005459,
+            -27.3634306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281102",
+      "properties": {
+        "@id": "way/198281102",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8888781,
+            -27.4317128
+          ],
+          [
+            -55.8890461,
+            -27.4318268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/198281104",
+      "properties": {
+        "@id": "way/198281104",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8890461,
+            -27.4318268
+          ],
+          [
+            -55.8889107,
+            -27.4320507
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834487",
+      "properties": {
+        "@id": "way/268834487",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8887601,
+            -27.4322765
+          ],
+          [
+            -55.8886467,
+            -27.4323907
+          ],
+          [
+            -55.8884793,
+            -27.4325087
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308787127",
+      "properties": {
+        "@id": "way/308787127",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8884793,
+            -27.4325087
+          ],
+          [
+            -55.8882512,
+            -27.4326688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350572",
+      "properties": {
+        "@id": "way/312350572",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 4123802,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Villa Cabello",
+              "name": "Línea 03: Villa Cabello → Campus UNaM",
+              "operator": "Casimiro Zbikoski S.A. - Tipoka S.A.",
+              "ref": "03",
+              "route": "bus",
+              "to": "Estación de Transferencia Campus UNaM",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8889107,
+            -27.4320507
+          ],
+          [
+            -55.8887601,
+            -27.4322765
+          ]
+        ]
+      }
+    }
+  ]
+}
