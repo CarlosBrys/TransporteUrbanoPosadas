@@ -1,0 +1,2564 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-01T12:49:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/144841997",
+      "properties": {
+        "@id": "way/144841997",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9556541,
+            -27.3646573
+          ],
+          [
+            -55.9555791,
+            -27.3646655
+          ],
+          [
+            -55.9554772,
+            -27.3646766
+          ],
+          [
+            -55.9553622,
+            -27.3646892
+          ],
+          [
+            -55.9549174,
+            -27.3647377
+          ],
+          [
+            -55.9541234,
+            -27.3648244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/256262899",
+      "properties": {
+        "@id": "way/256262899",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9556759,
+            -27.3647201
+          ],
+          [
+            -55.955659,
+            -27.3646885
+          ],
+          [
+            -55.9556541,
+            -27.3646573
+          ],
+          [
+            -55.9556616,
+            -27.3646151
+          ],
+          [
+            -55.9556837,
+            -27.364581
+          ],
+          [
+            -55.9557175,
+            -27.3645554
+          ],
+          [
+            -55.9557589,
+            -27.3645413
+          ],
+          [
+            -55.9558032,
+            -27.3645403
+          ],
+          [
+            -55.9558454,
+            -27.3645525
+          ],
+          [
+            -55.9558805,
+            -27.3645765
+          ],
+          [
+            -55.9559046,
+            -27.3646096
+          ],
+          [
+            -55.9559148,
+            -27.3646479
+          ],
+          [
+            -55.9559101,
+            -27.3646871
+          ],
+          [
+            -55.9558908,
+            -27.3647226
+          ],
+          [
+            -55.9558594,
+            -27.3647503
+          ],
+          [
+            -55.9558193,
+            -27.3647671
+          ],
+          [
+            -55.9557751,
+            -27.3647711
+          ],
+          [
+            -55.9557367,
+            -27.3647634
+          ],
+          [
+            -55.9557026,
+            -27.3647459
+          ],
+          [
+            -55.9556759,
+            -27.3647201
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783174",
+      "properties": {
+        "@id": "way/340783174",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9429139,
+            -27.3660421
+          ],
+          [
+            -55.9423099,
+            -27.3661142
+          ],
+          [
+            -55.9420143,
+            -27.3661467
+          ],
+          [
+            -55.9404448,
+            -27.366319
+          ],
+          [
+            -55.9403023,
+            -27.3663338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783181",
+      "properties": {
+        "@id": "way/340783181",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9504132,
+            -27.3652295
+          ],
+          [
+            -55.9501918,
+            -27.3652537
+          ],
+          [
+            -55.9494043,
+            -27.3653396
+          ],
+          [
+            -55.9476732,
+            -27.3655286
+          ],
+          [
+            -55.9472597,
+            -27.3655742
+          ],
+          [
+            -55.9469235,
+            -27.3656114
+          ],
+          [
+            -55.9466648,
+            -27.3656399
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783182",
+      "properties": {
+        "@id": "way/340783182",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9541234,
+            -27.3648244
+          ],
+          [
+            -55.9532044,
+            -27.3649247
+          ],
+          [
+            -55.9522723,
+            -27.3650265
+          ],
+          [
+            -55.9517007,
+            -27.3650889
+          ],
+          [
+            -55.9513631,
+            -27.3651258
+          ],
+          [
+            -55.9504132,
+            -27.3652295
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783173",
+      "properties": {
+        "@id": "way/340783173",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9466648,
+            -27.3656399
+          ],
+          [
+            -55.945715,
+            -27.365744
+          ],
+          [
+            -55.9456526,
+            -27.3657507
+          ],
+          [
+            -55.9456212,
+            -27.365754
+          ],
+          [
+            -55.944831,
+            -27.3658381
+          ],
+          [
+            -55.9443798,
+            -27.3658861
+          ],
+          [
+            -55.9441499,
+            -27.3659106
+          ],
+          [
+            -55.9441168,
+            -27.3659141
+          ],
+          [
+            -55.9438846,
+            -27.3659388
+          ],
+          [
+            -55.9429139,
+            -27.3660421
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350558",
+      "properties": {
+        "@id": "way/312350558",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891104,
+            -27.3751583
+          ],
+          [
+            -55.8912128,
+            -27.3759856
+          ],
+          [
+            -55.8912359,
+            -27.3761383
+          ],
+          [
+            -55.8912636,
+            -27.3763461
+          ],
+          [
+            -55.8912825,
+            -27.3765403
+          ],
+          [
+            -55.8914251,
+            -27.3775595
+          ],
+          [
+            -55.8915398,
+            -27.3784476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396315394",
+      "properties": {
+        "@id": "way/396315394",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8877728,
+            -27.3788034
+          ],
+          [
+            -55.8886693,
+            -27.3787088
+          ],
+          [
+            -55.8895384,
+            -27.3786173
+          ],
+          [
+            -55.8896122,
+            -27.3786095
+          ],
+          [
+            -55.8914472,
+            -27.378413
+          ],
+          [
+            -55.8915398,
+            -27.3784476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783172",
+      "properties": {
+        "@id": "way/340783172",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9317227,
+            -27.36727
+          ],
+          [
+            -55.9316522,
+            -27.3672777
+          ],
+          [
+            -55.9314942,
+            -27.367295
+          ],
+          [
+            -55.9311561,
+            -27.3673319
+          ],
+          [
+            -55.9307422,
+            -27.3673771
+          ],
+          [
+            -55.9300969,
+            -27.3674475
+          ],
+          [
+            -55.9298676,
+            -27.3674773
+          ],
+          [
+            -55.9290417,
+            -27.3675627
+          ],
+          [
+            -55.9289266,
+            -27.3675753
+          ],
+          [
+            -55.9282757,
+            -27.3676463
+          ],
+          [
+            -55.9280504,
+            -27.3676709
+          ],
+          [
+            -55.9279944,
+            -27.367677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783179",
+      "properties": {
+        "@id": "way/340783179",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9354433,
+            -27.3668638
+          ],
+          [
+            -55.9343656,
+            -27.3669815
+          ],
+          [
+            -55.9328608,
+            -27.3671402
+          ],
+          [
+            -55.9321328,
+            -27.3672235
+          ],
+          [
+            -55.931792,
+            -27.3672625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260694027",
+      "properties": {
+        "@id": "way/260694027",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9398122,
+            -27.3663888
+          ],
+          [
+            -55.9392828,
+            -27.3664447
+          ],
+          [
+            -55.9392149,
+            -27.3664521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/260694028",
+      "properties": {
+        "@id": "way/260694028",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9403023,
+            -27.3663338
+          ],
+          [
+            -55.9398122,
+            -27.3663888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340783176",
+      "properties": {
+        "@id": "way/340783176",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9392149,
+            -27.3664521
+          ],
+          [
+            -55.9391581,
+            -27.3664583
+          ],
+          [
+            -55.9382232,
+            -27.3665642
+          ],
+          [
+            -55.9372489,
+            -27.3666666
+          ],
+          [
+            -55.9357198,
+            -27.3668336
+          ],
+          [
+            -55.9354433,
+            -27.3668638
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421724",
+      "properties": {
+        "@id": "way/394421724",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.931792,
+            -27.3672625
+          ],
+          [
+            -55.9317227,
+            -27.36727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766819",
+      "properties": {
+        "@id": "way/340766819",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9167225,
+            -27.368907
+          ],
+          [
+            -55.9158698,
+            -27.3690007
+          ],
+          [
+            -55.9155906,
+            -27.369031
+          ],
+          [
+            -55.9150139,
+            -27.3690942
+          ],
+          [
+            -55.9145379,
+            -27.3691458
+          ],
+          [
+            -55.9142683,
+            -27.369175
+          ],
+          [
+            -55.9131253,
+            -27.3693004
+          ],
+          [
+            -55.913054,
+            -27.3693106
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766824",
+      "properties": {
+        "@id": "way/340766824",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9242572,
+            -27.3680851
+          ],
+          [
+            -55.924209,
+            -27.3680903
+          ],
+          [
+            -55.9232465,
+            -27.3681947
+          ],
+          [
+            -55.9223999,
+            -27.3682878
+          ],
+          [
+            -55.9217776,
+            -27.3683568
+          ],
+          [
+            -55.9215293,
+            -27.3683829
+          ],
+          [
+            -55.920752,
+            -27.3684678
+          ],
+          [
+            -55.9205693,
+            -27.3684877
+          ],
+          [
+            -55.9205261,
+            -27.3684924
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766813",
+      "properties": {
+        "@id": "way/340766813",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9279944,
+            -27.367677
+          ],
+          [
+            -55.9279338,
+            -27.3676837
+          ],
+          [
+            -55.9274277,
+            -27.3677389
+          ],
+          [
+            -55.9268718,
+            -27.3677996
+          ],
+          [
+            -55.9267191,
+            -27.3678163
+          ],
+          [
+            -55.926634,
+            -27.3678256
+          ],
+          [
+            -55.9263696,
+            -27.3678544
+          ],
+          [
+            -55.925819,
+            -27.3679145
+          ],
+          [
+            -55.9256443,
+            -27.36793
+          ],
+          [
+            -55.9247856,
+            -27.3680274
+          ],
+          [
+            -55.9244181,
+            -27.3680675
+          ],
+          [
+            -55.9243074,
+            -27.3680796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422659817",
+      "properties": {
+        "@id": "way/422659817",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9243074,
+            -27.3680796
+          ],
+          [
+            -55.9242572,
+            -27.3680851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340766828",
+      "properties": {
+        "@id": "way/340766828",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9205261,
+            -27.3684924
+          ],
+          [
+            -55.9204769,
+            -27.3684978
+          ],
+          [
+            -55.9194393,
+            -27.3686111
+          ],
+          [
+            -55.9186189,
+            -27.3687006
+          ],
+          [
+            -55.9183939,
+            -27.3687252
+          ],
+          [
+            -55.9177453,
+            -27.368796
+          ],
+          [
+            -55.9173596,
+            -27.3688379
+          ],
+          [
+            -55.916811,
+            -27.3688998
+          ],
+          [
+            -55.9167661,
+            -27.3689035
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394421725",
+      "properties": {
+        "@id": "way/394421725",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9167661,
+            -27.3689035
+          ],
+          [
+            -55.9167225,
+            -27.368907
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308788886",
+      "properties": {
+        "@id": "way/308788886",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9092763,
+            -27.369723
+          ],
+          [
+            -55.9081471,
+            -27.3698452
+          ],
+          [
+            -55.9073128,
+            -27.3699355
+          ],
+          [
+            -55.9072026,
+            -27.3699474
+          ],
+          [
+            -55.9060993,
+            -27.3700668
+          ],
+          [
+            -55.9055294,
+            -27.3701285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/308791934",
+      "properties": {
+        "@id": "way/308791934",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9055294,
+            -27.3701285
+          ],
+          [
+            -55.9046818,
+            -27.3702216
+          ],
+          [
+            -55.9044865,
+            -27.3702431
+          ],
+          [
+            -55.9028576,
+            -27.3704203
+          ],
+          [
+            -55.9018476,
+            -27.3705303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340572042",
+      "properties": {
+        "@id": "way/340572042",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.913054,
+            -27.3693106
+          ],
+          [
+            -55.9130163,
+            -27.3693147
+          ],
+          [
+            -55.9118952,
+            -27.3694367
+          ],
+          [
+            -55.9116543,
+            -27.369463
+          ],
+          [
+            -55.9111538,
+            -27.3695174
+          ],
+          [
+            -55.9107823,
+            -27.3695579
+          ],
+          [
+            -55.9105212,
+            -27.3695863
+          ],
+          [
+            -55.9092763,
+            -27.369723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/33113069",
+      "properties": {
+        "@id": "way/33113069",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.891104,
+            -27.3751583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/300039403",
+      "properties": {
+        "@id": "way/300039403",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8910713,
+            -27.3749223
+          ],
+          [
+            -55.8914549,
+            -27.3748804
+          ],
+          [
+            -55.8925199,
+            -27.3747642
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677071",
+      "properties": {
+        "@id": "way/318677071",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8925199,
+            -27.3747642
+          ],
+          [
+            -55.8933688,
+            -27.3746715
+          ],
+          [
+            -55.8935682,
+            -27.3746456
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/281746785",
+      "properties": {
+        "@id": "way/281746785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8935682,
+            -27.3746456
+          ],
+          [
+            -55.8934641,
+            -27.3738876
+          ],
+          [
+            -55.8934355,
+            -27.3736794
+          ],
+          [
+            -55.8933081,
+            -27.3727521
+          ],
+          [
+            -55.8932087,
+            -27.372028
+          ],
+          [
+            -55.8931785,
+            -27.3718081
+          ],
+          [
+            -55.8931249,
+            -27.3714183
+          ],
+          [
+            -55.89311,
+            -27.3713095
+          ],
+          [
+            -55.893091,
+            -27.3711711
+          ],
+          [
+            -55.8930499,
+            -27.3708722
+          ],
+          [
+            -55.892922,
+            -27.3699405
+          ],
+          [
+            -55.8927928,
+            -27.3690002
+          ],
+          [
+            -55.892665,
+            -27.3680695
+          ],
+          [
+            -55.8925973,
+            -27.3675763
+          ],
+          [
+            -55.8925945,
+            -27.3675562
+          ],
+          [
+            -55.8925908,
+            -27.3675293
+          ],
+          [
+            -55.8925357,
+            -27.3671279
+          ],
+          [
+            -55.8924089,
+            -27.3662045
+          ],
+          [
+            -55.8923032,
+            -27.3654351
+          ],
+          [
+            -55.8922824,
+            -27.3652839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/343918050",
+      "properties": {
+        "@id": "way/343918050",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9010017,
+            -27.3643271
+          ],
+          [
+            -55.9011279,
+            -27.3652529
+          ],
+          [
+            -55.9011406,
+            -27.365346
+          ],
+          [
+            -55.9012345,
+            -27.3660341
+          ],
+          [
+            -55.9012549,
+            -27.3661839
+          ],
+          [
+            -55.9013321,
+            -27.3667503
+          ],
+          [
+            -55.9013757,
+            -27.3670702
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489612",
+      "properties": {
+        "@id": "way/389489612",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8922824,
+            -27.3652839
+          ],
+          [
+            -55.8922312,
+            -27.3649108
+          ],
+          [
+            -55.8921536,
+            -27.3643456
+          ],
+          [
+            -55.8920511,
+            -27.3635992
+          ],
+          [
+            -55.8920272,
+            -27.3634252
+          ],
+          [
+            -55.8919627,
+            -27.3629558
+          ],
+          [
+            -55.8918979,
+            -27.3624842
+          ],
+          [
+            -55.8917926,
+            -27.3617169
+          ],
+          [
+            -55.8917659,
+            -27.3615227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262574908",
+      "properties": {
+        "@id": "way/262574908",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9016365,
+            -27.3689828
+          ],
+          [
+            -55.9016465,
+            -27.369056
+          ],
+          [
+            -55.901751,
+            -27.369823
+          ],
+          [
+            -55.9017582,
+            -27.3698756
+          ],
+          [
+            -55.9017637,
+            -27.369916
+          ],
+          [
+            -55.9017772,
+            -27.3700148
+          ],
+          [
+            -55.9018323,
+            -27.370419
+          ],
+          [
+            -55.9018476,
+            -27.3705303
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303107245",
+      "properties": {
+        "@id": "way/303107245",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013916,
+            -27.3671867
+          ],
+          [
+            -55.901401,
+            -27.3672558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489604",
+      "properties": {
+        "@id": "way/389489604",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9013757,
+            -27.3670702
+          ],
+          [
+            -55.9013916,
+            -27.3671867
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/389489606",
+      "properties": {
+        "@id": "way/389489606",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.901401,
+            -27.3672558
+          ],
+          [
+            -55.9015074,
+            -27.3680356
+          ],
+          [
+            -55.9015144,
+            -27.3680873
+          ],
+          [
+            -55.9015209,
+            -27.3681347
+          ],
+          [
+            -55.9016277,
+            -27.3689184
+          ],
+          [
+            -55.9016365,
+            -27.3689828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222782375",
+      "properties": {
+        "@id": "way/222782375",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004121,
+            -27.3603231
+          ],
+          [
+            -55.9004677,
+            -27.3603834
+          ],
+          [
+            -55.9004786,
+            -27.3604936
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/266510233",
+      "properties": {
+        "@id": "way/266510233",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900409,
+            -27.3605822
+          ],
+          [
+            -55.9004989,
+            -27.3606395
+          ],
+          [
+            -55.9006196,
+            -27.3615246
+          ],
+          [
+            -55.9006311,
+            -27.3616089
+          ],
+          [
+            -55.9007099,
+            -27.3621868
+          ],
+          [
+            -55.9008058,
+            -27.3628904
+          ],
+          [
+            -55.9008352,
+            -27.3631056
+          ],
+          [
+            -55.9008618,
+            -27.3633012
+          ],
+          [
+            -55.9008746,
+            -27.3633949
+          ],
+          [
+            -55.900941,
+            -27.3638799
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834479",
+      "properties": {
+        "@id": "way/268834479",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8959292,
+            -27.3607866
+          ],
+          [
+            -55.896986,
+            -27.3606726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/268834480",
+      "properties": {
+        "@id": "way/268834480",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.896986,
+            -27.3606726
+          ],
+          [
+            -55.8977428,
+            -27.360591
+          ],
+          [
+            -55.8980126,
+            -27.3605619
+          ],
+          [
+            -55.8987282,
+            -27.3604848
+          ],
+          [
+            -55.8990524,
+            -27.3604498
+          ],
+          [
+            -55.9000914,
+            -27.3603437
+          ],
+          [
+            -55.9001456,
+            -27.3603761
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318670147",
+      "properties": {
+        "@id": "way/318670147",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004786,
+            -27.3604936
+          ],
+          [
+            -55.9004421,
+            -27.3605553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/318677077",
+      "properties": {
+        "@id": "way/318677077",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9004421,
+            -27.3605553
+          ],
+          [
+            -55.900409,
+            -27.3605822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/392888631",
+      "properties": {
+        "@id": "way/392888631",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9001456,
+            -27.3603761
+          ],
+          [
+            -55.9002015,
+            -27.3603203
+          ],
+          [
+            -55.900316,
+            -27.3602918
+          ],
+          [
+            -55.9004121,
+            -27.3603231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396091327",
+      "properties": {
+        "@id": "way/396091327",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.9009444,
+            -27.3639056
+          ],
+          [
+            -55.9009474,
+            -27.3639285
+          ],
+          [
+            -55.9010017,
+            -27.3643271
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398639785",
+      "properties": {
+        "@id": "way/398639785",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.900941,
+            -27.3638799
+          ],
+          [
+            -55.9009444,
+            -27.3639056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350564",
+      "properties": {
+        "@id": "way/312350564",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.891727,
+            -27.3612396
+          ],
+          [
+            -55.8927816,
+            -27.3611259
+          ],
+          [
+            -55.8938376,
+            -27.3610121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/312350565",
+      "properties": {
+        "@id": "way/312350565",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8938376,
+            -27.3610121
+          ],
+          [
+            -55.8946695,
+            -27.3609224
+          ],
+          [
+            -55.8948647,
+            -27.3609013
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388760880",
+      "properties": {
+        "@id": "way/388760880",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8917659,
+            -27.3615227
+          ],
+          [
+            -55.891727,
+            -27.3612396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388541668",
+      "properties": {
+        "@id": "way/388541668",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8948647,
+            -27.3609013
+          ],
+          [
+            -55.8959292,
+            -27.3607866
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396316891",
+      "properties": {
+        "@id": "way/396316891",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8882306,
+            -27.382183
+          ],
+          [
+            -55.888373,
+            -27.3831706
+          ],
+          [
+            -55.8884003,
+            -27.3833598
+          ],
+          [
+            -55.8885108,
+            -27.3841262
+          ],
+          [
+            -55.888587,
+            -27.3846544
+          ],
+          [
+            -55.8886888,
+            -27.3853609
+          ],
+          [
+            -55.8887049,
+            -27.3854719
+          ],
+          [
+            -55.8887147,
+            -27.3855373
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/209114159",
+      "properties": {
+        "@id": "way/209114159",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8877116,
+            -27.3788337
+          ],
+          [
+            -55.8877082,
+            -27.3788103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/254607396",
+      "properties": {
+        "@id": "way/254607396",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8878861,
+            -27.3797941
+          ],
+          [
+            -55.8879553,
+            -27.3802741
+          ],
+          [
+            -55.888,
+            -27.3805838
+          ],
+          [
+            -55.8880911,
+            -27.3812158
+          ],
+          [
+            -55.8881054,
+            -27.3813149
+          ],
+          [
+            -55.8882306,
+            -27.382183
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/340696510",
+      "properties": {
+        "@id": "way/340696510",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8877506,
+            -27.378866
+          ],
+          [
+            -55.8878307,
+            -27.3794349
+          ],
+          [
+            -55.8878861,
+            -27.3797941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/394424688",
+      "properties": {
+        "@id": "way/394424688",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8877506,
+            -27.378866
+          ],
+          [
+            -55.8877116,
+            -27.3788337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/428458898",
+      "properties": {
+        "@id": "way/428458898",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 6371064,
+            "reltags": {
+              "colour": "yellow",
+              "from": "Hospital",
+              "name": "Línea 11: Hospital → Villa Cabello",
+              "ref": "11 H",
+              "route": "bus",
+              "to": "Villa Cabello",
+              "type": "route"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55.8877082,
+            -27.3788103
+          ],
+          [
+            -55.8877728,
+            -27.3788034
+          ]
+        ]
+      }
+    }
+  ]
+}
